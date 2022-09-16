@@ -1,13 +1,18 @@
 <h1 align="center">
-<b>OSINT of Everything</b></h1>
+<b>OSINT for Everything</b></h1>
 
 <p align="center">
 A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
 </p>
 
+<a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-
+<p align="center">
+	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
+	<a href="https://github.com/astrosp/osint-tools#FILE UPLOAD" target="_blank">File Upload</a>
+	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a>
 	
+ 	
 ## PRODUCTIVITY
     
 - [unfurl](https://dfir.blog/unfurl/)
