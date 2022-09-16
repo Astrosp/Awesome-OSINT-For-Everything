@@ -360,9 +360,9 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
     
 ## IDENTITY RESOLUTION
 
-- [Clearbit] [https://dashboard.clearbit.com/lookup](https://dashboard.clearbit.com/lookup)
-- [FullContact API] [https://dashboard.fullcontact.com/login](https://dashboard.fullcontact.com/login)
-- [Aeroleads.com] [https://aeroleads.com/](https://aeroleads.com/)
+- [Clearbit](https://dashboard.clearbit.com/lookup)
+- [FullContact API](https://dashboard.fullcontact.com/login)
+- [Aeroleads.com](https://aeroleads.com/)
     
 ## UNIFIED SEARCH
     
@@ -482,7 +482,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [carrier lookup](https://www.carrierlookup.com/)
 - [Free Reverse Phone Lookup](https://spydialer.com/default.aspx)
     
-## SOCIAL MEDIA
+# SOCIAL MEDIA
     
 - [Social Profiles Finder](https://www.social-searcher.com/search-users/)
 - [Who posted what?](https://whopostedwhat.com/)
@@ -648,12 +648,12 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
     
 ## INSTAGRAM
     
-- [Bibliogram [https://bib.actionsack.com/](https://bib.actionsack.com/)
-- [InstaHunt [https://instahunt.co/](https://instahunt.co/)
-- [Instagram Deep Photo Search Engine [https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy)
-- [Instagram analyzer and viewer [https://gramho.com/](https://gramho.com/)
-- [Find Instagram User ID [https://codeofaninja.com/tools/find-instagram-user-id/](https://codeofaninja.com/tools/find-instagram-user-id/)
-- [Instagram User ID [https://commentpicker.com/instagram-user-id.php](https://commentpicker.com/instagram-user-id.php)
+- [Bibliogram](https://bib.actionsack.com/)
+- [InstaHunt](https://instahunt.co/)
+- [Instagram Deep Photo Search Engine](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy)
+- [Instagram analyzer and viewer](https://gramho.com/)
+- [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)
+- [Instagram User ID](https://commentpicker.com/instagram-user-id.php)
 - [Searchmy.bio](https://www.searchmy.bio/)
 - [Statflux](http://statflux.com/)
 - [Gramsize.com](https://gramsize.com/)
@@ -761,7 +761,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [ReviewMeta](https://reviewmeta.com/)
 - [Verification Handbook](https://datajournalism.com/read/handbook/verification-1)
 - [Truth or Fiction](https://www.truthorfiction.com/)
-- Debunking False Stories Archives [https://www.factcheck.org/fake-news/](https://www.factcheck.org/fake-news/)
+- Debunking False Stories Archives](https://www.factcheck.org/fake-news/)
 - [Fact-Checking](https://reporterslab.org/fact-checking/)
     
 ## SEARCH ENGINES
@@ -779,7 +779,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [Mailing List Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq)
 - [swisscows](https://swisscows.com/)
 - [Crossref](https://search.crossref.org/)
-- [Brave](https://search.brave.com/](https://search.brave.com/)
+- [Brave](https://search.brave.com/)
 - [Mojeek](https://www.mojeek.com/)
 - [Yahoo Search](https://search.yahoo.com/)
 - [Baidu](https://www.baidu.com/)
@@ -1156,7 +1156,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
     
 - [RJSC Connect](https://rjsc.novascotia.ca/)
 - [Search for a Federal Corporation](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA)
-- [FederalCorporation [https://federalcorporation.ca/](https://federalcorporation.ca/)
+- [FederalCorporation](https://federalcorporation.ca/)
 - [Corporate Affairs Registry Database](https://www.pxw2.snb.ca/card_online/cardsearch.aspx)
 - [MRAS Business Registry Search](https://beta.canadasbusinessregistries.ca/search)
 - [Alberta Business Search](https://albertacorporations.com/)
@@ -1215,7 +1215,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [Active Agency Map](https://www.google.com/maps/d/viewer?mid=1eYVDPh5itXq5acDT9b0BVeQwmESBa4cB)
 - [Ontario GiveSendGo Donors](https://www.google.com/maps/d/viewer?mid=1heAgrb9bDuk287yqseyvhZ7-U_kz64hM)
 - [Live-action-map.com](https://www.live-action-map.com/)
-- awesome-maps-ukraine](https://github.com/Symbian9/awesome-maps-ukraine)
+- [awesome-maps-ukraine](https://github.com/Symbian9/awesome-maps-ukraine)
 - [Допомога](https://dopomoha.pl/)
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams)
 - [Ukraine War Map/Heatmap](https://ruarq.github.io/ukraine-war-heatmap)
@@ -1311,7 +1311,6 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [Iron March](https://bloopbase.keybase.pub/LEFTHOOK/IronMarch/index.html)
 - [4chansearch.org](https://4chansearch.org/)
 - [archived.moe](https://archived.moe/)
-- [8chan/8kun QResearch Board Search)
 - [Extremist Profiles](https://www.splcenter.org/fighting-hate/extremist-files/individual)
 - [Extremist Groups](https://www.splcenter.org/fighting-hate/extremist-files/groups)
 - [Database of suspected terrorists](https://www.nsatt.org/)
