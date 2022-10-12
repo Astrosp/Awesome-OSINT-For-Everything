@@ -6,10 +6,12 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 </p>
 
 
-<p align="center">
+<!---<p align="center">
 	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
 	<a href="https://github.com/astrosp/osint-tools#FILE UPLOAD" target="_blank">File Upload</a>
-	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a>
+	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
+--->	
+|| [Productivity](#productivity) || [File Upload](#file-upload) || [Toolset](#toolset) || [Search Engines](#search-engines) || [Whois](#whois) || [Source Codes](#source-codes) || [Domain / IP / DNS](#domain--ip--dns) || [Malware](#malware) || [Dataset](#dataset) || [Geo](#geo) || [IoT](#iot) || [Darknet](#darknet) || [Cryptocurrency](#cryptocurrency) || [Username](#username) || [Email](#email) || [Phone](#phone) || [Social Media](#social-media) || [Facebook](#facebook) || [Twitter](#twitter) || [Youtube](#youtube) || [Instagram](#instagram) || [Reddit](#reddit) || [LinkedIn](#linkedin) || [Google](#google) || [Discord](#discord) || [Twitch](#twitch) || [Telegram](#telegram) || [Snapchat](#snapchat) || [TikTok](#tiktok) || [Steam](#steam) || [Clubhouse](#clubhouse) || [Bot](#bot) || [Analysis](#analytics) || [Blog](#blog) || [Throwaway Contact](#throwaway-contact) || [ID Generator](#id-generator) || [Emulator](#emulator) || [Hash Recovery](#hash-recovery) || [Downloader](#downloader) || [Privacy / Security](#privacy--security) || [Secure Communication](#secure-communication) || [Resources](#resources) || [Threat Intel](#threat-intel) || [Identity Resolution](#identity-resolution) || [People](#people) || [Google CSE](#google-cse) || [Radio](#radio) || [Open Directory](#open-directory) || [Maps](#maps) || [Data Dump](#data-dump) || [Informant](#informant) || [Public Record](#public-records) || [Government](#government) ||
 
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
  	
