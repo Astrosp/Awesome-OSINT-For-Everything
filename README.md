@@ -17,34 +17,36 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
  	
 ## PRODUCTIVITY
     
-- [unfurl](https://dfir.blog/unfurl/)
-- [Wolfram|Alpha](https://www.wolframalpha.com/)
-- [Cryptpad.fr](https://cryptpad.fr/)
-- [Recontool.org](https://recontool.org/)
-- [MindMup 2](https://app.mindmup.com/map/new)
-- [Dotspotter](https://www.forensicdots.de/)
-- [Encrypted Pastebin](https://defuse.ca/pastebin.htm)
-- [PrivateBin](https://privatebin.net/)
-- [Bin.disroot.org](https://bin.disroot.org/)
-- [Framadrop](https://framadrop.org/en/)
-- [Pad.riseup.net](https://pad.riseup.net/)
-- [EtherCalc](https://ethercalc.net/)
-- [Proofread Bot](https://proofreadbot.com/)
-- [Write.as](https://write.as/)
-- [Cryptee](https://crypt.ee/)
-- [dudle](https://dudle.inf.tu-dresden.de/anonymous/)
-- [Airborn.io](https://www.airborn.io/)
-- [ZOOM URL Generator](https://skyzh.github.io/zoom-url-generator/)
-- [Tor2web](https://www.tor2web.org/)
-- [archive.is](https://archive.is/)
-- [Wayback Machine](https://web.archive.org/)
-- [waybackpy](https://pypi.org/project/waybackpy/)
-- [CachedPages](http://www.cachedpages.com/)
-- [Google Cached Pages of Any Website](https://cachedview.com/)
-- [Oldweb.today](http://oldweb.today/)
-- [Unpaywall](https://unpaywall.org/products/extension)
-- [DeepL](https://www.deepl.com/translator)
-- [Project CSV](https://projectcsv.github.io/)
+- [unfurl](https://dfir.blog/unfurl/) - Unflurl url 
+- [Wolfram|Alpha](https://www.wolframalpha.com/) - solve mathematical Equations
+- [Cryptpad.fr](https://cryptpad.fr/) - Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite. Administered by the CryptPad development team.
+- [Recontool.org](https://recontool.org/) - Recon tools
+- [MindMup 2](https://app.mindmup.com/map/new) - Create MindMap online
+- [Dotspotter](https://www.forensicdots.de/) - Discover the tracking dots on a scanned document. Upload an image (600 dpi) of your print out. Dottspotter will try to detect the yellow dot code (MIC)
+- [Encrypted Pastebin](https://defuse.ca/pastebin.htm) - Pre-Internet Encryption for Text
+- [PrivateBin](https://privatebin.net/) - PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data
+- [Bin.disroot.org](https://bin.disroot.org/) - same as PrivateBin
+- [~~Framadrop~~](https://framadrop.org/en/) - <font color=red>site closed</font>
+- [Pad.riseup.net](https://pad.riseup.net/) - Etherpad is a software libre web application that allows for real-time group collaboration of text documents. Riseup does not store IP addresses, we require https, and pads are automatically destroyed after 60 days of inactivity
+- [EtherCalc](https://ethercalc.net/) - 
+EtherCalc is a web spreadsheet.
+- [Proofread Bot](https://proofreadbot.com/) - Proofread Bot gives you unlimited simple punctuation, style and grammar checks. For advanced checks (including plagiarism, comma splices, tenses....) 
+- [Write.as](https://write.as/) - Write.as is the easiest way to publish your writing on the web
+- [Cryptee](https://crypt.ee/) - A private home for all your digital belongings
+- [dudle](https://dudle.inf.tu-dresden.de/anonymous/) - Create Poll
+- [Airborn.io](https://www.airborn.io/) - Create encrypted documents
+- [ZOOM URL Generator](https://skyzh.github.io/zoom-url-generator/) - Create Zoom meeting url
+- [Tor2web](https://www.tor2web.org/) - Tor is a software project that lets you anonymously browse the Internet. Tor2web is a project to let Internet users access Tor Onion Services without using Tor Browser
+- [archive.is](https://archive.is/) - Archive.today is a time capsule for web pages!
+It takes a 'snapshot' of a webpage that will always be online even if the original page disappears
+- [Wayback Machine](https://web.archive.org/) - Internet archive of everything
+- [waybackpy](https://pypi.org/project/waybackpy/) - Python package that interfaces with the Internet Archive's Wayback Machine APIs. Archive pages and retrieve archived pages easily.
+- [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
+- [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet
+- [Oldweb.today](http://oldweb.today/) - see old web browser
+- [Unpaywall](https://unpaywall.org/products/extension) -  Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal
+- [DeepL](https://www.deepl.com/translator) - DeepL translate
+- [Project CSV](https://projectcsv.github.io/) - 
 - [CSV to HTML](https://codepen.io/RYJASM/pen/LVEWgV)
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/playground.html)
 - [Online FlowChart Editor](https://mermaid-js.github.io/mermaid-live-editor/)
