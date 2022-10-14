@@ -46,36 +46,37 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Oldweb.today](http://oldweb.today/) - see old web browser
 - [Unpaywall](https://unpaywall.org/products/extension) -  Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal
 - [DeepL](https://www.deepl.com/translator) - DeepL translate
-- [Project CSV](https://projectcsv.github.io/) - 
-- [CSV to HTML](https://codepen.io/RYJASM/pen/LVEWgV)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/playground.html)
-- [Online FlowChart Editor](https://mermaid-js.github.io/mermaid-live-editor/)
-- [Markdown Editor](https://markdown-editor.github.io/)
-- [SQL Editor](https://www.mycompiler.io/new/sql)
-- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
-- [OCR Text Extractor](https://osint.sh/ocr/)
-- [Wetranscriber](https://www.wetranscriber.com/)
-- [Tophonetics.com](https://tophonetics.com/)
-- [Google Translate](https://translate.google.com/)
+- [Project CSV](https://projectcsv.github.io/) - view/modify csv files
+- [CSV to HTML](https://codepen.io/RYJASM/pen/LVEWgV) - convert csv file to html
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/playground.html) - Online IDE
+- [Online FlowChart Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [Markdown Editor](https://markdown-editor.github.io/) - Markdown editor
+- [SQL Editor](https://www.mycompiler.io/new/sql) - sql editor
+- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - drop sqlite file and view content, sqlite viewer
+- [OCR Text Extractor](https://osint.sh/ocr/) - OCR text extractor from png, jpeg, webp and pdf
+- [Wetranscriber](https://www.wetranscriber.com/) - A free, simple and efficient transcription platform for individuals or teams
+- [Tophonetics.com](https://tophonetics.com/) - This online converter of English text to IPA phonetic transcription will translate your English text into its phonetic transcription using the International Phonetic Alphabet.
+- [Google Translate](https://translate.google.com/) - Google Translator
 - [Multi Translate](https://translate.mix.pink/)
-- [Yandex.Translate](https://translate.yandex.com/)
-- [Bing Microsoft Translator](https://www.bing.com/translator)
-- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN)
-- [Translate](https://www.translatedict.com/)
-- [text to speech online](https://www.naturalreaders.com/online/)
-- [TTSReader](https://ttsreader.com/)
-- [Online Sequencer](https://onlinesequencer.net/)
-- [FetchRSS](https://fetchrss.com/)
-- [Sci-hub](https://sci-hub.st/)
-- [Libgen.fun](https://libgen.fun/)
-- [Z-lib.org](https://z-lib.org/)
-- [PDF Drive](https://www.pdfdrive.com/)
-- [arXiv.org](https://arxiv.org/)
-- [bioRxiv.org](https://www.biorxiv.org/)
-- [Project Gutenberg](https://www.gutenberg.org/)
-- [Trantor.is](https://trantor.is/)
-- [Shadowlibraries.github.io](https://shadowlibraries.github.io/)
-- [Editor.typely.com](https://editor.typely.com/)
+- [Yandex.Translate](https://translate.yandex.com/) - translator from yandex
+- [Bing Microsoft Translator](https://www.bing.com/translator) - translator from microsoft
+- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 15+ languages
+including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Polish
+- [Translate](https://www.translatedict.com/) - 
+- [text to speech online](https://www.naturalreaders.com/online/) - text to speech translator online
+- [TTSReader](https://ttsreader.com/) - Read out loud webpages, texts, pdf's and ebooks with natural sounding voices
+- [Online Sequencer](https://onlinesequencer.net/) - is an online music sequencer. Make tunes in your browser and share them with friends
+- [FetchRSS](https://fetchrss.com/) - generate RSS out of anything
+- [Sci-hub](https://sci-hub.st/) - the first pirate website in the world to provide mass and public access to tens of millions of research papers
+- [Libgen.fun](https://libgen.fun/) - Free Book site to download
+- [Z-lib.org](https://b-ok.asia/) - The world's largest ebook library 
+- [PDF Drive](https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
+- [arXiv.org](https://arxiv.org/) - arXiv is a free distribution service and an open-access archive for 2,142,712 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics
+- [bioRxiv.org](https://www.biorxiv.org/) - The preprint server for biology
+- [Project Gutenberg](https://www.gutenberg.org/) - Gutenberg is a library of over 60,000 free eBooks
+- [Trantor.is](https://trantor.is/) - There are 1479512 books on the library.
+- [Shadowlibraries.github.io](https://shadowlibraries.github.io/) - A Pirate Library Archive 
+- [Editor.typely.com](https://editor.typely.com/) - Free online proofreading and essay editor
     
  ## FILE UPLOAD
     
