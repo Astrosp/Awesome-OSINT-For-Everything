@@ -17,63 +17,66 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
  	
 ## PRODUCTIVITY
     
-- [unfurl](https://dfir.blog/unfurl/)
-- [Wolfram|Alpha](https://www.wolframalpha.com/)
-- [Cryptpad.fr](https://cryptpad.fr/)
-- [Recontool.org](https://recontool.org/)
-- [MindMup 2](https://app.mindmup.com/map/new)
-- [Dotspotter](https://www.forensicdots.de/)
-- [Encrypted Pastebin](https://defuse.ca/pastebin.htm)
-- [PrivateBin](https://privatebin.net/)
-- [Bin.disroot.org](https://bin.disroot.org/)
-- [Framadrop](https://framadrop.org/en/)
-- [Pad.riseup.net](https://pad.riseup.net/)
-- [EtherCalc](https://ethercalc.net/)
-- [Proofread Bot](https://proofreadbot.com/)
-- [Write.as](https://write.as/)
-- [Cryptee](https://crypt.ee/)
-- [dudle](https://dudle.inf.tu-dresden.de/anonymous/)
-- [Airborn.io](https://www.airborn.io/)
-- [ZOOM URL Generator](https://skyzh.github.io/zoom-url-generator/)
-- [Tor2web](https://www.tor2web.org/)
-- [archive.is](https://archive.is/)
-- [Wayback Machine](https://web.archive.org/)
-- [waybackpy](https://pypi.org/project/waybackpy/)
-- [CachedPages](http://www.cachedpages.com/)
-- [Google Cached Pages of Any Website](https://cachedview.com/)
-- [Oldweb.today](http://oldweb.today/)
-- [Unpaywall](https://unpaywall.org/products/extension)
-- [DeepL](https://www.deepl.com/translator)
-- [Project CSV](https://projectcsv.github.io/)
-- [CSV to HTML](https://codepen.io/RYJASM/pen/LVEWgV)
-- [Monaco Editor](https://microsoft.github.io/monaco-editor/playground.html)
-- [Online FlowChart Editor](https://mermaid-js.github.io/mermaid-live-editor/)
-- [Markdown Editor](https://markdown-editor.github.io/)
-- [SQL Editor](https://www.mycompiler.io/new/sql)
-- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)
-- [OCR Text Extractor](https://osint.sh/ocr/)
-- [Wetranscriber](https://www.wetranscriber.com/)
-- [Tophonetics.com](https://tophonetics.com/)
-- [Google Translate](https://translate.google.com/)
+- [unfurl](https://dfir.blog/unfurl/) - Unflurl url 
+- [Wolfram|Alpha](https://www.wolframalpha.com/) - solve mathematical Equations
+- [Cryptpad.fr](https://cryptpad.fr/) - Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite. Administered by the CryptPad development team.
+- [Recontool.org](https://recontool.org/) - Recon tools
+- [MindMup 2](https://app.mindmup.com/map/new) - Create MindMap online
+- [Dotspotter](https://www.forensicdots.de/) - Discover the tracking dots on a scanned document. Upload an image (600 dpi) of your print out. Dottspotter will try to detect the yellow dot code (MIC)
+- [Encrypted Pastebin](https://defuse.ca/pastebin.htm) - Pre-Internet Encryption for Text
+- [PrivateBin](https://privatebin.net/) - PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data
+- [Bin.disroot.org](https://bin.disroot.org/) - same as PrivateBin
+- [~~Framadrop~~](https://framadrop.org/en/) - <font color=red>site closed</font>
+- [Pad.riseup.net](https://pad.riseup.net/) - Etherpad is a software libre web application that allows for real-time group collaboration of text documents. Riseup does not store IP addresses, we require https, and pads are automatically destroyed after 60 days of inactivity
+- [EtherCalc](https://ethercalc.net/) - 
+EtherCalc is a web spreadsheet.
+- [Proofread Bot](https://proofreadbot.com/) - Proofread Bot gives you unlimited simple punctuation, style and grammar checks. For advanced checks (including plagiarism, comma splices, tenses....) 
+- [Write.as](https://write.as/) - Write.as is the easiest way to publish your writing on the web
+- [Cryptee](https://crypt.ee/) - A private home for all your digital belongings
+- [dudle](https://dudle.inf.tu-dresden.de/anonymous/) - Create Poll
+- [Airborn.io](https://www.airborn.io/) - Create encrypted documents
+- [ZOOM URL Generator](https://skyzh.github.io/zoom-url-generator/) - Create Zoom meeting url
+- [Tor2web](https://www.tor2web.org/) - Tor is a software project that lets you anonymously browse the Internet. Tor2web is a project to let Internet users access Tor Onion Services without using Tor Browser
+- [archive.is](https://archive.is/) - Archive.today is a time capsule for web pages!
+It takes a 'snapshot' of a webpage that will always be online even if the original page disappears
+- [Wayback Machine](https://web.archive.org/) - Internet archive of everything
+- [waybackpy](https://pypi.org/project/waybackpy/) - Python package that interfaces with the Internet Archive's Wayback Machine APIs. Archive pages and retrieve archived pages easily.
+- [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
+- [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet
+- [Oldweb.today](http://oldweb.today/) - see old web browser
+- [Unpaywall](https://unpaywall.org/products/extension) -  Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal
+- [DeepL](https://www.deepl.com/translator) - DeepL translate
+- [Project CSV](https://projectcsv.github.io/) - view/modify csv files
+- [CSV to HTML](https://codepen.io/RYJASM/pen/LVEWgV) - convert csv file to html
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/playground.html) - Online IDE
+- [Online FlowChart Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+- [Markdown Editor](https://markdown-editor.github.io/) - Markdown editor
+- [SQL Editor](https://www.mycompiler.io/new/sql) - sql editor
+- [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - drop sqlite file and view content, sqlite viewer
+- [OCR Text Extractor](https://osint.sh/ocr/) - OCR text extractor from png, jpeg, webp and pdf
+- [Wetranscriber](https://www.wetranscriber.com/) - A free, simple and efficient transcription platform for individuals or teams
+- [Tophonetics.com](https://tophonetics.com/) - This online converter of English text to IPA phonetic transcription will translate your English text into its phonetic transcription using the International Phonetic Alphabet.
+- [Google Translate](https://translate.google.com/) - Google Translator
 - [Multi Translate](https://translate.mix.pink/)
-- [Yandex.Translate](https://translate.yandex.com/)
-- [Bing Microsoft Translator](https://www.bing.com/translator)
-- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN)
-- [Translate](https://www.translatedict.com/)
-- [text to speech online](https://www.naturalreaders.com/online/)
-- [TTSReader](https://ttsreader.com/)
-- [Online Sequencer](https://onlinesequencer.net/)
-- [FetchRSS](https://fetchrss.com/)
-- [Sci-hub](https://sci-hub.st/)
-- [Libgen.fun](https://libgen.fun/)
-- [Z-lib.org](https://z-lib.org/)
-- [PDF Drive](https://www.pdfdrive.com/)
-- [arXiv.org](https://arxiv.org/)
-- [bioRxiv.org](https://www.biorxiv.org/)
-- [Project Gutenberg](https://www.gutenberg.org/)
-- [Trantor.is](https://trantor.is/)
-- [Shadowlibraries.github.io](https://shadowlibraries.github.io/)
-- [Editor.typely.com](https://editor.typely.com/)
+- [Yandex.Translate](https://translate.yandex.com/) - translator from yandex
+- [Bing Microsoft Translator](https://www.bing.com/translator) - translator from microsoft
+- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 15+ languages
+including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Polish
+- [Translate](https://www.translatedict.com/) - 
+- [text to speech online](https://www.naturalreaders.com/online/) - text to speech translator online
+- [TTSReader](https://ttsreader.com/) - Read out loud webpages, texts, pdf's and ebooks with natural sounding voices
+- [Online Sequencer](https://onlinesequencer.net/) - is an online music sequencer. Make tunes in your browser and share them with friends
+- [FetchRSS](https://fetchrss.com/) - generate RSS out of anything
+- [Sci-hub](https://sci-hub.st/) - the first pirate website in the world to provide mass and public access to tens of millions of research papers
+- [Libgen.fun](https://libgen.fun/) - Free Book site to download
+- [Z-lib.org](https://b-ok.asia/) - The world's largest ebook library 
+- [PDF Drive](https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
+- [arXiv.org](https://arxiv.org/) - arXiv is a free distribution service and an open-access archive for 2,142,712 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics
+- [bioRxiv.org](https://www.biorxiv.org/) - The preprint server for biology
+- [Project Gutenberg](https://www.gutenberg.org/) - Gutenberg is a library of over 60,000 free eBooks
+- [Trantor.is](https://trantor.is/) - There are 1479512 books on the library.
+- [Shadowlibraries.github.io](https://shadowlibraries.github.io/) - A Pirate Library Archive 
+- [Editor.typely.com](https://editor.typely.com/) - Free online proofreading and essay editor
     
  ## FILE UPLOAD
     
