@@ -69,7 +69,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [FetchRSS](https://fetchrss.com/) - generate RSS out of anything
 - [Sci-hub](https://sci-hub.st/) - the first pirate website in the world to provide mass and public access to tens of millions of research papers
 - [Libgen.fun](https://libgen.fun/) - Free Book site to download
-- [Z-lib.org](https://b-ok.asia/) - The world's largest ebook library 
+- [Z-lib.org](https://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion.pet/) - The world's largest ebook library 
 - [PDF Drive](https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
 - [arXiv.org](https://arxiv.org/) - arXiv is a free distribution service and an open-access archive for 2,142,712 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics
 - [bioRxiv.org](https://www.biorxiv.org/) - The preprint server for biology
@@ -206,11 +206,11 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Md5 Decrypt & Encrypt](https://md5decrypt.net/en/)
 - [MD5 reverse lookup](https://md5.gromweb.com/)
 - [Ultimate Hashing](https://md5hashing.net/)
-- [Hashes.org](https://hashes.org/search.php)
+- ~[Hashes.org](https://hashes.org/search.php)~ Dead!
     
  ## DOWNLOADER
     
-- [youtube-dl](https://ytdl.actionsack.com/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [Media-downloader.net](https://media-downloader.net/)
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/)
 - [Export Comments](https://exportcomments.com/)
