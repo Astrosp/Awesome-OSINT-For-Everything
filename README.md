@@ -206,11 +206,11 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Md5 Decrypt & Encrypt](https://md5decrypt.net/en/)
 - [MD5 reverse lookup](https://md5.gromweb.com/)
 - [Ultimate Hashing](https://md5hashing.net/)
-- [Hashes.org](https://hashes.org/search.php)
+- ~[Hashes.org](https://hashes.org/search.php)~ Dead!
     
  ## DOWNLOADER
     
-- [youtube-dl](https://ytdl.actionsack.com/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [Media-downloader.net](https://media-downloader.net/)
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/)
 - [Export Comments](https://exportcomments.com/)
