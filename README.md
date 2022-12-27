@@ -92,44 +92,44 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
     
 ## TOOLSET
     
-- [CyberChef](https://gchq.github.io/CyberChef/)
-- [mitaka](https://github.com/ninoseki/mitaka)
-- [pywhat](https://pypi.org/project/pywhat/)
-- [theHarvester](https://pypi.org/project/theHarvester/)
-- [Online Tools](https://emn178.github.io/online-tools/)
-- [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/)
-- [CodePen](https://codepen.io/)
-- [Diceware Generator](https://www.rempe.us/diceware/#eff)
-- [Checkphish.ai](https://checkphish.ai/)
-- [x86 and x64 Intel Assembler](https://defuse.ca/online-x86-assembler.htm)
-- [Big Number Calculator](https://defuse.ca/big-number-calculator.htm)
-- [Text and File Hash Calculator](https://defuse.ca/checksums.htm)
-- [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm)
-- [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/)
-- [ODA - The Online Disassembler](https://onlinedisassembler.com/odaweb/)
-- [Disasm.pro](https://disasm.pro/)
-- [Fotor](https://www.fotor.com/photo-editor-app/editor/basic)
-- [Decompiler.com](http://www.decompiler.com/)
-- [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
-- [Compiler Explorer](https://godbolt.org/)
-- [HTML editor](https://onlinehtmleditor.dev/)
-- [Online Color Picker](https://colorpicker.me/)
-- [Convert text to image file](https://text2image.com/en/)
-- [relational algebra calculator](https://dbis-uibk.github.io/relax/calc/local/uibk/local/0)
-- [Data Structure : Infix Postfix Prefix - Converter & Evaluator](https://raj457036.github.io/Simple-Tools/prefixAndPostfixConvertor.html)
-- [RSA encryption, decryption and prime calculator](https://canihavesomecoffee.github.io/js-rsa-tool/)
-- [Tools.digitalmethods.net](https://tools.digitalmethods.net/beta/searchEngineScraper/)
-- [Steganography Online](https://stylesuxx.github.io/steganography/)
-- [Torrent to Magnet](https://nutbread.github.io/t2m/)
-- [Anonymous YouTube Playlists](https://neverducky.github.io/anonymous-youtube-playlists/)
-- [Vega Editor](https://vega.github.io/editor/#/)
-- [DISA Code Template Generator](https://duncanford.github.io/disa-code-generator)
-- [Canary Tokens](http://canarytokens.org/generate)
-- [explainshell.com](https://explainshell.com/)
-- [Google Colaboratory](https://colab.research.google.com/)
-- [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/)
-- [Wifispc.com](https://wifispc.com/)
-- [Wiman](https://www.wiman.me/)
+- [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
+- [mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
+- [pywhat](https://pypi.org/project/pywhat/) - The easiest way to identify anything
+- [theHarvester](https://pypi.org/project/theHarvester/) - theHarvester is a very simple, yet effective tool designed to be used in the early stages of a penetration test. Use it for open source intelligence gathering and helping to determine a company's external threat landscape on the internet. The tool gathers emails, names, subdomains, IPs, and URLs using multiple public data sources
+- [Online Tools](https://emn178.github.io/online-tools/) - A tool to encode,decode,hash,file hash etc.
+- [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/) - create svg graph
+- [CodePen](https://codepen.io/) - CodePen is a social development environment. At its heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating online code editor for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.
+- [Diceware Generator](https://www.rempe.us/diceware/#eff) - Diceware is used to generate cryptographically strong passphrases. Don't let that frighten you away though, a passphrase is just a password made of words you can remember.
+- [Checkphish.ai](https://checkphish.ai/) - Free URL scanner to detect phishing and fraudulent sites
+- [x86 and x64 Intel Assembler](https://defuse.ca/online-x86-assembler.htm) - This tool takes x86 or x64 assembly instructions and converts them to their binary representation (machine code). It can also go the other way, taking a hexadecimal string of machine code and transforming it into a human-readable representation of the instructions. It uses GCC and objdump behind the scenes.
+- [Big Number Calculator](https://defuse.ca/big-number-calculator.htm) - Online big number calculator.
+- [Text and File Hash Calculator](https://defuse.ca/checksums.htm) - This page lets you hash ASCII text or a file with many different hash algorithms. Checksums are commonly used to verify the integrety of data. The most common use is to verify that a file has been downloaded without error. The data you enter here is 100% private, neither the data nor hash values are ever recorded.
+- [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm) - This tool will take your text and convert all the special characters to their proper HTML codes, so you can paste text with special characters or HTML code onto your website. It has been carefully designed so that the HTML produced by this tool looks and behaves exactly like the original text does in a text editor
+- [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/) - encode/decode URL in url form.
+- [ODA - The Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don’t have the time, resources, or requirements to use a heavier-weight alternative. Explore executables by dissecting its sections, strings, symbols, raw hex and machine level instructions.
+- [Disasm.pro](https://disasm.pro/) - A realtime assembler/disassembler (formerly known as disasm.ninja) 
+- [Fotor](https://www.fotor.com/photo-editor-app/editor/basic) - Online image editor remove bg, crop, edit...
+- [Decompiler.com](http://www.decompiler.com/) - online decompiler for java, apk, lua ....
+- [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) - Colab, or "Colaboratory", allows you to write and execute Python in your browser, with Zero configuration required Access to GPUs free of charge Easy sharing.
+- [Compiler Explorer](https://godbolt.org/) - Run compilers interactively from your web browser and interact with the assembly
+- [HTML editor](https://onlinehtmleditor.dev/) - Online HTML editor
+- [Online Color Picker](https://colorpicker.me/) - Online color picker in HSL, Hex code, RGB, HSV
+- [Convert text to image file](https://text2image.com/en/) - Generate online free an image from text (words) you supply. Then download your image file or link to it on our system. You can have text up to 500 characters; size (width/height): between 10 and 1500 pixels; format: one of several popular formats - GIF, JPEG or PNG; font: the size of your letters in a range from 6pt to 54pt (6 point to 54 point); colors: the forecolor (color of the letters in your text) and backcolor (background color behind the letters)
+- [relational algebra calculator](https://dbis-uibk.github.io/relax/calc/local/uibk/local/0) - If you want to learn SQL you take a database system and try some queries. But if you want to learn relational algebra what do you use? Pen and paper? The relational algebra calculator helps you learn relational algebra (RelAlg) by executing it.
+- [Data Structure : Infix Postfix Prefix - Converter & Evaluator](https://raj457036.github.io/Simple-Tools/prefixAndPostfixConvertor.html) - This is a simple infix to prefix or postfix Converter.
+- [RSA encryption, decryption and prime calculator](https://canihavesomecoffee.github.io/js-rsa-tool/) - RSA encryption, decryption and prime calculator
+- [Tools.digitalmethods.net](https://tools.digitalmethods.net/beta/searchEngineScraper/) - The Search Engine Scraper allows you to scrape the search results for a given search query, and has as output a list of results the search engine returned for the query
+- [Steganography Online](https://stylesuxx.github.io/steganography/) - Steganography is a process which can encode message in image. In this site just upload a image then enter a text and hit encode to encode message. 
+- [Torrent to Magnet](https://nutbread.github.io/t2m/) - Convert .torrent file to magnet URI's just drop the file
+- [Anonymous YouTube Playlists](https://neverducky.github.io/anonymous-youtube-playlists/) - A simple tool for generating a YouTube playlist that isn't tied to an account
+- [Vega Editor](https://vega.github.io/editor/#/) - create pie, charts and more through your browser
+- [DISA Code Template Generator](https://duncanford.github.io/disa-code-generator) - To purpose of this generator is to quickly create the content for all the separate five files you need to create a template DISA integration. Almost everything can be keyed from a single name: the name of the plugin
+- [Canary Tokens](http://canarytokens.org/generate) -You'll be familiar with web bugs, the transparent images which track when someone opens an email. They work by embedding a unique URL in a page's image tag, and monitoring incoming GET requests. Canarytokens helps track activity and actions on your network.
+- [explainshell.com](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+- [ShowTheDocs](http://showthedocs.com/) - showthedocs is a documentation browser that finds the relevant docs for your code. It works by parsing the code and connecting parts of it to their explanation in the docs
+- [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/) - OSINT cli tool skeleton
+- [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
+- [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
 
 
 ## THROWAWAY CONTACT
