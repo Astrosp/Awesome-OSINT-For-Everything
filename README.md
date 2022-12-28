@@ -132,23 +132,22 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
 
 
-## THROWAWAY CONTACT
+## THROWAWAY CONTACT/Temporary contact
 
 - [10minutemail.com](https://10minutemail.com/) - Disposable mail for 10 min.
-- [AnonAddy](https://anonaddy.com/) - 
-- [SimpleLogin](https://simplelogin.io/) - d
-- [MailDrop](https://maildrop.cc/) - 
-- [Send text free](https://globfone.com/send-text/) - 
-- [SendaText](https://www.sendatext.co/) - 
-- [Free Fax](https://faxzero.com/) -
-- [Receive SMS Online](http://receive-sms-online.com/) -
-- [Receive-sms-now.com](http://receive-sms-now.com/) -
-- [Receive SMS Online](https://hs3x.com/) -
-- [Receive SMS Online for FREE](http://freesmsverification.com/) -
-- [Smstome.com](https://smstome.com/) -
-- [Amazon SNS](https://aws.amazon.com/sns/) -
-- [Twilio](https://www.twilio.com/) -
-- [One-time Mobile by @OsintStash](https://threader.app/thread/1199785692274077696) -
+- [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part Its OpenSource
+- [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously
+- [MailDrop](https://maildrop.cc/) - Save your inbox from spam. Use Maildrop when you don't want to give out your real address No signup required - Maildrop is free for anyone to use when you need a quick, disposable email address.
+- [Send text free](https://globfone.com/send-text/) - Send text online without worrying about phone bills. Free SMS to hundreds of GSM operators worldwide
+- [SendaText](https://www.sendatext.co/) - SENDaTEXT allows you to send free text and SMS from your computer or smartphone. All you need to use SENDaTEXT is a standard web browser and internet. You can now send free text online from your computer or smartphone. No need to sign up. No need to make any payment. Send a text now!
+- [Free Fax](https://faxzero.com/) -Send faxes for free to anywhere in the U.S. and Canada Or, Send an International Fax
+- [Receive SMS Online](http://receive-sms-online.com/) - On this site you will find some numbers you can send SMS text messages to and the messages will show up on the web.
+- [Receive-sms-now.com](http://receive-sms-now.com/) - 
+- [Receive SMS Online](https://hs3x.com/) - receive sms online
+- [Receive SMS Online for FREE](http://freesmsverification.com/) - Free SMS Verification Receive SMS Online Verify your SMS received from any place in the World. The messages will show up on the webpage.
+- [Smstome.com](https://smstome.com/) - Virtual Temporary and Disposable Phone Numbers
+- [Amazon SNS](https://aws.amazon.com/sns/) - Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email. 
+- [Twilio](https://www.twilio.com/) - api for sms services
     
 ## ID GENERATOR
     
