@@ -151,39 +151,39 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
     
 ## ID GENERATOR
     
-- [Username Generator](https://www.lastpass.com/features/username-generator) -
-- [Fake Name Generator](https://www.fakenamegenerator.com/) -
-- [Resume Generator](https://thisresumedoesnotexist.com/) -
-- [International Name Generator](https://www.behindthename.com/random/)
-- [Windows Phone IMEI Generator](https://wpimeigenerator.github.io/)
-- [IMEI Number Generator](https://dyrk.org/tools/imei/)
-- [US SSN / Driver License / State ID / Passport / Tax ID Generator](https://www.elfqrin.com/usssndriverlicenseidgen.php)
-- [Washington State Driver’s License Generator](https://mmarvick.github.io/wa-drivers-license/)
-- [Fake Drivers License Generator](https://fakeinfo.net/drivers-license-generator)
-- [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/)
-- [Face Photo Generator](https://thispersondoesnotexist.com/)
-- [Random Face Generator](https://fakeinfo.net/random-face-generator)
-- [Credit Card Generator](https://www.fakenamegenerator.com/credit-card-validator.php)
-- [PIC/CIC Code Database](https://www.allredtech.com/)
-- [SIN Generator](https://www.fakenamegenerator.com/social-insurance-number.php)
-- [ABA Generator](https://www.fakenamegenerator.com/aba-validator.php)
-- [VIN Generator](https://www.fakenamegenerator.com/vehicle-identification-number.php)
-- [NINO Generator](https://www.fakenamegenerator.com/national-insurance-number.php)
-- [SSN Generator](https://www.fakenamegenerator.com/social-security-number.php)
-- [IID Generator by Georgy Bunin](https://georgybu.github.io/IID_Generator/)
-- [GUID/UUID and short GUID generator](https://richardkundl.github.io/shortguid/)
-- [Nano ID CC](https://zelark.github.io/nano-id-cc/)
-- [Generate SA ID Numbers](https://chris927.github.io/generate-sa-idnumbers/)
-- [Decoding Social Security Numbers](https://stevemorse.org/ssn/ssn.html)
-- [Encoding and Decoding Driver’s License Numbers](https://stevemorse.org/dl/dl.html)
-- [Dating Profile Generator](https://www.dating-profile-generator.org.uk/)
-- [Fake Identity ID Random Name Generator](https://www.elfqrin.com/fakeid.php)
-- [Fake Company Name Generator](https://fakeinfo.net/company-name-generator)
-- [Twitter Profile Generator](https://fakeinfo.net/fake-twitter-profile-generator)
-- [Fake Tiktok Profile Generator](https://fakeinfo.net/fake-tiktok-profile-gererator)
-- [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator)
-- [Resume Builder](https://vinaysomawat.github.io/Resume-Builder/)
-- [Fake Generator Tools](https://fauxid.com/tools)
+- [Username Generator](https://www.lastpass.com/features/username-generator) - Random username generator tool
+- [Fake Name Generator](https://www.fakenamegenerator.com/) - Randomly Generated Identity
+- [Resume Generator](https://thisresumedoesnotexist.com/) - With this AI resume generator, we wanted you to try and see best resumes you can ever think of building. The AI often goes haywire when writing a resume content - both credit and criticism goes to TextgenRNN.
+- [International Name Generator](https://www.behindthename.com/random/) - random name generator
+- [Windows Phone IMEI Generator](https://wpimeigenerator.github.io/) - Windows Phone IMEI Generator
+- [IMEI Number Generator](https://dyrk.org/tools/imei/) - fake IMEI number generator
+- [US SSN / Driver License / State ID / Passport / Tax ID Generator](https://www.elfqrin.com/usssndriverlicenseidgen.php) - US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator
+- [Washington State Driver’s License Generator](https://mmarvick.github.io/wa-drivers-license/) - Washington State Driver's License Generator
+- [Fake Drivers License Generator](https://fakeinfo.net/drivers-license-generator) - Get a false authorized Driver's License to fool your college friends and gain popularity using the Fake Driver License Generator. Use this tool for legal purposes only until you get an original one
+- [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/) - Rental Does not Exist
+- [Face Photo Generator](https://thispersondoesnotexist.com/) - random Photo generator
+- [Random Face Generator](https://fakeinfo.net/random-face-generator) - Want to make your profile more attractive to boost your account reach? Then try our Random Face Generator Tool. It lets you select your favorite image among the variety of options 
+- [Credit Card Generator](https://www.fakenamegenerator.com/credit-card-validator.php) - Fake credit card number generator 
+- [PIC/CIC Code Database](https://www.allredtech.com/) -  A PIC or CIC code is a 4-digit prefix that identifies a long distance carrier in North America or the Caribbean to a LEC. The LEC uses the code to properly route the call. 
+- [SIN Generator](https://www.fakenamegenerator.com/social-insurance-number.php) - Canadian Social Insurance Number (SIN)
+- [ABA Generator](https://www.fakenamegenerator.com/aba-validator.php) - ABA/Routing Number Validator
+- [VIN Generator](https://www.fakenamegenerator.com/vehicle-identification-number.php) - Vehicle Identification Number
+- [NINO Generator](https://www.fakenamegenerator.com/national-insurance-number.php) - UK National Insurance Number (NINO)
+- [SSN Generator](https://www.fakenamegenerator.com/social-security-number.php) - US Social Security Number (SSN)
+- [IID Generator by Georgy Bunin](https://georgybu.github.io/IID_Generator/) - Israel ID generator and validator
+- [GUID/UUID and short GUID generator](https://richardkundl.github.io/shortguid/) - GUID/UUID and short GUID generator
+- [Nano ID CC](https://zelark.github.io/nano-id-cc/) - Nano ID is a library for generating random IDs. Likewise UUID, there is a probability of duplicate IDs. However, this probability is extremely small.
+- [Generate SA ID Numbers](https://chris927.github.io/generate-sa-idnumbers/) - Generate (Fake) South-African ID Numbers
+- [Decoding Social Security Numbers](https://stevemorse.org/ssn/ssn.html) - Decoding Social Security Numbers in One Step 
+- [Encoding and Decoding Driver’s License Numbers](https://stevemorse.org/dl/dl.html) - Encoding and Decoding Driver's License Numbers in One Step 
+- [Dating Profile Generator](https://www.dating-profile-generator.org.uk/) - The aim of Dating Profile Generator is to help you fill that all-important free text field on online dating sites. Give us a feel for the kind of person that you are, and we'll write a description of you in the tone we think you'd take if you bothered to write it yourself
+- [Fake Identity ID Random Name Generator](https://www.elfqrin.com/fakeid.php) - Generate a random character with a fake name for games, novels, or alter ego avatars of yourself. Create a new virtual disposable identity instantly. Note that characters are not totally random: they are statistically adjusted, so that you can generate a credible population of realistic virtual people.
+- [Fake Company Name Generator](https://fakeinfo.net/company-name-generator) - Random Company Name Generator tool is designed to gratify the entrepreneur's needs. Generate catchy brand names within seconds for your new startups using our tool.
+- [Twitter Profile Generator](https://fakeinfo.net/fake-twitter-profile-generator) - If you want to have an attractive profile to gain more followers, then use our Fake Twitter Profile Generator tool. It lets you create a fake Twitter profile with a false number of followers and posts. 
+- [Fake Tiktok Profile Generator](https://fakeinfo.net/fake-tiktok-profile-generator) - Who doesn't love to have a huge number of followers and posts on the popular social media platform TikTok? Everybody loves to. One may create a fake TikTok profile with a higher follower count using our Fake Tiktok Profile Generator tool. 
+- [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - d you ever wish to become a YouTuber with a large number of subscribers? Well, dreams do come true. By using the Fake Youtube Channel Generator tool, you may create a fake youtube channel with an attractive channel name and several subscribers. 
+- [Resume Builder](https://vinaysomawat.github.io/Resume-Builder/) - simple resume builder
+- [Fake Generator Tools](https://fauxid.com/tools) - Here are a list of tools that can help you create fake identities, fake emails, fake credit cards, fake driver's license, and a fake company. 
     
 ## EMULATOR
     
