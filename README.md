@@ -187,13 +187,13 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
     
 ## EMULATOR
     
-- [Kasm](https://kasmweb.com/)
-- [Bluestacks](https://www.bluestacks.com/)
-- [Genymotion](https://www.genymotion.com/)
-- [PrimeOS](https://www.primeos.in/)
-- [BigNox](https://www.bignox.com/)
-- [Memuplay.com](https://www.memuplay.com/)
-- [Ldplayer.net](https://www.ldplayer.net/)
+- [Kasm](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
+- [Bluestacks](https://www.bluestacks.com/) - Android emulator
+- [Genymotion](https://www.genymotion.com/) - Android Virtual Devices for all your team, project, development & testing needs
+- [PrimeOS](https://www.primeos.in/) - PrimeOS, the ideal Android based OS for mobile games on PC/Laptop 
+- [BigNox](https://www.bignox.com/) - NoxPlayer, the perfect Android emulator to play mobile games on PC
+- [Memuplay.com](https://www.memuplay.com/) - The most powerful android emulator enjoy ultimate mobile gaming experience on PC
+- [Ldplayer.net](https://www.ldplayer.net/) - Your Best Partner for Mobile Games
     
     
 ## HASH RECOVERY
