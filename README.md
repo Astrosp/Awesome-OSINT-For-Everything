@@ -198,14 +198,14 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
     
 ## HASH RECOVERY
     
-- [CrackStation](https://crackstation.net/)
-- [Hashmob Community](https://hashmob.net/search)
-- [Hashes.com](https://hashes.com/en/decrypt/hash)
-- [Online Password Hash Crack](https://www.onlinehashcrack.com/)
-- [Md5 Decrypt & Encrypt](https://md5decrypt.net/en/)
-- [MD5 reverse lookup](https://md5.gromweb.com/)
-- [Ultimate Hashing](https://md5hashing.net/)
-- ~[Hashes.org](https://hashes.org/search.php)~ Dead!
+- [CrackStation](https://crackstation.net/) - CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash. The hash values are indexed so that it is possible to quickly search the database for a given hash.
+- [Hashmob Community](https://hashmob.net/search) - We want to elevate password research and recovery to new heights. Passwords chosen by users are fundamentally flawed, and the best way to make users choose better passwords is showing them that Cryptographic methods - regardless of strength - are not enough to protect them. Their passwords themselves must be strong enough to withstand even the most rigorous of attacks. HashMob wants to provide a platform for users to collaborate together so that password research can be improved upon and trends can be discovered. We aggregate data and publish statistics, wordlists, rules, resources, tutorials, guides, and other things that researchers and penetration testers can use to further improve themselves
+- [Hashes.com](https://hashes.com/en/decrypt/hash) - Hashes.com is a hash lookup service. This allows you to input an MD5, SHA-1, Vbulletin, Invision Power Board, MyBB, Bcrypt, Wordpress, SHA-256, SHA-512, MYSQL5 etc hash and search for its corresponding plaintext ("found") in our database of already-cracked hashes
+- [Online Password Hash Crack](https://www.onlinehashcrack.com/) - Cloud-based service that attempts to recover passwords (hashes, WPA dumps, Office, PDF, iTunes Backup, Archives) obtained in a legal way (pentest, audit,..).
+- [Md5 Decrypt & Encrypt](https://md5decrypt.net/en/) - encrypt decrypt md5 hashes
+- [MD5 reverse lookup](https://md5.gromweb.com/) - MD5 conversion and reverse lookup
+- [Ultimate Hashing](https://md5hashing.net/) -  [En|De]crypt Hash — Generate hash out of the string and lookup (unhash) for hash value in our pre-computed hash-tables 
+- ~[Hashes.org](https://hashes.org/search.php)~ <font color="red">Dead!</font>
     
  ## DOWNLOADER
     
