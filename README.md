@@ -209,17 +209,18 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
     
  ## DOWNLOADER
     
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [Media-downloader.net](https://media-downloader.net/)
-- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/)
-- [Export Comments](https://exportcomments.com/)
-- [Image Extractor](https://extract.pics/)
-- [Loader.to](https://loader.to/)
-- [Commentexporter.com](https://www.commentexporter.com/)
-- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php)
-- [Link Gopher](https://sites.google.com/site/linkgopher/)
-- [Page Links Extractor Tool](https://shadowcrypt.net/tools/pagelinks)
-- [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites 
+- [Media-downloader.net](https://media-downloader.net/) - 
+- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) -  A Pure client-side webapp to download entire or parts of Imgur albums. 
+- [Export Comments](https://exportcomments.com/) - Easily exports all comments from your social media posts to Excel file.
+- [Image Extractor](https://extract.pics/) - Extract Images From any public website by using a virtual browser 
+- [Loader.to](https://loader.to/) - YouTube MP3 Playlist Downloader Online
+- [Commentexporter.com](https://www.commentexporter.com/) - Export and save facebook comment to your computer. Nested comment supported.
+Enter your "Post URL" to export
+- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - This tool lets you view the followers on any Twitch account.
+- [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems.   Also, Link Gopher does the same for unique domains.
+- [Page Links Extractor Tool](https://shadowcrypt.net/tools/pagelinks) - Pagelink Extractor scans the entire web page and lists down all hyperlinks on the website. It is useful for research purpose and uses regex to extract the link. It will be regularly updated.
+- [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page. The hrefs or "page links" are displayed in plain text for easy copying or review.
     
 ## PRIVACY / SECURITY
     
