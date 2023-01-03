@@ -224,25 +224,25 @@ Enter your "Post URL" to export
     
 ## PRIVACY / SECURITY
     
-- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
-- [Privacy Guides](https://privacyguides.org/)
-- [Surveillance Self-Defense](https://ssd.eff.org/)
-- [Consumer Reports Security Planner](https://securityplanner.consumerreports.org/)
-- [Security in a Box](https://securityinabox.org/en/)
-- [PRISM Break](https://prism-break.org/en/)
-- [Security First - Umbrella](https://secfirst.org/umbrella/)
-- [Matweb.info](https://matweb.info/)
-- [Metacleaner.com](https://metacleaner.com/)
-- [Image Scrubber](https://everestpipkin.github.io/image-scrubber/)
-- [View Exif data online, remove Exif online](http://www.verexif.com/en/)
-- [Bitcoinprivacy.guide](https://bitcoinprivacy.guide/)
-- [LocalBitcoins](https://localbitcoins.com/)
-- [Localmonero.co](https://localmonero.co/)
-- [Bitonic](https://bitonic.nl/en/)
-- [Paxful](https://paxful.com/)
-- [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php)
-- [Stutterbox](https://www.stutterbox.co.uk/)
-- [StegOnline](https://stegonline.georgeom.net/upload)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html) - The Hitchhiker’s Guide to Online Anonymity
+- [Privacy Guides](https://privacyguides.org/) - The guide to restoring your online privacy.
+- [Surveillance Self-Defense](https://ssd.eff.org/) - Surveillance Self-Defense Tips, Tools and How-tos for Safer Online Communications
+- [Consumer Reports Security Planner](https://securityplanner.consumerreports.org/) - Keep Your Data Secure With a Personalized Plan
+Cut down on data collection and protect your sensitive personal information, health data, and geolocation. Answer a few simple questions to get customized recommendations to help you
+- [Security in a Box](https://securityinabox.org/en/) - digital security tools and tactics
+- [PRISM Break](https://prism-break.org/en/) - opt out of global data survelliance programs like PRISM, XKeyscore and Tempora
+- [Security First - Umbrella](https://secfirst.org/umbrella/) - Umbrella is the only security handbook you'll ever need in a free, open source app. It's up-to-date information you can trust. And it's always in your pocket
+- [Matweb.info](https://matweb.info/) - Remove Metadata The file you see is just the tip of the iceberg. Remove the hidden metadata with MAT2
+- [Metacleaner.com](https://metacleaner.com/) - MetaCleaner helps you stay anonymous Clean your files MetaData online
+- [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests. It will remove identifying metadata (Exif data) from photographs, and also allow you to selectively blur parts of the image to cover faces and other identifiable information
+- [View Exif data online, remove Exif online](http://www.verexif.com/en/) - View and remove Exif online
+- [Bitcoinprivacy.guide](https://bitcoinprivacy.guide/) - Bitcoin privacy guide a beginners guide to Bitcoin privacy
+- [LocalBitcoins](https://localbitcoins.com/) - Buy and Sell Bitcoin Everywhere
+- [Localmonero.co](https://localmonero.co/) - Buy Monero.Sell Monero.Cash or online.Anywhere.
+- [Paxful](https://paxful.com/) - Trade Bitcoin with Paxful.
+- [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings. They produce a unique sound for masking and protecting conversations from external listening devices, such as a smartphone running an audio recording app, hidden in one of your guests' pocket
+- [Stutterbox](https://www.stutterbox.co.uk/) - A speech jammer is a device that inhibits a user from speaking in coherent sentences due to the user hearing their own voice played back to them with a slight delay. 
+- [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
     
  ## SECURE COMMUNICATION
     
