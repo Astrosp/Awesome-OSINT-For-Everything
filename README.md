@@ -243,6 +243,7 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings. They produce a unique sound for masking and protecting conversations from external listening devices, such as a smartphone running an audio recording app, hidden in one of your guests' pocket
 - [Stutterbox](https://www.stutterbox.co.uk/) - A speech jammer is a device that inhibits a user from speaking in coherent sentences due to the user hearing their own voice played back to them with a slight delay. 
 - [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
+- [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites, just enter username and this tool show you how many websites have that username.
     
  ## SECURE COMMUNICATION
     
