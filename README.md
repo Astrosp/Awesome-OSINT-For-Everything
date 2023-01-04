@@ -247,24 +247,25 @@ Cut down on data collection and protect your sensitive personal information, hea
     
  ## SECURE COMMUNICATION
     
-- [Signal](https://signal.org/)
-- [Element](https://element.io/)
-- [Briar](https://briarproject.org/)
-- [Jami.net](https://jami.net/)
-- [Jitsi Meet](https://meet.jit.si/)
-- [Rocket.Chat](https://rocket.chat/)
-- [Wire](https://wire.com/en/)
-- [Telegram](https://www.telegram.org/)
-- [Brave Talk](https://talk.brave.com/)
-- [The Tor Project](https://www.torproject.org/download/)
-- [Brave Browser](https://brave.com/)
-- [Psiphon](https://www.psiphon.ca/)
-- [ProtonVPN](https://protonvpn.com/)
-- [hide.me VPN](https://hide.me/en/)
-- [AdGuard VPN](https://adguard-vpn.com/en/welcome.html)
-- [I2P](https://geti2p.net/en/download)
-- [VPN Services](https://privacyguides.org/providers/vpn/)
-- [Browser Recommendations](https://privacyguides.org/browsers/)
+- [Signal](https://signal.org/) - Signal is a simple, powerful, and secure messenger like whatsapp but opensource
+- [Element](https://element.io/) - Secure communication and collaboration
+- [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums
+- [Jami.net](https://jami.net/) - Share, freely and privately
+- [Jitsi Meet](https://meet.jit.si/) - start and join meetings for free No account needed
+- [Rocket.Chat](https://rocket.chat/) - We use communication platforms on a daily basis to collaborate with colleagues, other companies, customers and communities. Most of them give you very little in terms of control and customizations; except Rocket.Chat.
+- [Wire](https://wire.com/en/) - Modern day communication meets the most advanced security and superior user experience. Protect your privacy and data like never before.
+START FOR FREE
+- [Telegram](https://www.telegram.org/) - Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed. 
+- [Brave Talk](https://talk.brave.com/) - unlinited private video calls, right in your browser. No app required
+- [The Tor Project](https://www.torproject.org/download/) - Protect yourself against tracking, surveillance, and censorship.
+- [Brave Browser](https://brave.com/) - Browse privately. Search privately. And ditch Big Tech.
+- [Psiphon](https://www.psiphon.ca/) - Secure and high-performance, Psiphon provides open access to the uncensored internet for millions of people around the world
+- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
+- [hide.me VPN](https://hide.me/en/) - hide.me VPN is trusted by more than 25 million users globally because of its simplicity, privacy features & speed.
+- [AdGuard VPN](https://adguard-vpn.com/en/welcome.html) - Use any browser or app and never worry about your anonymity again. The entire world is at your fingertips with AdGuard VPN.
+- [I2P](https://geti2p.net/en/download) - The Invisible Internet Project (I2P) is a fully encrypted private network layer that has been developed with privacy and security by design in order to provide protection for your activity, location and your identity. The software ships with a router that connects you to the network and applications for sharing, communicating and building.
+- [VPN Services](https://privacyguides.org/providers/vpn/) - Find a no-logging VPN operator who isn’t out to sell or read your web traffic.
+- [Browser Recommendations](https://privacyguides.org/browsers/) - These are our currently recommended desktop web browsers and configurations for standard/non-anonymous browsing. If you need to browse the internet anonymously, you should use Tor instead. In general, we recommend keeping your browser extensions to a minimum; they have privileged access within your browser, require you to trust the developer, can make you stand out, and weaken site isolation.
     
  ## RESOURCES
     
