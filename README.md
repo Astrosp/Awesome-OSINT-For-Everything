@@ -269,25 +269,23 @@ START FOR FREE
     
  ## RESOURCES
     
-- [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
-- [OSINT Resources in Canada](https://start.me/p/aLe0vp/osint-resources-in-canada)
-- [Nixintel’s OSINT Resource List](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
-- [FAROS OSINT Resources](https://start.me/p/1kvvxN/faros-osint-resources)
-- [AML Toolbox](https://start.me/p/rxeRqr/aml-toolbox)
-- [TI](https://start.me/p/rxRbpo/ti)
-- [TOOLKIT](https://start.me/p/W1AXYo/toolkit)
-- [Trouble Fake](https://start.me/p/QRQb0O/trouble-fake)
-- [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d)
-- [sinwindie/OSINT](https://github.com/sinwindie/OSINT)
-- [New Online Investigation (OSINT) Resources – IntelTechniques Blog](https://inteltechniques.com/blog/2019/04/09/new-online-investigation-osint-resources/)
-- [Technisette](https://www.technisette.com/p/home)
-- [OSINT Framework](https://osintframework.com/)
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-- [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet)
-- [START CARING STOP SHARING](https://medium.com/@Dutchosintguy/start-caring-stop-sharing-9c108d957b2c)
-- [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit)
-- [OSINT Tools](https://www.osinttechniques.com/osint-tools.html)
-- [OSINT tools for investigating websites](https://www.aware-online.com/en/osint-tools/website-tools/)
+- [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - This page is for anyone who loves open source investigating, and feels overwhelmed by the amount of resources and information out there. This is my personal one-stop shop for the best OSINT content available online, and I hope it helps you find new ways to learn from some amazing people
+- [OSINT Resources in Canada](https://start.me/p/aLe0vp/osint-resources-in-canada) - OSINT Resources in Canada. This is a free resource dedicated to open source tools located in the different provinces and territories in Canada
+- [FAROS OSINT Resources](https://start.me/p/1kvvxN/faros-osint-resources) - Financial Open Source Intellige
+- [TI](https://start.me/p/rxRbpo/ti) - collection of CTI resources. originally created this to track valuable investigation resources (mostly OSINT)
+- [TOOLKIT](https://start.me/p/W1AXYo/toolkit) - toolkit for osint
+- [Trouble Fake](https://start.me/p/QRQb0O/trouble-fake) - 
+- [OSINT Is A State Of Mind](https://medium.com/secjuice/osint-as-a-mindset-7d42ad72113d) - Dutch guy with Open Source Intelligence & Analysis skills • Osint • Security Awareness • Opsec 
+- [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection 
+- [New Online Investigation (OSINT) Resources – IntelTechniques Blog](https://inteltechniques.com/blog/2019/04/09/new-online-investigation-osint-resources/) - New Online Investigation (OSINT) Resources
+- [Technisette](https://www.technisette.com/p/home) - Here you'll find my collected tutorials, tools, databases, addons, search engines and more to help you with your Open Source Intelligence (OSINT) research. 
+- [OSINT Framework](https://osintframework.com/) - OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT 
+- [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - google dorks cheatsheet
+- [START CARING STOP SHARING](https://medium.com/@Dutchosintguy/start-caring-stop-sharing-9c108d957b2c) - An Open Source Intelligence perspective on the online sharing behavior of humans as effect of COVID19 pandemic to enable better Security Awareness.
+- [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit) - OSINT Curious Project Resource List! Below you can find links to all the blog posts and 10 Minute Tips that we’ve created to help share knowledge and skills with the OSINT Community. The list is regularly updated as we create new content but you can also find us at OSINTCurio.us
+- [OSINT Tools](https://www.osinttechniques.com/osint-tools.html) - OSINT Tools
+- [OSINT tools for investigating websites](https://www.aware-online.com/en/osint-tools/website-tools/) - 
 - [Shodan Cheat Sheet](https://thedarksource.com/shodan-cheat-sheet/)
 - [Week in OSINT](https://sector035.nl/articles/category:week-in-osint)
 - [Osint.team](https://osint.team/)
