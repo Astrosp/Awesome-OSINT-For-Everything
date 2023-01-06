@@ -286,20 +286,20 @@ START FOR FREE
 - [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit) - OSINT Curious Project Resource List! Below you can find links to all the blog posts and 10 Minute Tips that we’ve created to help share knowledge and skills with the OSINT Community. The list is regularly updated as we create new content but you can also find us at OSINTCurio.us
 - [OSINT Tools](https://www.osinttechniques.com/osint-tools.html) - OSINT Tools
 - [OSINT tools for investigating websites](https://www.aware-online.com/en/osint-tools/website-tools/) - 
-- [Shodan Cheat Sheet](https://thedarksource.com/shodan-cheat-sheet/)
+- [Shodan Cheat Sheet](https://thedarksource.com/shodan-cheat-sheet/) - 
 - [Week in OSINT](https://sector035.nl/articles/category:week-in-osint)
 - [Osint.team](https://osint.team/)
-- [QueryTool](https://github.com/oryon-osint/querytool)
-- [Investigating the source code of a website](https://www.aware-online.com/en/osint-tutorials/investigating-the-source-code-of-a-website/)
-- [Find open FTP Servers](https://www.aware-online.com/en/osint-tutorials/find-open-ftp-servers/)
-- [Choose your wallet](https://bitcoin.org/en/choose-your-wallet)
-- [10 Minute Tips](https://osintcurio.us/10-minute-tips/)
-- [Webint Master](https://webintmaster.com/)
-- [DFIR Diva](https://dfirdiva.com/hooked-on-osint/)
-- [Boolean Strings | Tools](https://booleanstrings.com/tools/)
-- [osintme.com](https://www.osintme.com/)
-- [Jake Creps](https://jakecreps.com/)
-- [reKnowledge](https://www.reknowledge.tech/)
+- [QueryTool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheets. With this tool you can perform complex search of terms, people, email addresses, files and many more. 
+- [Investigating the source code of a website](https://www.aware-online.com/en/osint-tutorials/investigating-the-source-code-of-a-website/) - The source code of a website can be seen as the readable text written by a programmer in a programming language. Simply said, the source code consists of a variety of code lines, which together ensure that a website ‘ works ‘ and that a website looks a certain way.
+- [Find open FTP Servers](https://www.aware-online.com/en/osint-tutorials/find-open-ftp-servers/) - find an open ftp server osint
+- ~~[Choose your wallet](https://bitcoin.org/en/choose-your-wallet)~~
+- [10 Minute Tips](https://osintcurio.us/10-minute-tips/) - a library of OSINT tips, tricks, tools, and techniques.
+- ~~[Webint Master](https://webintmaster.com/)~~ 
+- ~~[DFIR Diva](https://dfirdiva.com/hooked-on-osint/)~~
+- [Boolean Strings | Tools](https://booleanstrings.com/tools/) - 150+ Top Sourcing / #OSINT Tools
+- [osintme.com](https://www.osintme.com/) - 3 years an OSINT blog
+- ~~[Jake Creps](https://jakecreps.com/)~~
+- ~~[reKnowledge](https://www.reknowledge.tech/)~~
 - [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607)
 - [@Ivan30394639 OSINT tools collection](https://cipher387.github.io/osint_stuff_tool_collection/)
 - [The Top 132 Osint Open Source Projects](https://awesomeopensource.com/projects/osint)
