@@ -300,12 +300,12 @@ START FOR FREE
 - [osintme.com](https://www.osintme.com/) - 3 years an OSINT blog
 - ~~[Jake Creps](https://jakecreps.com/)~~
 - ~~[reKnowledge](https://www.reknowledge.tech/)~~
-- [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607)
-- [@Ivan30394639 OSINT tools collection](https://cipher387.github.io/osint_stuff_tool_collection/)
-- [The Top 132 Osint Open Source Projects](https://awesomeopensource.com/projects/osint)
-- [30 best OSINT extensions for Google Chrome – osintme.com](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/)
-- [Where Can I Find… - Free DFIR Related Training](https://freetraining.dfirdiva.com/where-can-i-find)
-- [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
+- [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607) - This toolkit includes satellite and mapping services, tools for verifying photos and videos, websites to archive web pages, and much more.
+- [@Ivan30394639 OSINT tools collection](https://cipher387.github.io/osint_stuff_tool_collection/) - different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes).
+- [The Top 132 Osint Open Source Projects](https://awesomeopensource.com/projects/osint) - The Top 1,309 Osint Open Source Projects
+- [30 best OSINT extensions for Google Chrome – osintme.com](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/) - 30 best OSINT extensions for Google Chrome
+- ~~[Where Can I Find… - Free DFIR Related Training](https://freetraining.dfirdiva.com/where-can-i-find)~~
+- [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) - A curated list of resources for Image and Video Deblurring
 - [OSINT.SH](https://osint.sh/)
 - [OSINT Techniques](https://www.osinttechniques.com/)
 - [OSINT aka Atvirųjų šaltinių žvalgyba](https://blog.parakomanai.lt/osint-387e80bdc901)
