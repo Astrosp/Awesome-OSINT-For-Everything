@@ -306,18 +306,17 @@ START FOR FREE
 - [30 best OSINT extensions for Google Chrome – osintme.com](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/) - 30 best OSINT extensions for Google Chrome
 - ~~[Where Can I Find… - Free DFIR Related Training](https://freetraining.dfirdiva.com/where-can-i-find)~~
 - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) - A curated list of resources for Image and Video Deblurring
-- [OSINT.SH](https://osint.sh/)
-- [OSINT Techniques](https://www.osinttechniques.com/)
-- [OSINT aka Atvirųjų šaltinių žvalgyba](https://blog.parakomanai.lt/osint-387e80bdc901)
-- [CTI & OSINT Online Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0)
-- [Emsisoft Decryptor for Avaddon](https://www.emsisoft.com/ransomware-decryption-tools/avaddon)
-- [hwosint (@harrywald80)](https://twitter.com/harrywald80)
-- [Stefanie Proto 🔍 (@sprp77)](https://twitter.com/sprp77)
-- [Awesomelists.top](http://awesomelists.top/)
-- [GitHub Awesome Search](https://github.motakasoft.com/awesome/)
-- [Ph055a OSINT_Collection](https://github.com/Ph055a/OSINT_Collection)
-- [MetaOSINT](https://metaosint.github.io/)
-- [Osint.support](https://osint.support/)
+- [OSINT.SH](https://osint.sh/) - All in one Information Gathering Tools
+- [OSINT Techniques](https://www.osinttechniques.com/) - Resources for Open Source Intelligence and Social Media Investigations.
+- ~~[OSINT aka Atvirųjų šaltinių žvalgyba](https://blog.parakomanai.lt/osint-387e80bdc901)~~
+- [CTI & OSINT Online Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0) - 
+- [Emsisoft Decryptor for Avaddon](https://www.emsisoft.com/ransomware-decryption-tools/avaddon) - Use our free ransomware decryption tools to unlock your files without paying the ransom
+- [hwosint (@harrywald80)](https://twitter.com/harrywald80) - follow this twitter account for daily osint updates
+- [Awesomelists.top](http://awesomelists.top/) - AwesomeSearch makes you find what you want in awesome lists more quickly.
+- [GitHub Awesome Search](https://github.motakasoft.com/awesome/) - github awesome repo's
+- [Ph055a OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable) 
+- [MetaOSINT](https://metaosint.github.io/) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis. 
+- [Osint.support](https://osint.support/) - 
 - [Sprp77/My-Google-CSE](https://github.com/Sprp77/My-Google-CSE/blob/master/List%201)
 - [How to Build an OSINT Super Machine for People Surveillance and Sourcing](https://outline.com/GZbkZA)
 - [How to find anyone with an advanced LinkedIn People Search](https://nubela.co/blog/how-to-find-anyone-with-an-advanced-linkedin-people-search/)
