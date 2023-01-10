@@ -316,12 +316,12 @@ START FOR FREE
 - [GitHub Awesome Search](https://github.motakasoft.com/awesome/) - github awesome repo's
 - [Ph055a OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable) 
 - [MetaOSINT](https://metaosint.github.io/) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis. 
-- [Osint.support](https://osint.support/) - 
-- [Sprp77/My-Google-CSE](https://github.com/Sprp77/My-Google-CSE/blob/master/List%201)
-- [How to Build an OSINT Super Machine for People Surveillance and Sourcing](https://outline.com/GZbkZA)
-- [How to find anyone with an advanced LinkedIn People Search](https://nubela.co/blog/how-to-find-anyone-with-an-advanced-linkedin-people-search/)
-- [Calls Node Status](https://www.broadcastify.com/calls/status/)
-- [Free WiFi Search Engine](http://instabridge.com/free-wifi/)
+- [Osint.support](https://osint.support/) - Open Source Intelligence (OSINT) is the collection and analysis of information that is gathered from public, or open, sources. OSINT is primarily used in national security, law enforcement, and business intelligence functions and is of value to analysts who use non-sensitive intelligence in answering classified, unclassified, or proprietary intelligence requirements across the previous intelligence disciplines
+- ~~[Sprp77/My-Google-CSE](https://github.com/Sprp77/My-Google-CSE/blob/master/List%201)~~
+- ~~[How to Build an OSINT Super Machine for People Surveillance and Sourcing](https://outline.com/GZbkZA)~~
+- [How to find anyone with an advanced LinkedIn People Search](https://nubela.co/blog/how-to-find-anyone-with-an-advanced-linkedin-people-search/) - How To Find Anyone With An Advanced LinkedIn People Search
+- [Calls Node Status](https://www.broadcastify.com/calls/status/) - Current Active Call Ingest Nodes
+- [Free WiFi Search Engine](http://instabridge.com/free-wifi/) - Search WiFi spots worldwide
     
 ## WEATHER
     
