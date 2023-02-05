@@ -97,6 +97,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
     
 ## TOOLSET
     
+- [Seekr](https://github.com/seekr-osint/seekr) - All-In-One OSINT tool with neat web interface
 - [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
 - [mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [pywhat](https://pypi.org/project/pywhat/) - The easiest way to identify anything
