@@ -1,10 +1,7 @@
-function searchTools() {
-    var keyword = document.getElementById("keyword").value;
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://raw.githubusercontent.com/Astrosp/osint-tools/master/README.md", true);
-    xhr.onreadystatechange = function() {
-      if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
-        var contents = xhr.responseText;
+async function searchTools() {
+        var keyword = document.getElementById("keyword").value;
+        const response = await fetch("https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO_NAME]/master/README.md");
+        const contents = await response.text();
         var lines = contents.split("\n");
         var results = [];
         for (var i = 0; i < lines.length; i++) {
@@ -14,6 +11,3 @@ function searchTools() {
         }
         document.getElementById("results").innerHTML = results.join("<br>");
       }
-    };
-    xhr.send();
-  }
