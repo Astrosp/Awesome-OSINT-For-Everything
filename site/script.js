@@ -1,6 +1,6 @@
 async function searchTools() {
         var keyword = document.getElementById("keyword").value;
-        const response = await fetch("https://raw.githubusercontent.com/Astrosp/osint-tools/master/README.md");
+        const response = await fetch("https://raw.githubusercontent.com/Astrosp/osint-tools/main/README.md");
         const contents = await response.text();
         var lines = contents.split("\n");
         var results = [];
