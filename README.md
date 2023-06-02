@@ -1214,7 +1214,6 @@ START FOR FREE
     
 - [Unicorn Riot: Discord Leaks](https://discordleaks.unicornriot.ninja/discord/)
 - [Data | DDoSecrets Search](https://search.ddosecrets.com/data/)
-- [Parler Archive Search](https://parler.adatascienti.st/research)
 - [Parler Capitol Videos](https://projects.propublica.org/parler-capitol-videos/)
 - [Project Whispers](https://whispers.ddosecrets.com/)
 - [4chansearch.org](https://4chansearch.org/)
@@ -1275,7 +1274,6 @@ START FOR FREE
     
 - [Openoversight](https://openoversight.com/)
 - [Criminal Cop Database Lookup](https://extras.mercurynews.com/criminalcops/database/)
-- [Police1](https://bloopbase.keybase.pub/ACAB/POLICEONE/index.html)
 - [The Philadelphia Police Misconduct Database](https://datawrapper.dwcdn.net/3GbVI/1/)
 - [NYPD Misconduct Complaint Database](https://nyclu.shinyapps.io/CCRB_combo/)
 - [NYPD Officer Profile](https://nypdonline.org/link/2)
@@ -1295,7 +1293,6 @@ START FOR FREE
 - [RCMP Death Search 2](https://c0cqk108.caspio.com/dp/915610007f161cceda514e33a0b7)
 - [RCMP Death Search 3](https://b2.caspio.com/dp/91561000c38ca49de99e4ecf9619)
 - [Policecrime.bgsu.edu](https://policecrime.bgsu.edu/)
-- [CAPstat.nyc](https://www.capstat.nyc/)
 - [Citizens Police Data Project](https://beta.cpdp.co/)
 - [Fatal Encounters](https://fatalencounters.org/people-search/)
 - [The NYPD Files](https://projects.propublica.org/nypd-ccrb/)
@@ -1327,8 +1324,7 @@ START FOR FREE
 - [Florida Residents Directory](https://www.floridaresidentsdirectory.com/)
 - [North Carolina Resident Database](https://northcarolinaresidentdatabase.com/)
 - [NY Rent Regulated Building Search](https://apps.hcr.ny.gov/BuildingSearch/)
-- [Canadian Resident Database (warning: slow)](https://bloopbase.keybase.pub/POPPY/CANRES/index.html)
-- [Pipl US (warning: slow)](https://bloopbase.keybase.pub/POPPY/PIPL/index.html)
+
     
 ## PUBLIC RECORDS
     
