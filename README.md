@@ -142,7 +142,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [ShowTheDocs](http://showthedocs.com/) - showthedocs is a documentation browser that finds the relevant docs for your code. It works by parsing the code and connecting parts of it to their explanation in the docs
 - [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/) - OSINT cli tool skeleton
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
-- [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile \ hotspots.
+- [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
 
 
 ## THROWAWAY CONTACT/Temporary contact
