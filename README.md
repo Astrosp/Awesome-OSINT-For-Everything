@@ -1249,7 +1249,6 @@ START FOR FREE
 ## BUSINESS
     
 - [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3)
-- [WhaleSlide](https://whaleslide.com/)
 - [AllPeople](https://allpeople.com/)
 - [Corporation Wiki](https://www.corporationwiki.com/)
 - [PA PPP Database](https://public.flourish.studio/visualisation/3105919/)
@@ -1262,9 +1261,6 @@ START FOR FREE
 - [Home Comptroller.Texas.Gov](https://comptroller.texas.gov/)
 - [Company search tool](https://www.aware-online.com/en/osint-tools/company-search-tool/)
 - [XRefer](https://www.xrefer.com/)
-- [Ttabcenter.com](https://ttabcenter.com/)
-- [First Search](https://search.firstround.com/)
-- [Findingstartups.com](https://findingstartups.com/)
 - [Startup Tracker](https://startuptracker.io/home)
 - [Shopsearchengine.com](http://shopsearchengine.com/)
 - [Covidbailouttracker.com](https://covidbailouttracker.com/)
@@ -1274,7 +1270,6 @@ START FOR FREE
 - [Lexington-Fayette County KY Health Department Restaurant Inspections](https://b2.caspio.com/dp.asp?AppKey=c8521000c641ab80b6d2448e89d9)
 - [FL Energy Money in Politics](https://b2.caspio.com/dp.asp?AppKey=c73210001174b8c2a8d444768f5c)
 - [ValidFleetList (unknown Sail Boat database)](https://c0eru285.caspio.com/dp/0dc330002829dcc1ad864b5bb094)
-- [Viking Rifle Series Shooter Live Results](https://vikingrifleseries.caspio.com/dp/c8ac5000f29041f935cf42b6a641)
     
 ## POLICE / LE / FED
     
@@ -1295,9 +1290,7 @@ START FOR FREE
 - [Clearview AI US taxpayer-funded entities](https://datawrapper.dwcdn.net/VOOIE/16/)
 - [Oregon DPSST Professional Standards Cases Database](https://www.oregon.gov/dpsst/CJ/Pages/Cases.aspx)
 - [PA Forfeiture 2010-2016 Search](https://b2.caspio.com/dp/0a921000328dc970793c4364bb2a)
-- [BlueLeaks](https://blueleaks.io/index.html)
 - [Plain View Project](https://www.plainviewproject.org/data)
-- [ICE Patrol](https://ice.wikileaks.org/search)
 - [RCMP Death Search](https://c0cqk108.caspio.com/dp/9156100036f195cdf0934662917c)
 - [RCMP Death Search 2](https://c0cqk108.caspio.com/dp/915610007f161cceda514e33a0b7)
 - [RCMP Death Search 3](https://b2.caspio.com/dp/91561000c38ca49de99e4ecf9619)
@@ -1314,8 +1307,6 @@ START FOR FREE
 - [Police Body-Worn Camera Footage Access Map](https://www.rcfp.org/resources/bodycams/)
 - [Policebrutalitydatabase.org](https://www.policebrutalitydatabase.org/)
 - [Civilian Office of Police Accountability](https://www.chicagocopa.org/data-cases/case-portal/)
-- [Coplookup.com](https://coplookup.com/)
-- [Project Comport - IMPD/BPD/WPD [Datasets]](https://www.projectcomport.org/)
 - [How many untested rape kits does your city police department or county sheriff’s office have?](https://datawrapper.dwcdn.net/uOdaT/4/)
 - [Gun Dealer Inspections | The Trace](https://projects.thetrace.org/inspections/)
 - [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/)
@@ -1328,7 +1319,6 @@ START FOR FREE
     
 - [WhosaRat.com](https://whosarat.com/)
 - [Snitch List](https://web.archive.org/web/20200115091633/http://sniitch.com/all/)
-- [Goldensnitches](https://goldensnitches.com/)
      
 ## RESIDENT DATABASE
     
@@ -1358,7 +1348,6 @@ START FOR FREE
 - [Social Security Death Master File](https://ssdmf.info/)
 - [SortedByName.com](https://sortedbyname.com/)
 - [Sortedbybirthdate.com](https://sortedbybirthdate.com/)
-- [Cemetery.directory](https://cemetery.directory/)
 - [Social Security Death Index](https://stevemorse.org/ssdi/ssdi.html)
 - [FamilySearch’s United States Record Collections](https://stevemorse.org/fhl/websitesunitedstates.html)
 - [Chicago Cook County Genealogy](https://stevemorse.org/vital/cook.html)
@@ -1375,7 +1364,6 @@ START FOR FREE
 - [Corrections Books Approval Search](https://b2.caspio.com/dp/0a921000cae47f9702f44d2bb94b)
 - [Wisconsin Fox River Veterans’ Grave Registration Database](https://c3cqk813.caspio.com/dp/b201500011643c5f4c7f4bfba7d1)
 - [OH marijuana docs](https://c0eru132.caspio.com/dp/95d310003d6c2e38182a48ef9bb2)
-- [FAFSA Search and Report](https://c0dcb948.caspio.com/dp/726780004ccd83a96316450caead)
 - [AL Local Surety Association Directory](https://c0gaf106.caspio.com/dp/2d4e1000c7506b7686a540d3b10f)
 - [Ohio obituaries, death & marriage Search](https://c0abe732.caspio.com/dp/679e5000cbc8c6a587bb42efa9ef)
 - [SECO Verification of Course Attendance 2018](https://c0esh132.caspio.com/dp/9040200005c29c35a74342e2b357)
@@ -1397,15 +1385,11 @@ START FOR FREE
 - [Nonprofit Explorer](https://projects.propublica.org/nonprofits/)
 - [Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/)
 - [Nursing Home Inspect](https://projects.propublica.org/nursing-homes/)
-- [Macron Campaign Emails](https://wikileaks.org//macron-emails/)
-- [DNC email database](https://wikileaks.org//dnc-emails/)
 - [GI Files](https://search.wikileaks.org/gifiles/)
-- [AKP email database/](https://wikileaks.org//akp-emails/)
 - [LittleSis](https://littlesis.org/)
 - [Lexington KY Employee Salaries 2021](https://c0ect130.caspio.com/dp/c852100055664d756c6e441aa963)
 - [Greater Sacramento Area Public Salaries](https://b2.caspio.com/dp/c48210000605c38aa22f4080a1be)
 - [Illinois Public Salaries](https://c0ctb111.caspio.com/dp/1a7210001e4dbabdb7204962bc03)
-- [St. Louis County salaries fiscal 2020](https://c0bkr141.caspio.com/dp/936b1000d0c132c8cbbb4f0c8c1f)
 - [Milwaukee Wisconsin City Employee Salaries 2019](https://c0ebl104.caspio.com/dp/eab010008ed5ca97d7404269bf89)
 - [Texas Local Superintendent Salaries Search and Report](https://b3.caspio.com/dp/5a5b1000b41b35162a3844b4b7ec)
 - [Baytown TX Employee Directory](https://c0ctb134.caspio.com/dp/c5f5200097e7aef4edb54e09bd5e)
@@ -1427,8 +1411,6 @@ START FOR FREE
 - [OH Court Costs](https://b2.caspio.com/dp/95d31000da9841d5980644c98761)
 - [German Gov Employee Database (Unknown)](https://c0acz339.caspio.com/dp/E171600054612b9f79fb4ddf8f2b)
 - [Brazillian Address CEP Search and Report](https://c2abn462.caspio.com/dp/6c2d80006c6adb825b3b45079cb8)
-- [Darpan NGO Search](https://c7ect427.caspio.com/dp/c45e900062d54a7f263942979465)
-- [UNC System employees with the biggest paychecks](https://c0dzk127.caspio.com/dp/b95b1000e0821c125a8a43cd9cc1)
 - [HEALTHCARE EDUCATION PROVIDERS](https://c3dug085.caspio.com/dp/1fec4000740ace75fdb94ec5bca5)
 - [Cal Poly Email Search](https://c0acw966.caspio.com/dp/5dbe60009c7190a3b0bb407eaea0)
 - [Dutchess and Ulster bridge safety ratings 2015](https://b2.caspio.com/dp.asp?AppKey=996f1000109b0cd3b24b408daf60)
