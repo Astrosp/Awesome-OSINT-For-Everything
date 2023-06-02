@@ -2,7 +2,7 @@
 <b>OSINT for Everything</b></h1>
 
 <p align="center">
-A list of OSINT tools, websites for penetration testing, Reverse Searching, Red team operations, information gathering, and bug-bounty and almost covers everything in a single file. #osint 
+A list of OSINT tools, websites for penetration testing, Reverse Searching, Red team operations, information gathering, and bug-bounty and almost covers everything in a single file. #osint. Last check for bad links: June 2nd 2023 by Joe Shenouda
 </p>
 
 ![](https://user-images.githubusercontent.com/24913656/242844072-9d76c50d-b656-44de-a1ff-9cdcd7a3fbd0.png)
