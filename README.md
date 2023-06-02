@@ -2,7 +2,7 @@
 <b>OSINT for Everything</b></h1>
 
 <p align="center">
-A comprehensive collection of OSINT tools, websites, and resources for various purposes such as penetration testing, reverse searching, red team operations, information gathering, and bug bounties. This extensive list is free of broken links, and I have contributed it back to Astrosp after forking it from them. The latest verification for bad links was conducted on June 2nd, 2023 by Joe Shenouda
+A comprehensive collection of OSINT tools, websites, and resources for various purposes such as penetration testing, reverse searching, red team operations, information gathering, and bug bounties. This extensive list is free of broken links, and I have contributed all the corrections back to Astrosp after forking it from them. The latest verification for bad links was conducted on June 2nd, 2023 by Joe Shenouda
 </p>
 
 ![](https://user-images.githubusercontent.com/24913656/242844072-9d76c50d-b656-44de-a1ff-9cdcd7a3fbd0.png)
