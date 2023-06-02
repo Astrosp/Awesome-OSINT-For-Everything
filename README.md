@@ -38,7 +38,6 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [unfurl](https://dfir.blog/unfurl/) - Unflurl url 
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - solve mathematical Equations
 - [Cryptpad.fr](https://cryptpad.fr/) - Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite. Administered by the CryptPad development team.
-- [Recontool.org](https://recontool.org/) - Recon tools
 - [MindMup 2](https://app.mindmup.com/map/new) - Create MindMap online
 - [Dotspotter](https://www.forensicdots.de/) - Discover the tracking dots on a scanned document. Upload an image (600 dpi) of your print out. Dottspotter will try to detect the yellow dot code (MIC)
 - [Encrypted Pastebin](https://defuse.ca/pastebin.htm) - Pre-Internet Encryption for Text
@@ -91,18 +90,15 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [arXiv.org](https://arxiv.org/) - arXiv is a free distribution service and an open-access archive for 2,142,712 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics
 - [bioRxiv.org](https://www.biorxiv.org/) - The preprint server for biology
 - [Project Gutenberg](https://www.gutenberg.org/) - Gutenberg is a library of over 60,000 free eBooks
-- [Trantor.is](https://trantor.is/) - There are 1479512 books on the library.
 - [Shadowlibraries.github.io](https://shadowlibraries.github.io/) - A Pirate Library Archive 
 - [Editor.typely.com](https://editor.typely.com/) - Free online proofreading and essay editor
     
  ## FILE UPLOAD
     
 - [MEGA](https://mega.io/) - Secure Cloud Storage and Communication Privacy by Design Get 20GB of storage for free.
-- [transfer.sh](https://transfer.sh/) - 
 - [Upload | Disroot](https://disroot.org/en/services/upload) - Lufi - Encrypted temporary file upload service
 - [Chibisafe.moe](https://chibisafe.moe/) - Blazing fast file uploader. For real A modern and self-hosted file upload service that can handle anything you throw at it
 - [Bunker.is](https://bunker.is/) - 
-- [Zz.fo](https://zz.fo/) - 
 - [Upload files to IPFS from Browser](https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/) - decentralize file shearing
 - [BlackHole](https://blackhole.run/) - BlackHole is a file transfer application built on top of blockchain for the new internet. You can share any super security file with ease and be sure the data is yours forever. You can use BlackHole for free, with no storage or bandwidth limit, but for files bigger than 512 MB
     
