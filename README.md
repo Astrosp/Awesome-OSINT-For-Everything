@@ -44,7 +44,6 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Encrypted Pastebin](https://defuse.ca/pastebin.htm) - Pre-Internet Encryption for Text
 - [PrivateBin](https://privatebin.net/) - PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data
 - [Bin.disroot.org](https://bin.disroot.org/) - same as PrivateBin
-- [~~Framadrop~~](https://framadrop.org/en/) - <font color=red>site closed</font>
 - [Pad.riseup.net](https://pad.riseup.net/) - Etherpad is a software libre web application that allows for real-time group collaboration of text documents. Riseup does not store IP addresses, we require https, and pads are automatically destroyed after 60 days of inactivity
 - [EtherCalc](https://ethercalc.net/) - 
 EtherCalc is a web spreadsheet.
@@ -103,7 +102,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Upload | Disroot](https://disroot.org/en/services/upload) - Lufi - Encrypted temporary file upload service
 - [Chibisafe.moe](https://chibisafe.moe/) - Blazing fast file uploader. For real A modern and self-hosted file upload service that can handle anything you throw at it
 - [Bunker.is](https://bunker.is/) - 
-- [Send](https://send.actionsack.com/) - Send lets you share files with end-to-end encryption and a link that automatically expires upload upto 2GB
 - [Zz.fo](https://zz.fo/) - 
 - [Upload files to IPFS from Browser](https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/) - decentralize file shearing
 - [BlackHole](https://blackhole.run/) - BlackHole is a file transfer application built on top of blockchain for the new internet. You can share any super security file with ease and be sure the data is yours forever. You can use BlackHole for free, with no storage or bandwidth limit, but for files bigger than 512 MB
@@ -310,23 +308,16 @@ START FOR FREE
 - [QueryTool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheets. With this tool you can perform complex search of terms, people, email addresses, files and many more. 
 - [Investigating the source code of a website](https://www.aware-online.com/en/osint-tutorials/investigating-the-source-code-of-a-website/) - The source code of a website can be seen as the readable text written by a programmer in a programming language. Simply said, the source code consists of a variety of code lines, which together ensure that a website ‘ works ‘ and that a website looks a certain way.
 - [Find open FTP Servers](https://www.aware-online.com/en/osint-tutorials/find-open-ftp-servers/) - find an open ftp server osint
-- ~~[Choose your wallet](https://bitcoin.org/en/choose-your-wallet)~~
 - [10 Minute Tips](https://osintcurio.us/10-minute-tips/) - a library of OSINT tips, tricks, tools, and techniques.
-- ~~[Webint Master](https://webintmaster.com/)~~ 
-- ~~[DFIR Diva](https://dfirdiva.com/hooked-on-osint/)~~
 - [Boolean Strings | Tools](https://booleanstrings.com/tools/) - 150+ Top Sourcing / #OSINT Tools
 - [osintme.com](https://www.osintme.com/) - 3 years an OSINT blog
-- ~~[Jake Creps](https://jakecreps.com/)~~
-- ~~[reKnowledge](https://www.reknowledge.tech/)~~
 - [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607) - This toolkit includes satellite and mapping services, tools for verifying photos and videos, websites to archive web pages, and much more.
 - [@Ivan30394639 OSINT tools collection](https://cipher387.github.io/osint_stuff_tool_collection/) - different services, techniques, tricks and notes about OSINT and more. I collect all the links from my tweets in this collection (already 1000+ services for a wide variety of purposes).
 - [The Top 132 Osint Open Source Projects](https://awesomeopensource.com/projects/osint) - The Top 1,309 Osint Open Source Projects
 - [30 best OSINT extensions for Google Chrome – osintme.com](https://www.osintme.com/index.php/2021/06/30/30-best-osint-extensions-for-google-chrome/) - 30 best OSINT extensions for Google Chrome
-- ~~[Where Can I Find… - Free DFIR Related Training](https://freetraining.dfirdiva.com/where-can-i-find)~~
 - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) - A curated list of resources for Image and Video Deblurring
 - [OSINT.SH](https://osint.sh/) - All in one Information Gathering Tools
 - [OSINT Techniques](https://www.osinttechniques.com/) - Resources for Open Source Intelligence and Social Media Investigations.
-- ~~[OSINT aka Atvirųjų šaltinių žvalgyba](https://blog.parakomanai.lt/osint-387e80bdc901)~~
 - [CTI & OSINT Online Resources](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0) - 
 - [Emsisoft Decryptor for Avaddon](https://www.emsisoft.com/ransomware-decryption-tools/avaddon) - Use our free ransomware decryption tools to unlock your files without paying the ransom
 - [hwosint (@harrywald80)](https://twitter.com/harrywald80) - follow this twitter account for daily osint updates
@@ -335,8 +326,6 @@ START FOR FREE
 - [Ph055a OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable) 
 - [MetaOSINT](https://metaosint.github.io/) - A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis. 
 - [Osint.support](https://osint.support/) - Open Source Intelligence (OSINT) is the collection and analysis of information that is gathered from public, or open, sources. OSINT is primarily used in national security, law enforcement, and business intelligence functions and is of value to analysts who use non-sensitive intelligence in answering classified, unclassified, or proprietary intelligence requirements across the previous intelligence disciplines
-- ~~[Sprp77/My-Google-CSE](https://github.com/Sprp77/My-Google-CSE/blob/master/List%201)~~
-- ~~[How to Build an OSINT Super Machine for People Surveillance and Sourcing](https://outline.com/GZbkZA)~~
 - [How to find anyone with an advanced LinkedIn People Search](https://nubela.co/blog/how-to-find-anyone-with-an-advanced-linkedin-people-search/) - How To Find Anyone With An Advanced LinkedIn People Search
 - [Calls Node Status](https://www.broadcastify.com/calls/status/) - Current Active Call Ingest Nodes
     
@@ -768,7 +757,6 @@ START FOR FREE
 - [Beautiful News](https://informationisbeautiful.net/beautifulnews/)
 - [GoodGopher.com](https://goodgopher.com/)
 - [Newsnow](https://www.newsnow.co.uk/)
-- [Wintria](http://www.wintria.com/)
 - [Mereku.com](https://mereku.com/)
 - [Newspapers.com](https://www.newspapers.com/)
 - [Newspaper Archive](https://www.gastearsivi.com/en/)
@@ -808,7 +796,6 @@ START FOR FREE
 - [App Store and iTunes search engine](https://fnd.io/)
 - [Ask](https://www.search.ask.com/)
 - [ZorexEye](http://zorexeye.com/)
-- [Yassen.com](http://yassen.com/)
 - [Flippity](https://www.flippity.com/)
 - [keys.openpgp.org](https://keys.openpgp.org/)
 - [MIT PGP Key Server](https://pgp.mit.edu/)
