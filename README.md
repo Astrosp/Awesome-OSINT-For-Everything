@@ -149,7 +149,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [ShowTheDocs](http://showthedocs.com/) - showthedocs is a documentation browser that finds the relevant docs for your code. It works by parsing the code and connecting parts of it to their explanation in the docs
 - [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/) - OSINT cli tool skeleton
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
-- [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
+- [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile \ hotspots.
 
 
 ## THROWAWAY CONTACT/Temporary contact
@@ -162,8 +162,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [SendaText](https://www.sendatext.co/) - SENDaTEXT allows you to send free text and SMS from your computer or smartphone. All you need to use SENDaTEXT is a standard web browser and internet. You can now send free text online from your computer or smartphone. No need to sign up. No need to make any payment. Send a text now!
 - [Free Fax](https://faxzero.com/) -Send faxes for free to anywhere in the U.S. and Canada Or, Send an International Fax
 - [Receive SMS Online](http://receive-sms-online.com/) - On this site you will find some numbers you can send SMS text messages to and the messages will show up on the web.
-- [Receive-sms-now.com](http://receive-sms-now.com/) - 
-- [Receive SMS Online](https://hs3x.com/) - receive sms online
 - [Receive SMS Online for FREE](http://freesmsverification.com/) - Free SMS Verification Receive SMS Online Verify your SMS received from any place in the World. The messages will show up on the webpage.
 - [Smstome.com](https://smstome.com/) - Virtual Temporary and Disposable Phone Numbers
 - [Amazon SNS](https://aws.amazon.com/sns/) - Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email. 
@@ -341,7 +339,6 @@ START FOR FREE
 - ~~[How to Build an OSINT Super Machine for People Surveillance and Sourcing](https://outline.com/GZbkZA)~~
 - [How to find anyone with an advanced LinkedIn People Search](https://nubela.co/blog/how-to-find-anyone-with-an-advanced-linkedin-people-search/) - How To Find Anyone With An Advanced LinkedIn People Search
 - [Calls Node Status](https://www.broadcastify.com/calls/status/) - Current Active Call Ingest Nodes
-- [Free WiFi Search Engine](http://instabridge.com/free-wifi/) - Search WiFi spots worldwide
     
 ## WEATHER
     
@@ -570,7 +567,6 @@ START FOR FREE
 - [Twitter Monitoring](https://one-plus.github.io/TwitterMonitor)
 - [Thread Reader](https://threadreaderapp.com/)
 - [Search Twitter Users](https://pushshift.io/twitter-user-search/)
-- [Find Twitter Followers](http://searchfortweets1.com/)
 - [Getdewey.co](https://getdewey.co/)
 - [geosocial footprint](http://geosocialfootprint.com/)
 - [tweetmap](https://www.omnisci.com/demos/tweetmap)
@@ -583,7 +579,6 @@ START FOR FREE
 - [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/)
 - [Socialbearing](https://socialbearing.com/)
 - [Twiangulate: analyzing the connections between friends and followers](http://twiangulate.com/search/)
-- [First Tweet](http://ctrlq.org/first/)
 - [Twittertrails.com](http://twittertrails.com/)
 - [Download and Export Twitter Followers into Excel for Free](https://www.vicinitas.io/free-tools/download-twitter-followers)
     
@@ -627,7 +622,6 @@ START FOR FREE
 - [Reddit Investigator](https://www.redditinvestigator.com/)
 - [pushshift.io](https://pushshift.io/)
 - [Pushshift API Guide](https://github.com/pushshift/api)
-- [Searcheddit](http://searcheddit.com/)
 - [Removeddit](https://removeddit.com/)
     
 ## LINKEDIN
@@ -774,8 +768,7 @@ START FOR FREE
 - [Mailing List Archives Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq)
 - [Google News](https://news.google.com/)
 - [News Search](https://upstract.com/search)
-- [Newslookup.com](http://newslookup.com/)
-- [Welcome to Dealstrap!](http://correctsearch.com/)
+- [Correct Search](http://correctsearch.com/)
 - [Beautiful News](https://informationisbeautiful.net/beautifulnews/)
 - [GoodGopher.com](https://goodgopher.com/)
 - [Newsnow](https://www.newsnow.co.uk/)
@@ -1024,7 +1017,6 @@ START FOR FREE
 - [searchcode](https://searchcode.com/)
 - [Sourcegraph](https://about.sourcegraph.com/)
 - [Awesome Open Source](https://awesomeopensource.com/)
-- [Awesomelists.top](http://dev.awesomelists.top/#/)
 - [Zen](https://github.com/s0md3v/Zen)
 - [GitDorker](https://github.com/obheda12/GitDorker)
     
@@ -1117,7 +1109,6 @@ START FOR FREE
 - [Airport Webcams](https://airportwebcams.net/)
 - [The Webcam Network](http://www.the-webcam-network.com/)
 - [Default Router Login](https://www.cleancss.com/router-default/)
-- [Live Bar and Pub Webcams](http://gobefore.me/cams/)
 - [Webcams Abroad live images](https://www.webcamsabroad.com/)
 - [WEBCAM LIVE](https://www.whatsupcams.com/en/)
 - [city-webcams.com](https://city-webcams.com/)
