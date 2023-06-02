@@ -638,14 +638,11 @@ START FOR FREE
 - [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/)
 - [TelegramDB.org](https://telegramdb.org/)
 - [Global Telegram Database](https://t.me/s/privatelinks)
-- [Telegram Search Engine](https://clickbee.me/Telegram-Search-Engine.html)
 - [Nekogram X](https://f-droid.org/packages/nekox.messenger/)
     
 ## SNAPCHAT
     
 - [Snap Map](https://map.snapchat.com/)
-- [Snapdex](https://snapdex.com/)
-- [Snapchat User Search](https://sovip.io/)
 - [SnapScraper](https://rhematt.github.io/Snap-Scraper/)
 - [snapmap-archiver](https://pypi.org/project/snapmap-archiver/)
     
@@ -1096,7 +1093,6 @@ START FOR FREE
 - [Toronto Star](https://misc.thestar.com/interactivegraphic/2019/07-july/25-housing-complaints-database/index.html)
 - [Rental in Canada](https://www.n49.com/search/rental/1/canada/)
 - [Manitoba Assessment Online](https://www.gov.mb.ca/mao/public/search_select.aspx)
-- [Search for Company Documents](https://www.sedar.com/search/search_form_pc_en.html)
 - [Business Directory | OCC](https://occ.ca/business-directory/)
 - [Rechercher par entreprise](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Entreprise)
 - [Rechercher par répondant](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Repondant)
@@ -1112,9 +1108,7 @@ START FOR FREE
 - [Google Maps](https://www.google.com/maps)
 - [Bing Maps](https://www.bing.com/maps)
 - [Yandex.Maps](https://yandex.com/maps/)
-- [Generate a panorama](https://www.udeuschle.de/panoramas/makepanoramas_en.html)
 - [Mapillary](https://www.mapillary.com/app/)
-- [Geonarra.com](https://www.geonarra.com/)
 - [Waze](https://www.waze.com/live-map)
 - [百度地图](https://map.baidu.com/) - baidu map
 - [DigitalGlobe](https://discover.digitalglobe.com/)
