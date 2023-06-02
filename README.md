@@ -466,7 +466,6 @@ START FOR FREE
 - [Social Profiles Finder](https://www.social-searcher.com/search-users/)
 - [Who posted what?](https://whopostedwhat.com/)
 - [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)
-- [Mastodon Search Engine](https://cse.google.com/cse?cx=334aec4c3c73ed945)
 - [SOCMINT](https://start.me/p/Wp1kpe/socmint)
 - [OSINT & SOCMINT Tooling](https://osint.support/chrome-extensions/2019/09/29/osint-socmint-tooling.html)
 - [Skype Search Engine](https://www.skypli.com/)
@@ -666,7 +665,6 @@ START FOR FREE
     
 - [Clubhouse Database](https://clubhousedb.com/)
 - [Rooms of Clubhouse](https://roomsofclubhouse.com/)
-- [ClubSearch – search Clubhouse rooms](https://clubsearch.io/)
     
     
 ## BOT
@@ -683,7 +681,6 @@ START FOR FREE
 - [Hashatit](https://www.hashatit.com/)
 - [Social Mentions](https://www.social-searcher.com/media-monitoring/)
 - [Social Trends](https://www.social-searcher.com/social-trends/)
-- [Mentionmapp Analytics](https://mentionmapp.com/)
 - [Anonymous Ad Preview Tool](https://ads.google.com/anon/AdPreview)
 - [Semrush](https://www.semrush.com/)
 - [Network Tool](https://osome.iu.edu/tools/networks/#/)
@@ -727,7 +724,7 @@ START FOR FREE
 - [SearX](https://searx.ninja/)
 - [Bing](https://www.bing.com/)
 - [Yandex](https://yandex.com/)
-- [MetaGer: Privacy Protected Search](https://metager3.de/en/)
+- [MetaGer: Privacy Protected Search](https://metager3.de/)
 - [Duck Duck Go](https://duckduckgo.com/)
 - [Search Engines Index](https://www.searchenginesindex.com/)
 - [carrot2](https://search.carrot2.org/#/search/web)
@@ -787,7 +784,6 @@ START FOR FREE
 - [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/)
 - [Public Buckets](https://osint.sh/buckets/)
 - [URL Shorteners Search](https://shorteners.grayhatwarfare.com/)
-- [Mywoodle.com](https://mywoodle.com/)
 - [Search Atlas](https://searchatlas.org/)
 - [Google to search profiles on Stack Overflow](https://recruitin.net/stackoverflow.php)
 - [Binparcel.com](https://binparcel.com/)
@@ -959,16 +955,14 @@ START FOR FREE
     
 ## DOMAIN / IP / DNS
     
-- [domainbigdata](https://domainbigdata.com/)
 - [Domain Codex](https://www.domaincodex.com/search.php)
 - [dnslytics](https://dnslytics.com/)
 - [SecurityTrails](https://securitytrails.com/)
 - [Shodan](https://shodan.io/)
 - [Internetdb.shodan.io](https://internetdb.shodan.io/)
 - [GreyNoise Intelligence](https://www.greynoise.io/viz/)
-- [FOFA](https://fofa.so/)
 - [zoomeye](https://www.zoomeye.org/)
-- [Censys](https://censys.io/domain)
+- [Censys](https://search.censys.io/)
 - [ViewDNS.info](https://viewdns.info/)
 - [Internet Census 2012](http://census2012.sourceforge.net/paper.html)
 - [ONYPHE](https://www.onyphe.io/)
@@ -983,7 +977,6 @@ START FOR FREE
 - [Technology Lookup](https://osint.sh/stack/)
 - [BuiltWith Technology Lookup](https://builtwith.com/)
 - [NMAP Online](https://osint.sh/nmap/)
-- [Nmap Checker Tool](https://shadowcrypt.net/tools/nmap)
 - [Free online network tools](https://centralops.net/co/)
 - [Google Transparency Report](https://transparencyreport.google.com/https/certificates)
 - [Certificate Search](https://osint.sh/crt/)
@@ -1009,7 +1002,6 @@ START FOR FREE
 - [IANA — Root Zone Database](https://www.iana.org/domains/root/db)
 - [Punkspider](https://punkspider.org/)
 - [metabigor](https://github.com/j3ssie/metabigor)
-- [Spyse](https://spyse.com/)
     
 ## MALWARE
     
@@ -1069,7 +1061,6 @@ START FOR FREE
 - [RadioID Database](https://database.radioid.net/database/search#!)
 - [Radio-Sherlock](http://dxmaps.com/search.html)
 - [Rfsearch.com](http://rfsearch.com/)
-- [Radiocells.org](https://radiocells.org/)
 - [@murph_live](https://twitter.com/murph_live)
 - [Radio Garden](http://radio.garden/search)
 
@@ -1079,15 +1070,12 @@ START FOR FREE
 - [Skype Resolver](http://www.skypeipresolver.net/index.php)
 - [PSN Resolver](https://playstationresolver.xyz/)
 - [Cloudflare Resolver](http://www.skypeipresolver.net/cloudflare.php)
-- [Cloudflare Resolver Tool](https://shadowcrypt.net/tools/cloudflare)
 - [Discord Resolver](https://www.leaked.site/index.php?resolver/discord.0/)
-- [Xboxresolver.com](https://xboxresolver.com/)
     
 ## REAL ESTATE
     
 - [PrimeLocation](https://www.primelocation.com/)
 - [Realtor](https://www.realtor.com/)
-- [EMPORIS](https://www.emporis.com/)
 - [rehold](https://rehold.com/)
 - [Zillow](https://www.zillow.com/)
 - [Zillow Canada](https://www.zillow.com/z/canada/canada-homes/)
