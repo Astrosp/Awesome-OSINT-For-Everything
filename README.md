@@ -336,20 +336,7 @@ START FOR FREE
 - [World Temperatures — Weather Around The World](https://www.timeanddate.com/weather/)
 - [AccuWeather](https://www.accuweather.com/)
     
-## World clock
-    
-- [Los Angeles (United States) 3:16]
-- [Houston (United States) 5:16]
-- [New York (United States) 6:16]
-- [London (United Kingdom) 11:16]
-- [Berlin (Germany) 12:16]
-- [Cairo (Egypt) 12:16]
-- [Tehran (Iran) 14:46]
-- [New Delhi (India) 15:46]
-- [(Hong Kong) 18:16]
-- [(Japan) 19:16]
-- [Sydney (Australia) 20:16]
-    
+   
  ## THREAT INTEL
     
 - [Threatbutt](https://threatbutt.com/map/)
