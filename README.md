@@ -226,7 +226,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 Enter your "Post URL" to export
 - [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - This tool lets you view the followers on any Twitch account.
 - [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems.   Also, Link Gopher does the same for unique domains.
-- [Page Links Extractor Tool](https://shadowcrypt.net/tools/pagelinks) - Pagelink Extractor scans the entire web page and lists down all hyperlinks on the website. It is useful for research purpose and uses regex to extract the link. It will be regularly updated.
 - [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page. The hrefs or "page links" are displayed in plain text for easy copying or review.
     
 ## PRIVACY / SECURITY
@@ -248,7 +247,6 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Localmonero.co](https://localmonero.co/) - Buy Monero.Sell Monero.Cash or online.Anywhere.
 - [Paxful](https://paxful.com/) - Trade Bitcoin with Paxful.
 - [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings. They produce a unique sound for masking and protecting conversations from external listening devices, such as a smartphone running an audio recording app, hidden in one of your guests' pocket
-- [Stutterbox](https://www.stutterbox.co.uk/) - A speech jammer is a device that inhibits a user from speaking in coherent sentences due to the user hearing their own voice played back to them with a slight delay. 
 - [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
 - [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites, just enter username and this tool show you how many websites have that username.
     
@@ -342,13 +340,11 @@ START FOR FREE
     
  ## OTHER
     
-- [https://cryptome.wikileaks.org/](https://cryptome.wikileaks.org/)
 - [Nextstrain](https://nextstrain.org/)
     
 ## IDENTITY RESOLUTION
 
 - [Clearbit](https://dashboard.clearbit.com/lookup)
-- [FullContact API](https://dashboard.fullcontact.com/login)
 - [Aeroleads.com](https://aeroleads.com/)
     
 ## UNIFIED SEARCH
@@ -371,7 +367,6 @@ START FOR FREE
 - [WebMii](https://webmii.com/)
 - [TruePeopleSearch](https://www.truepeoplesearch.com/)
 - [Free People Search](https://www.peoplefinder.com/)
-- [Yandex People Search](https://yandex.ru/people)
 - [fastpeoplesearch](https://fastpeoplesearch.com/)
 - [TruePeopleSearch](https://truepeoplesearch.com/)
 - [People Search](http://itools.com/search/people-search)
@@ -389,7 +384,6 @@ START FOR FREE
 - [Thats them](https://thatsthem.com/)
 - [People search](https://radaris.com/)
 - [No.1 Free People Search](http://www.yasni.com/)
-- [Gofindwho.com](https://gofindwho.com/)
 - [xlek](https://xlek.com/)
 - [Ufind.name](https://ufind.name/)
     
@@ -496,7 +490,6 @@ START FOR FREE
 - [Have I Been Zucked?](https://haveibeenzucked.com/)
 - [Facebook Profile Directory](https://www.facebook.com/directory/)
 - [Find My Facebook ID](https://commentpicker.com/find-facebook-id.php)
-- [Facebook Geo](https://www.osintcombine.com/facebook-geo-pages)
 - [Facebook Friends List Generator](https://osint.support/chrome-extensions/2019/10/20/facebook-friends-list-generator.html)
 - [Facebook Entity Id Parser](https://osint.support/chrome-extensions/2019/09/08/facebook-entity-id-parser.html)
 - [Facebook Profile Id Grabber](https://osint.support/chrome-extensions/2019/09/01/facebook-profile-id-grabber.html)
@@ -504,7 +497,6 @@ START FOR FREE
     
  ## TWITTER
     
-- [Nitter](https://nitter.actionsack.com/)
 - [BirdHunt](https://birdhunt.co/)
 - [Nitter Instances](https://xnaas.github.io/nitter-instances/)
 - [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e)
@@ -517,7 +509,6 @@ START FOR FREE
 - [TweetBeaver](https://tweetbeaver.com/)
 - [Twitter search tool](https://www.aware-online.com/en/osint-tools/twitter-search-tool/)
 - [Google to search profiles on Twitter](https://recruitin.net/twitter.php)
-- [Search Twitter Bios and Profiles](https://followerwonk.com/bio)
 - [The one million tweet map](https://onemilliontweetmap.com/)
 - [Tweet Binder](https://www.tweetbinder.com/)
 - [Twitter Search](https://one-plus.github.io/Twitter)
@@ -527,7 +518,6 @@ START FOR FREE
 - [Getdewey.co](https://getdewey.co/)
 - [geosocial footprint](http://geosocialfootprint.com/)
 - [tweetmap](https://www.omnisci.com/demos/tweetmap)
-- [DoesFollow](https://doesfollow.com/)
 - [Twitter Analytics](https://foller.me/)
 - [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/)
 - [TruthNest](https://app.truthnest.com/)
@@ -559,13 +549,11 @@ START FOR FREE
 ## REDDIT
     
 - [Reveddit.com](https://www.reveddit.com/)
-- [Reddit Search](https://camas.github.io/reddit-search)
 - [Karma Decay](http://karmadecay.com/)
 - [redditsfinder](https://pypi.org/project/redditsfinder/)
 - [SocialGrep](https://www.socialgrep.com/search)
 - [Redective](https://www.redective.com/)
 - [Reddit_Persona](https://github.com/n2itn/reddit_persona)
-- [Uncensor.cc](https://uncensor.cc/)
 - [Reddit Downloader](https://redditdownloader.github.io/)
 - [Reddit Search Engine](https://cse.google.com/cse?cx=0728740ab68a619ba)
 - [Reddit Search Engine](https://cse.google.com/cse/publicurl?cx=017261104271573007538:bbzhlah6n4o)
@@ -575,10 +563,9 @@ START FOR FREE
 - [Pholder](https://pholder.com/)
 - [RedditMetis](https://redditmetis.com/)
 - [Search Reddit Comments by User](https://www.redditcommentsearch.com/)
-- [Reddit Investigator](https://www.redditinvestigator.com/)
 - [pushshift.io](https://pushshift.io/)
 - [Pushshift API Guide](https://github.com/pushshift/api)
-- [Removeddit](https://removeddit.com/)
+
     
 ## LINKEDIN
     
@@ -599,12 +586,10 @@ START FOR FREE
     
 - [Discord User Search](https://discordhub.com/user/search)
 - [Discord Me](https://discord.me/)
-- [Enlarge Discord avatars](https://discordzoom.com/en/)
 - [Discord History Tracker](https://dht.chylex.com/)
 - [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
 - [DiscordServers](https://discordservers.com/)
 - [DISBOARD](https://disboard.org/)
-- [Discord Servers Portal](https://www.discordportal.com/)
 - [Discord ID Lookup](https://discord.id/)
 - [Discord Center](https://discord.center/)
 - [Discord Bots](https://discordbotlist.com/)
@@ -614,7 +599,6 @@ START FOR FREE
 ## TWITCH
     
 - [TwitchTracker](https://twitchtracker.com/)
-- [Twitch.fckdmca.com](https://twitch.fckdmca.com/)
 - [Twitch Payout Search](https://sizeof.cat/project/twitch-payout-search/)
 - [Search for a Twitch channel](https://sullygnome.com/channelsearch)
 - [Searchstream.live](https://searchstream.live/)
@@ -628,14 +612,12 @@ START FOR FREE
     
 ## INSTAGRAM
     
-- [Bibliogram](https://bib.actionsack.com/)
 - [InstaHunt](https://instahunt.co/)
 - [Instagram Deep Photo Search Engine](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy)
 - [Instagram analyzer and viewer](https://gramho.com/)
 - [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)
 - [Instagram User ID](https://commentpicker.com/instagram-user-id.php)
 - [Searchmy.bio](https://www.searchmy.bio/)
-- [Gramsize.com](https://gramsize.com/)
 - [instalooter](https://pypi.org/project/instalooter/)
 - [instaloader](https://pypi.org/project/instaloader/)
 - [chatter](https://github.com/visualbasic6/chatter)
@@ -650,8 +632,6 @@ START FOR FREE
 - [Telegram Search](https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg)
 - [Telegram Search. Search for posts](https://tgstat.com/search)
 - [Lyzem Blog](https://lyzem.com/)
-- [Search.buzz.im](https://search.buzz.im/)
-- [Telegram Usernames Finder](https://socialfinder.app/list/Telegram)
 - [Telegram Channels List](https://tlgrm.eu/channels)
 - [Readergram.com](https://readergram.com/)
 - [Ixgram](https://www.telegramgroup1.com/)
