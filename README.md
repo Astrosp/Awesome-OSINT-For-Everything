@@ -120,7 +120,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Text and File Hash Calculator](https://defuse.ca/checksums.htm) - This page lets you hash ASCII text or a file with many different hash algorithms. Checksums are commonly used to verify the integrety of data. The most common use is to verify that a file has been downloaded without error. The data you enter here is 100% private, neither the data nor hash values are ever recorded.
 - [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm) - This tool will take your text and convert all the special characters to their proper HTML codes, so you can paste text with special characters or HTML code onto your website. It has been carefully designed so that the HTML produced by this tool looks and behaves exactly like the original text does in a text editor
 - [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/) - encode/decode URL in url form.
-- [ODA - The Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don’t have the time, resources, or requirements to use a heavier-weight alternative. Explore executables by dissecting its sections, strings, symbols, raw hex and machine level instructions.
 - [Disasm.pro](https://disasm.pro/) - A realtime assembler/disassembler (formerly known as disasm.ninja) 
 - [Fotor](https://www.fotor.com/photo-editor-app/editor/basic) - Online image editor remove bg, crop, edit...
 - [Decompiler.com](http://www.decompiler.com/) - online decompiler for java, apk, lua ....
@@ -153,9 +152,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously
 - [MailDrop](https://maildrop.cc/) - Save your inbox from spam. Use Maildrop when you don't want to give out your real address No signup required - Maildrop is free for anyone to use when you need a quick, disposable email address.
 - [Send text free](https://globfone.com/send-text/) - Send text online without worrying about phone bills. Free SMS to hundreds of GSM operators worldwide
-- [SendaText](https://www.sendatext.co/) - SENDaTEXT allows you to send free text and SMS from your computer or smartphone. All you need to use SENDaTEXT is a standard web browser and internet. You can now send free text online from your computer or smartphone. No need to sign up. No need to make any payment. Send a text now!
 - [Free Fax](https://faxzero.com/) -Send faxes for free to anywhere in the U.S. and Canada Or, Send an International Fax
-- [Receive SMS Online](http://receive-sms-online.com/) - On this site you will find some numbers you can send SMS text messages to and the messages will show up on the web.
 - [Receive SMS Online for FREE](http://freesmsverification.com/) - Free SMS Verification Receive SMS Online Verify your SMS received from any place in the World. The messages will show up on the webpage.
 - [Smstome.com](https://smstome.com/) - Virtual Temporary and Disposable Phone Numbers
 - [Amazon SNS](https://aws.amazon.com/sns/) - Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email. 
@@ -173,7 +170,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Washington State Driver’s License Generator](https://mmarvick.github.io/wa-drivers-license/) - Washington State Driver's License Generator
 - [Fake Drivers License Generator](https://fakeinfo.net/drivers-license-generator) - Get a false authorized Driver's License to fool your college friends and gain popularity using the Fake Driver License Generator. Use this tool for legal purposes only until you get an original one
 - [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/) - Rental Does not Exist
-- [Face Photo Generator](https://thispersondoesnotexist.com/) - random Photo generator
 - [Random Face Generator](https://fakeinfo.net/random-face-generator) - Want to make your profile more attractive to boost your account reach? Then try our Random Face Generator Tool. It lets you select your favorite image among the variety of options 
 - [Credit Card Generator](https://www.fakenamegenerator.com/credit-card-validator.php) - Fake credit card number generator 
 - [PIC/CIC Code Database](https://www.allredtech.com/) -  A PIC or CIC code is a 4-digit prefix that identifies a long distance carrier in North America or the Caribbean to a LEC. The LEC uses the code to properly route the call. 
@@ -217,7 +213,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Md5 Decrypt & Encrypt](https://md5decrypt.net/en/) - encrypt decrypt md5 hashes
 - [MD5 reverse lookup](https://md5.gromweb.com/) - MD5 conversion and reverse lookup
 - [Ultimate Hashing](https://md5hashing.net/) -  [En|De]crypt Hash — Generate hash out of the string and lookup (unhash) for hash value in our pre-computed hash-tables 
-- ~[Hashes.org](https://hashes.org/search.php)~ <font color="red">Dead!</font>
     
  ## DOWNLOADER
     
