@@ -15,6 +15,17 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
  	
+
+## Basic OSINT 
+Data Leak, scam, username
+- [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
+- [Dehashed](https://www.dehashed.com/) - You can search for your email if its leak in some databases of anything..
+- [HaveIbeenPwned?](https://haveibeenpwned.com/) - check if your email address is in a data breach
+- [ScamSearch](https://scamsearch.io/) - search to find phone, email, profile if is tobe a scammer.
+- [Lampyre](https://lampyre.io/) - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
+- [OffshoreLeaks](https://offshoreleaks.icij.org/) - find out who's behind offshore companies.
+- [WorldWide OSINT Map](http://cybdetective.com/osintmap/) - gather basic info around the world.
+- [WhatsMyName](https://whatsmyname.app/) - This tool allow to enumerate usernames across many websites.
 ## AI
 AI tools/Site
 - [Decktopus](https://www.decktopus.com/) - Create beautiful & professional presentations in just minutes.
@@ -265,6 +276,7 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Stutterbox](https://www.stutterbox.co.uk/) - A speech jammer is a device that inhibits a user from speaking in coherent sentences due to the user hearing their own voice played back to them with a slight delay. 
 - [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
 - [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites, just enter username and this tool show you how many websites have that username.
+- [ScamSearch](https://scamsearch.io/) -  Find your scammer online & report them. Don't let them get away. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website
     
  ## SECURE COMMUNICATION
     
