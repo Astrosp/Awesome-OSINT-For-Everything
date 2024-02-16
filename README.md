@@ -1,4 +1,5 @@
 <base target="_blank">
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 <h1 align="center">
 <b>OSINT for Everything</b></h1>
 
