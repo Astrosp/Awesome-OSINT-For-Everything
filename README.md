@@ -1,3 +1,4 @@
+<base target="_blank">
 <h1 align="center">
 <b>OSINT for Everything</b></h1>
 
