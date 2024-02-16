@@ -22,14 +22,14 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 
 ## Basic OSINT 
 Data Leak, scam, username
-- [greynoise](https://viz.greynoise.io/target="_blank") - Search for IPs, Tags, CVEs, vpn, dns...
-- [Dehashed](https://www.dehashed.com/target="_blank") - You can search for your email if its leak in some databases of anything..
-- [HaveIbeenPwned?](https://haveibeenpwned.com/target="_blank") - check if your email address is in a data breach
-- [ScamSearch](https://scamsearch.io/target="_blank") - search to find phone, email, profile if is tobe a scammer.
-- [Lampyre](https://lampyre.io/target="_blank") - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
-- [OffshoreLeaks](https://offshoreleaks.icij.org/target="_blank") - find out who's behind offshore companies.
-- [WorldWide OSINT Map](http://cybdetective.com/osintmap/target="_blank") - gather basic info around the world.
-- [WhatsMyName](https://whatsmyname.app/target="_blank") - This tool allow to enumerate usernames across many websites.
+- [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
+- [Dehashed](https://www.dehashed.com/) - You can search for your email if its leak in some databases of anything..
+- [HaveIbeenPwned?](https://haveibeenpwned.com/) - check if your email address is in a data breach
+- [ScamSearch](https://scamsearch.io/) - search to find phone, email, profile if is tobe a scammer.
+- [Lampyre](https://lampyre.io/) - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
+- [OffshoreLeaks](https://offshoreleaks.icij.org/) - find out who's behind offshore companies.
+- [WorldWide OSINT Map](http://cybdetective.com/osintmap/) - gather basic info around the world.
+- [WhatsMyName](https://whatsmyname.app/) - This tool allow to enumerate usernames across many websites.
  <br>
 
 [⇧ Top](#contents)
