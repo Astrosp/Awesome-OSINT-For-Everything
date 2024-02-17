@@ -2,7 +2,7 @@
 <!---<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 --->
 <h1 align="center">
-<b>OSINT for Everything</b></h1>
+<b>Awsome OSINT For Everything</b></h1>
 
 <p align="center">
 A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
