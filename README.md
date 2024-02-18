@@ -17,8 +17,6 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 ## Index
 || [AI](#ai) || [Recon](#recon) || [Productivity](#productivity) || [File Upload](#file-upload) || [Toolset](#toolset) || [Image/Video/Audio](#image--video--audio--media) || [Search Engines](#search-engines) || [Whois](#whois) || [Source Codes](#source-codes) || [Domain / IP / DNS](#domain--ip--dns) || [Malware](#malware) || [Dataset](#dataset) || [Geo](#geo) || [IoT](#iot) || [Darknet](#darknet) || [Cryptocurrency](#cryptocurrency) || [Username](#username) || [Email](#email) || [Phone](#phone) || [Social Media](#social-media) || [Facebook](#facebook) || [Twitter](#twitter) || [Youtube](#youtube) || [Instagram](#instagram) || [Reddit](#reddit) || [LinkedIn](#linkedin) || [Google](#google) || [Discord](#discord) || [Twitch](#twitch) || [Telegram](#telegram) || [Snapchat](#snapchat) || [TikTok](#tiktok) || [Steam](#steam) || [Clubhouse](#clubhouse) || [Bot](#bot) || [Analysis](#analytics) || [Blog](#blog) || [Throwaway Contact](#throwaway-contact) || [ID Generator](#id-generator) || [Emulator](#emulator) || [Hash Recovery](#hash-recovery) || [Downloader](#downloader) || [Privacy / Security](#privacy--security) || [Secure Communication](#secure-communication) || [Resources](#resources) || [Threat Intel](#threat-intel) || [Identity Resolution](#identity-resolution) || [People](#people) || [Google CSE](#google-cse) || [Radio](#radio) || [Open Directory](#open-directory) || [Maps](#maps) || [Data Dump](#data-dump) || [Informant](#informant) || [Public Record](#public-records) || [Government](#government) ||
 
-<a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
- 	
 
 ## Basic OSINT 
 Data Leak, scam, username
@@ -442,23 +440,25 @@ START FOR FREE
     
  ## OTHER
     
-- [https://cryptome.wikileaks.org/](https://cryptome.wikileaks.org/)
-- [Nextstrain](https://nextstrain.org/)
+- [https://cryptome.wikileaks.org/](https://cryptome.wikileaks.org/) - WikiLeaks is a multi-national media organization and associated library. It was founded by its publisher Julian Assange in 2006.
+- [Nextstrain](https://nextstrain.org/) - Real-time tracking of pathogen evolution ; pathogen genome data
     
 ## IDENTITY RESOLUTION
 
-- [Clearbit](https://dashboard.clearbit.com/lookup)
-- [FullContact API](https://dashboard.fullcontact.com/login)
-- [Aeroleads.com](https://aeroleads.com/)
+- [Clearbit](https://dashboard.clearbit.com/lookup) - Clearbit is the first HubSpot Native Data Provider.
+Enrich your records, score and route instantly
+- [FullContact API](https://dashboard.fullcontact.com/login) - We provide the data + intelligence you need in your platforms to accurately identify people and optimize experiences—while putting privacy and security first
+- [Aeroleads.com](https://aeroleads.com/) - Search database of 500 Million Business Emails, 120M Personal Emails and 20M Phone Numbers 
 <br>
 
 [⇧ Top](#index)
     
 ## UNIFIED SEARCH
     
-- [SynapsInt](https://synapsint.com/)
-- [InfoTracer](https://infotracer.com/)
-- [MetaDefender](https://metadefender.opswat.com/)
+- [SynapsInt](https://synapsint.com/) -  Synapsint is a 100% free service, the data that is presented for each search is the result of consulting different intelligence services, search engines, datasets, etc.
+You will find a lot of information related to a domain, a IP Address or to an ASN. Information like metatags, web site records, ISP, virus analysis, open ports, vulnerabilities, subdomains, location, network, WHOIS, DNS records, technologies used, pastes, social media accounts, blacklisted IP, links and other stuff, also you can know if an URL belongs to a phishing site. 
+- [InfoTracer](https://infotracer.com/) - Instant Public Records Search Contact Info, Criminal Records, Arrests, Assets, Social Profiles & More
+- [MetaDefender](https://metadefender.opswat.com/) - 
 - [Username Search](https://usersearch.org/)
 - [SpyTox](https://www.spytox.com/)
 - [Effect Group](https://effectgroup.io/)
@@ -1735,5 +1735,7 @@ START FOR FREE
 - [OnlyFinder](https://onlyfinder.com/)
 - [Search OnlyFans profiles](https://hubite.com/onlyfans-search/)
 <br>
+
+<a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
