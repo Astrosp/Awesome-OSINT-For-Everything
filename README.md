@@ -15,7 +15,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->	
 ## Index
-|| [AI](#ai) || [Recon](#recon) || [Productivity](#productivity) || [File Upload](#file-upload) || [Toolset](#toolset) || [Image/Video/Audio](#image--video--audio--media) || [Search Engines](#search-engines) || [Whois](#whois) || [Source Codes](#source-codes) || [Domain / IP / DNS](#domain--ip--dns) || [Malware](#malware) || [Dataset](#dataset) || [Geo](#geo) || [IoT](#iot) || [Darknet](#darknet) || [Cryptocurrency](#cryptocurrency) || [Username](#username) || [Email](#email) || [Phone](#phone) || [Social Media](#social-media) || [Facebook](#facebook) || [Twitter](#twitter) || [Youtube](#youtube) || [Instagram](#instagram) || [Reddit](#reddit) || [LinkedIn](#linkedin) || [Google](#google) || [Discord](#discord) || [Twitch](#twitch) || [Telegram](#telegram) || [Snapchat](#snapchat) || [TikTok](#tiktok) || [Steam](#steam) || [Clubhouse](#clubhouse) || [Bot](#bot) || [Analysis](#analytics) || [Blog](#blog) || [Throwaway Contact](#throwaway-contact) || [ID Generator](#id-generator) || [Emulator](#emulator) || [Hash Recovery](#hash-recovery) || [Downloader](#downloader) || [Privacy / Security](#privacy--security) || [Secure Communication](#secure-communication) || [Resources](#resources) || [Threat Intel](#threat-intel) || [Identity Resolution](#identity-resolution) || [People](#people) || [Google CSE](#google-cse) || [Radio](#radio) || [Open Directory](#open-directory) || [Maps](#maps) || [Data Dump](#data-dump) || [Informant](#informant) || [Public Record](#public-records) || [Government](#government) ||
+ [AI](#ai) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Image/Video/Audio](#image--video--audio--media) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕
 
 
 ## Basic OSINT 
@@ -503,23 +503,22 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 [⇧ Top](#index)
 ## USERNAME
     
-- [WhatsMyName Web](https://whatsmyname.app/)
-- [Username Checker](https://analyzeid.com/username/)
-- [Username Search](https://www.idcrawl.com/username)
-- [maigret](https://pypi.org/project/maigret/)
-- [sherlock](https://github.com/sherlock-project/sherlock)
-- [socialscan](https://pypi.org/project/socialscan/)
-- [socid-extractor](https://pypi.org/project/socid-extractor/)
-- [social-analyzer](https://pypi.org/project/social-analyzer/)
-- [KnowEm](https://knowem.com/)
-- [Check Usernames](https://checkusernames.com/)
-- [Username Checker](https://checkuser.org/)
-- [Namechk](https://namechk.com/)
-- [Lullar Com](https://com.lullar.com/)
-- [SearchPOF.com](https://searchpof.com/)
-- [OSINT Toolkit](https://one-plus.github.io/EmailUsername)
-- [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/)
-- [snoop](https://github.com/snooppr/snoop)
+- [WhatsMyName Web](https://whatsmyname.app/) - username search
+- [Username Checker](https://analyzeid.com/username/) - Social media username checker. Gather information on the taken username and get a summary of who the person is.
+- [Username Search](https://www.idcrawl.com/username) - Uncover social media profiles and real people behind a username
+- [maigret](https://pypi.org/project/maigret/) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages
+- [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks 
+- [socialscan](https://pypi.org/project/socialscan/) - socialscan offers accurate and fast checks for email address and username usage on online platforms.
+- [socid-extractor](https://pypi.org/project/socid-extractor/) - Extract information about a user from profile webpages / API responses and save it in machine-readable format.
+- [social-analyzer](https://pypi.org/project/social-analyzer/) - Social-Analyzer - API, CLI & Web App for analyzing & finding a person’s profile across social media websites. It includes different string analysis and detection modules, you can choose which combination of modules to use during the investigation process.
+- [KnowEm](https://knowem.com/) - KnowEm allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites
+- [Check Usernames](https://checkusernames.com/) - Check the use of your brand or username on 160 Social Networks
+- [Username Checker](https://checkuser.org/) - Check Your Desired Usernames Across 70+ Popular Social Network Sites
+- [Namechk](https://namechk.com/) - With Namechk, you can check the availability of a username or domain name within seconds
+- [Lullar Com](https://com.lullar.com/) - Profile search by email, username or first name 
+- ~~[OSINT Toolkit](https://one-plus.github.io/EmailUsername)~~
+- [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - username search with customization 
+- [snoop](https://github.com/snooppr/snoop) - Snoop Project One of the most promising OSINT tools to search for nicknames. Over 4000+ sites (THE BEST ONE)
 <br>
 
 [⇧ Top](#index)
