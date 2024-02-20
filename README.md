@@ -472,32 +472,32 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 [⇧ Top](#index)
 ## PEOPLE
     
-- [IDCrawl](https://www.idcrawl.com/)
-- [WebMii](https://webmii.com/)
-- [TruePeopleSearch](https://www.truepeoplesearch.com/)
-- [Free People Search](https://www.peoplefinder.com/)
-- [Yandex People Search](https://yandex.ru/people)
+- [IDCrawl](https://www.idcrawl.com/) - People Search a friend, relative, yourself, or someone else you may know (US ONLY).
+- [WebMii](https://webmii.com/) - people search engine
+- [TruePeopleSearch](https://www.truepeoplesearch.com/) - people search
+- [Free People Search](https://www.peoplefinder.com/) - Police Records, Background Checks, Social Media, Photos, Assets, Contact Information and Much More! (us only)
+- [Yandex People Search](https://yandex.ru/people) - 
 - [FamilyTree](https://www.familytreenow.com/)
 - [fastpeoplesearch](https://fastpeoplesearch.com/)
 - [TruePeopleSearch](https://truepeoplesearch.com/)
-- [People Search](http://itools.com/search/people-search)
-- [People Search Engine](https://cse.google.com/cse?cx=14db36e158cd791c0)
-- [Dating Sites Search Engine](https://cse.google.com/cse?cx=c7b340447e1e12653)
-- [192](https://www.192.com/)
-- [International](https://www.infobel.com/)
-- [People search Tool](https://www.aware-online.com/en/osint-tools/people-search-tool/)
-- [PeekYou](https://www.peekyou.com/)
-- [White Pages](https://www.whitepages.com/)
-- [New Canada 411](https://www.canada411.ca/)
-- [411](http://411.com/)
-- [TruthFinder](https://www.truthfinder.com/)
-- [zaba search](https://www.zabasearch.com/)
-- [Thats them](https://thatsthem.com/)
-- [People search](https://radaris.com/)
-- [No.1 Free People Search](http://www.yasni.com/)
-- [Gofindwho.com](https://gofindwho.com/)
-- [xlek](https://xlek.com/)
-- [Ufind.name](https://ufind.name/)
+- [People Search](http://itools.com/search/people-search) - Use the best people search tools to find someone's contact information. Find a person's street address, phone number or email address.
+- [People Search Engine](https://cse.google.com/cse?cx=14db36e158cd791c0) - people search engine
+- [Dating Sites Search Engine](https://cse.google.com/cse?cx=c7b340447e1e12653) - custom dating sites search engine
+- [192](https://www.192.com/) - Search for People, Businesses & Places in the UK
+- [International](https://www.infobel.com/) - Find a business or an individual in the world
+- [People search Tool](https://www.aware-online.com/en/osint-tools/people-search-tool/) - A custom OSINT tool can help you to effectively search for people on the internet.
+- [PeekYou](https://www.peekyou.com/) - PeekYou is a free people search engine site that places people at the center of the Internet. It lets you discover the people most important and relevant to your life.
+- [White Pages](https://www.whitepages.com/) - Find people, contact info & background checks
+- [New Canada 411](https://www.canada411.ca/) - people search for canada
+- [411](http://411.com/) - people search for canada
+- [TruthFinder](https://www.truthfinder.com/) - Social Media, Photos, Police Records, Background Checks, Civil Judgments, Contact Information and Much More! (US)
+- [zaba search](https://www.zabasearch.com/) - Free People Search and Public Information Search Engine! (US)
+- [Thats them](https://thatsthem.com/) - Free People Search Engine Find Addresses, Phones, Emails, and Much More
+- [People search](https://radaris.com/) - Fast People Search Contact Information & Public Records
+- [Free People Search](http://www.yasni.com/) - 
+- [Gofindwho.com](https://gofindwho.com/) - 404
+- [xlek](https://xlek.com/) - USA Data Search Search Public Data Instantly
+- [Ufind.name](https://ufind.name/) - free people search
 <br>
 
 [⇧ Top](#index)
