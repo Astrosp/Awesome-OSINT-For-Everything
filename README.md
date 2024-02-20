@@ -458,15 +458,15 @@ Enrich your records, score and route instantly
 - [SynapsInt](https://synapsint.com/) -  Synapsint is a 100% free service, the data that is presented for each search is the result of consulting different intelligence services, search engines, datasets, etc.
 You will find a lot of information related to a domain, a IP Address or to an ASN. Information like metatags, web site records, ISP, virus analysis, open ports, vulnerabilities, subdomains, location, network, WHOIS, DNS records, technologies used, pastes, social media accounts, blacklisted IP, links and other stuff, also you can know if an URL belongs to a phishing site. 
 - [InfoTracer](https://infotracer.com/) - Instant Public Records Search Contact Info, Criminal Records, Arrests, Assets, Social Profiles & More
-- [MetaDefender](https://metadefender.opswat.com/) - 
-- [Username Search](https://usersearch.org/)
-- [SpyTox](https://www.spytox.com/)
-- [Effect Group](https://effectgroup.io/)
-- [osrframework](https://pypi.org/project/osrframework/)
-- [Google Custom Search](https://cse.google.com/cse?cx=017648920863780530960:lddgpbzqgoi)
-- [OSINT Search Engine](https://cse.google.com/cse/publicurl?cx=006290531980334157382:qcaf4enph7i)
-- [LinkScope](https://github.com/AccentuSoft/LinkScope_Client)
-- [IOA](https://www.io-archive.org/)
+- [MetaDefender](https://metadefender.opswat.com/) - Find threats in File, url, ip addr, hash ....
+- [Username Search](https://usersearch.org/) - Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs. 600+ sites Supported! Largest Reverse User Search Online
+- [SpyTox](https://www.spytox.com/) - Find people, personal info & phone numbers
+- [Effect Group](https://effectgroup.io/) - Open Source Research Platform: Our open Source Research Platform allows journalists, lawyers, private investigators and more to find information on people that is openly available on the web
+- [osrframework](https://pypi.org/project/osrframework/) - OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches. 
+- [Google Custom Search](https://cse.google.com/cse?cx=017648920863780530960:lddgpbzqgoi) - google custom search engine
+- [OSINT Search Engine](https://cse.google.com/cse/publicurl?cx=006290531980334157382:qcaf4enph7i) - custom search engine
+- [LinkScope](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities.
+- [IOA](https://www.io-archive.org/) - The Information Operation Archive hosts publicly available and rigorously attributed datapoints from known Information Operations on social media platforms.
 <br>
 
 [⇧ Top](#index)
