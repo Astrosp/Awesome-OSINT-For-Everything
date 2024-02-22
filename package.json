@@ -6,10 +6,11 @@
       "textlint-filter-rule-whitelist": "^2.0.0",
       "textlint-rule-terminology": "^2.1.4"
     },
-    // "scripts": {
-    //   "test": "npm run lint-markdown && npm run lint-terminology",
-    //   "lint-terminology": "textlint ./README.md",
-    //   "lint-markdown": "markdownlint ./README.md --ignore node_modules",
-    //   "link-check": "find  README -name \\*.md -exec markdown-link-check -c markdown-link-check-config.json 1> log 2> err {} \\; && if [ -e err ] && grep -q  \"ERROR:\" err ; then exit 113  ; else echo -e \"All good\"; fi"
-    // }
+    "scripts": {
+      "test": "npm run lint-markdown && npm run lint-terminology",
+      "lint-terminology": "textlint ./README.md",
+      "lint-markdown": "markdownlint ./README.md --ignore node_modules",
+      "link-check": find . -name README.md -exec markdown-link-check -c markdown-link-check-config.json 1> log 2> err {} \\;
+    //  "link-check": "find  README -name \\*.md -exec markdown-link-check -c markdown-link-check-config.json 1> log 2> err {} \\; && if [ -e err ] && grep -q  \"ERROR:\" err ; then exit 113  ; else echo -e \"All good\"; fi"
+    }
   }
