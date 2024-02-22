@@ -30,7 +30,6 @@ Data Leak, scam, username
 - [WhatsMyName](https://whatsmyname.app/) - This tool allow to enumerate usernames across many websites.
  <br>
 
-[⇧ Top](#index)
 ## AI
 AI tools/Site
 - [Decktopus](https://www.decktopus.com/) - Create beautiful & professional presentations in just minutes.
