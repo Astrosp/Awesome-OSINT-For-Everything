@@ -55,7 +55,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 [⇧ Top](#index)
 ## PRODUCTIVITY
     
-- [unfurl](https://dfir.blog/unfurl/) - Unflurl url 
+- [unfurl](https://dfir.blog/unfurl/) - Break down url into pieces and find out what each thing do. 
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - solve mathematical Equations
 - [Cryptpad.fr](https://cryptpad.fr/) - Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite. Administered by the CryptPad development team.
 - [Recontool.org](https://recontool.org/) - Recon tools
@@ -98,7 +98,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Multi Translate](https://translate.mix.pink/)
 - [Yandex.Translate](https://translate.yandex.com/) - translator from yandex
 - [Bing Microsoft Translator](https://www.bing.com/translator) - translator from microsoft
-- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 15+ languages
+- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 25+ languages
 including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Polish
 - [Translate](https://www.translatedict.com/) - 
 - [text to speech online](https://www.naturalreaders.com/online/) - text to speech translator online
