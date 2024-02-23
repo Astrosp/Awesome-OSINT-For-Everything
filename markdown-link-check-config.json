@@ -5,6 +5,9 @@
       },
       {
         "pattern": "^/"
+      },
+      {
+        "pattern": "developer.android.com"
       }
     ],
     "httpHeaders": [
