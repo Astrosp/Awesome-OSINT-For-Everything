@@ -8,9 +8,6 @@
       },
       {
         "pattern": "developer.android.com"
-      },
-      {
-        "pattern": "www.exploit-db.com"
       }
     ],
     "httpHeaders": [
