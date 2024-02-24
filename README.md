@@ -30,7 +30,6 @@ Data Leak, scam, username
 - [WhatsMyName](https://whatsmyname.app/) - This tool allow to enumerate usernames across many websites.
  <br>
 
-[⇧ Top](#index)
 ## AI
 AI tools/Site
 - [Decktopus](https://www.decktopus.com/) - Create beautiful & professional presentations in just minutes.
@@ -56,7 +55,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 [⇧ Top](#index)
 ## PRODUCTIVITY
     
-- [unfurl](https://dfir.blog/unfurl/) - Unflurl url 
+- [unfurl](https://dfir.blog/unfurl/) - Break down url into pieces and find out what each thing do. 
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - solve mathematical Equations
 - [Cryptpad.fr](https://cryptpad.fr/) - Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite. Administered by the CryptPad development team.
 - [Recontool.org](https://recontool.org/) - Recon tools
@@ -99,7 +98,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Multi Translate](https://translate.mix.pink/)
 - [Yandex.Translate](https://translate.yandex.com/) - translator from yandex
 - [Bing Microsoft Translator](https://www.bing.com/translator) - translator from microsoft
-- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 15+ languages
+- [Reverso](https://www.reverso.net/text_translation.aspx?lang=EN) - Enjoy cutting-edge AI-powered translation from Reverso in 25+ languages
 including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Polish
 - [Translate](https://www.translatedict.com/) - 
 - [text to speech online](https://www.naturalreaders.com/online/) - text to speech translator online
@@ -525,30 +524,32 @@ You will find a lot of information related to a domain, a IP Address or to an AS
     
  ## EMAIL
     
-- [Email Lookup](https://tools.epieos.com/email.php)
-- [holehe](https://pypi.org/project/holehe/)
-- [Infoga](http://github.com/m4ll0k/Infoga)
-- [Trumail](https://trumail.io/)
-- [Email Verifier](https://hunter.io/email-verifier)
-- [Verify Email](https://verify-email.org/)
-- [Reverse Whois](https://osint.sh/reversewhois/)
-- [Email Dossier](https://centralops.net/co/emaildossier.aspx)
-- [Email Format](https://www.email-format.com/)
-- [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
-- [E-mail search tool](https://www.aware-online.com/osint-tools/e-mail-search-tool/)
-- [Proofy](https://proofy.io/)
-- [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/)
-- [Phonebook.cz](https://phonebook.cz/)
-- [Email Breach Analysis](https://www.hotsheet.com/inoitsu/)
-- [Emailrep.io](https://emailrep.io/)
-- [Email Finder](https://osint.sh/email/)
-- [EmailHarvester](https://pypi.org/project/EmailHarvester/)
-- [h8mail](https://pypi.org/project/h8mail/)
-- [WhatBreach](https://github.com/Ekultek/WhatBreach)
-- [email2phonenumber](https://github.com/martinvigo/email2phonenumber)
-- [buster](https://github.com/sham00n/buster)
-- [Anymailfinder.com](https://anymailfinder.com/)
-- [SimpleMail](https://www.simplemail.dev/)   
+- [Email Lookup](https://epieos.com/) - The ultimate OSINT tool for email and phone reverse lookup
+- [holehe](https://pypi.org/project/holehe/) - holehe allows you to check if the mail is used on different sites like twitter, instagram , snapchat and will retrieve information on sites with the forgotten password function.
+- ~~[Infoga](http://github.com/m4ll0k/Infoga)~~ - 404
+- ~~[Trumail](https://trumail.io/)~~ - Purchase by emailable.
+- [Email Verifier](https://hunter.io/email-verifier) - Verify any email address with the most complete email checker.
+- [Reverse Whois](https://osint.sh/reversewhois/) - Allow you to find domain names owned by an email address
+- [Email Dossier](https://centralops.net/co/emaildossier.aspx) - check if email address is valid or not.
+- [Email Format](https://www.email-format.com/) - find the email address formats in use at thousands of companies.
+- [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) - Email headers are present on every email you receive via the Internet and can provide valuable diagnostic information like hop delays, anti-spam results and more. If you need help getting copies of your email headers
+- [E-mail search tool](https://www.aware-online.com/osint-tools/e-mail-search-tool/) - Email search tool - Research on email addresses
+- [Proofy](https://proofy.io/) - Email address verifier, or email checker, is a tool that can clean your email list from temporary or invalid emails.
+- [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/) - create unique email address of given info
+- [Phonebook.cz](https://phonebook.cz/) - Phonebook lists all domains, email addresses, or URLs for the given input domain.
+You are searching 121 billion records.
+- [Email Breach Analysis](https://www.hotsheet.com/inoitsu/) - Use this free service to check if an email address is in any hacked data from known database breaches. Get a summary of what specific information may be at risk, critical personal identity alerts, a relative exposure rating and more. Results are shown immediately - no verification, upgrades or extra steps are required.
+- [Emailrep.io](https://emailrep.io/) - check email reputation
+- ~~[Email Finder](https://osint.sh/email/)~~ - 404
+- [EmailHarvester](https://pypi.org/project/EmailHarvester/) - A tool to retrieve Domain email addresses from Search Engines
+- [h8mail](https://pypi.org/project/h8mail/) - Email OSINT and password breach hunting. Use h8mail to find passwords through different breach and reconnaissance services, or using your local data
+- [WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information 
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address 
+- [buster](https://github.com/sham00n/buster) - An advanced tool for email reconnaissance 
+- [Anymailfinder.com](https://anymailfinder.com/) - Find the email address of a person by entering their name and the company name or domain.
+- [SimpleMail](https://www.simplemail.dev/) - A simple API to send transactional emails to users, without needing to worry about SMTP, templates, etc..
+- [Protonmail](https://proton.me/mail) - Proton Mail is a Swiss end-to-end encrypted email service
+- [Tuta](https://tuta.com/) - Tuta is the world's most secure email service, easy to use and private by design.
 <br>
 
 [⇧ Top](#index)
