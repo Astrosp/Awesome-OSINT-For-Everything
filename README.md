@@ -475,10 +475,10 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [WebMii](https://webmii.com/) - people search engine
 - [TruePeopleSearch](https://www.truepeoplesearch.com/) - people search
 - [Free People Search](https://www.peoplefinder.com/) - Police Records, Background Checks, Social Media, Photos, Assets, Contact Information and Much More! (us only)
-- [Yandex People Search](https://yandex.ru/people) - 
-- [FamilyTree](https://www.familytreenow.com/)
-- [fastpeoplesearch](https://fastpeoplesearch.com/)
-- [TruePeopleSearch](https://truepeoplesearch.com/)
+- [Yandex People Search](https://yandex.ru/people) - Yandex people search engine
+- ~~[FamilyTree](https://www.familytreenow.com/)~~ - 404
+- [fastpeoplesearch](https://fastpeoplesearch.com/) - Find a person by name, phone number, or street address.
+- ~~[TruePeopleSearch](https://truepeoplesearch.com/)~~ - 404
 - [People Search](http://itools.com/search/people-search) - Use the best people search tools to find someone's contact information. Find a person's street address, phone number or email address.
 - [People Search Engine](https://cse.google.com/cse?cx=14db36e158cd791c0) - people search engine
 - [Dating Sites Search Engine](https://cse.google.com/cse?cx=c7b340447e1e12653) - custom dating sites search engine
@@ -555,31 +555,24 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## PHONE
     
-- [PhoneInfoga](https://demo.phoneinfoga.crvx.fr/)
-- [Phonerator](https://www.martinvigo.com/tools/phonerator/)
-- [Skype Lookup](https://tools.epieos.com/skype.php)
-- [Reverse Phone Lookup](https://www.idcrawl.com/phone)
-- [Truecaller Search Engine](https://cse.google.com/cse?cx=c46b76bce1848d976)
-- [Nuwber](https://nuwber.com/)
-- [Who Called Me](https://www.whocalledme.com/)
-- [ignorant](https://pypi.org/project/ignorant/)
-- [Phone number search Tool](https://www.aware-online.com/en/osint-tools/phone-number-search-tool/)
-- [Validnumber.com](https://validnumber.com/)
-- [Reverse Phone Lookup](https://www.zlookup.com/)
-- [Reverse Phone Lookup](https://www.reversephonecheck.com/)
-- [Truecaller](https://www.truecaller.com/)
-- [Phone Number Lookup Tool](https://shadowcrypt.net/tools/phone)
-- [SYNC.me](https://sync.me/)
-- [OpenCelliD](https://opencellid.org/)
-- [CellTower Locator](http://www.cell2gps.com/)
-- [Find GSM base stations cell id coordinates](https://cellidfinder.com/)
-- [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project)
-- [Phone Scoop](https://www.phonescoop.com/phones/)
-- [GSM Arena](https://www.gsmarena.com/)
-- [Fcc.io](http://fcc.io/)
-- [Oldphonebook.com](http://www.oldphonebook.com/)
-- [carrier lookup](https://www.carrierlookup.com/)
-- [Free Reverse Phone Lookup](https://spydialer.com/default.aspx)
+- [PhoneInfoga](https://sundowndev.github.io/phoneinfoga/) - PhoneInfoga is one of the most advanced tools to scan international phone numbers. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number, then search for footprints on search engines to try to find the VoIP provider or identify the owner.
+- [Phonerator](https://www.martinvigo.com/tools/phonerator/) - An advanced valid phone number generator.
+- [Reverse Phone Lookup](https://www.idcrawl.com/phone) - Find out who's behind the phone: Reverse phone lookup made easy
+- [Nuwber](https://nuwber.com/) - to find phone numbers, addresses, police records, social profiles and much more. 
+- [ignorant](https://pypi.org/project/ignorant/) - ignorant allows you to check if a phone is used on different sites like snapchat.
+- [Validnumber.com](https://validnumber.com/) - Valid Number offers a free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada.
+- [NumLookup](https://www.numlookup.com/) - NumLookup can be used to perform a completely free reverse phone lookup for any phone number
+- [Reverse Phone Lookup](https://www.reversephonecheck.com/) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. 
+- [Phone Number Lookup Tool](https://shadowcrypt.net/tools/phone) - Phone Number Lookup will check if the given number is valid. 
+- [SYNC.me](https://sync.me/) - you can search a number here. truecaller alternative
+- [OpenCelliD](https://opencellid.org/) - The world's largest Open Database of Cell Towers
+- ~~[Find GSM base stations cell id coordinates](https://cellidfinder.com/)~~ - DEAD
+- [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - Moriarty Project is a powerful web based phone number investigation tool. It has 6 features and it allows you to choose either all features, or the features you like
+- [Phone Scoop](https://www.phonescoop.com/phones/) - Search for phones by specs and features
+- [GSM Arena](https://www.gsmarena.com/) - NEWS about Mobile phones, updates, launches etc
+- [Oldphonebook.com](http://www.oldphonebook.com/) - search a large selection from the past 20 years of USA phone listing
+- [carrier lookup](https://www.carrierlookup.com/) - Look Up A Cell Phone Carrier Right Now For Free!
+- [Free Reverse Phone Lookup](https://spydialer.com/default.aspx) - free reverse lookup search and more
 <br>
 
 [⇧ Top](#index)
