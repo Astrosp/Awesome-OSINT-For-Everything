@@ -578,20 +578,14 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 # SOCIAL MEDIA
     
-- [Social Profiles Finder](https://www.social-searcher.com/search-users/)
-- [Who posted what?](https://whopostedwhat.com/)
-- [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)
-- [Mastodon Search Engine](https://cse.google.com/cse?cx=334aec4c3c73ed945)
-- [SOCMINT](https://start.me/p/Wp1kpe/socmint)
-- [OSINT & SOCMINT Tooling](https://osint.support/chrome-extensions/2019/09/29/osint-socmint-tooling.html)
-- [Skype Search Engine](https://www.skypli.com/)
-- [Vimeo search tool](https://www.aware-online.com/en/osint-tools/vimeo-search-tool/)
-- [Kribrum.io](https://kribrum.io/)
-- [Graphtreon.com](https://graphtreon.com/)
-- [Social Search Engine](https://www.socialsearchengine.org/)
-- [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram)
-- [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php)
-- [Google to search profiles on Xing](https://recruitin.net/xing.php)
+- [Who posted what?](https://whopostedwhat.com/) - whopostedwhat.com is a non public Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
+- [SOCMINT](https://start.me/p/Wp1kpe/socmint) - some of the best tools 
+- [SocialMap](https://vincos.it/world-map-of-social-networks/) - World map of social media.	
+- [Vimeo search tool](https://www.aware-online.com/en/osint-tools/vimeo-search-tool/) - on Vimeo . Quickly search for videos, people, channels and groups
+- [Kribrum.io](https://krib	rum.io/) - NOTE: IF YOU FIND OUT IST'S WORKING LET ME KNOW- 
+- [Social Search Engine](https://www.socialsearchengine.org/) - Search social information from multiple social networking sites including Facebook, Twitter, Steemit, Google Plus, Blogspot, LinkedIn and more at same time.
+- [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram) - search people, posts ...
+- [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php) - Dribbble is good for finding front end developers, graphic designers, illustrators, typographers, logo designers, and other creative types.
 <br>
 
 [⇧ Top](#index)
@@ -599,61 +593,37 @@ You are searching 121 billion records.
     
 - [Facebook Search Engine](https://cse.google.com/cse?cx=95ae46262a5f2958e)
 - [Facebook Photo Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:jyvyp2ppxma)
-- [Facebook Scraped Data search](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/)
-- [Facebook Search](https://www.social-searcher.com/facebook-search/)
-- [Facebook Search](https://sowdust.github.io/fb-search/)
-- [Facebook Video Downloader](https://fbdown.github.io/)
-- [Facebook Search Tool](https://www.aware-online.com/osint-tools/facebook-search-tool/)
-- [Have I Been Zucked?](https://haveibeenzucked.com/)
-- [Facebook Profile Directory](https://www.facebook.com/directory/)
-- [Find My Facebook ID](https://commentpicker.com/find-facebook-id.php)
-- [Facebook Geo](https://www.osintcombine.com/facebook-geo-pages)
-- [Facebook Friends List Generator](https://osint.support/chrome-extensions/2019/10/20/facebook-friends-list-generator.html)
-- [Facebook Entity Id Parser](https://osint.support/chrome-extensions/2019/09/08/facebook-entity-id-parser.html)
-- [Facebook Profile Id Grabber](https://osint.support/chrome-extensions/2019/09/01/facebook-profile-id-grabber.html)
-- [Facebook Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/01/facebook-email-reverse-lookup.html)
+- [Facebook Scraped Data search](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.to/) - search in facebook scaped data (if onion[.]to is not working open in tor browser without .to) OR [Click Here](https://fr.4everproxy.com/secure/zHLV62xyZZROpM~9TGrMISNsG3Yk6QS167xKdMmQ1tMKKloKw3TsCdU~fpQ7gOsk1m7t39p1sYlsg9ThAyYdCAeYqI1pOWMT39tWTRf5i4I-)
+- ~~[Facebook Search](https://www.social-searcher.com/facebook-search/)~~ - 404
+- [Facebook Video Downloader](https://fbdown.github.io/) - Download Facebook Videos and Save them directly from facebook to your computer or mobile for Free without Software
+- [Have I Been Zucked?](https://haveibeenzuckered.com/) - Check if your telephone number is present within the Facebook data breach. 
+- ~~[Facebook Profile Directory](https://www.facebook.com/directory/)~~ - 404
+- [Find My Facebook ID](https://commentpicker.com/find-facebook-id.php) - Find your Facebook ID for your Facebook profile, group or page.
 <br>
 
 [⇧ Top](#index)
  ## TWITTER
     
-- [Nitter](https://nitter.actionsack.com/)
-- [BirdHunt](https://birdhunt.co/)
-- [Nitter Instances](https://xnaas.github.io/nitter-instances/)
-- [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e)
-- [Tweet Finder](https://cse.google.com/cse/publicurl?cx=016621447308871563343:u4r_fupvs-e)
-- [Twitter Photo Search](https://cse.google.com/cse/publicurl?cx=006290531980334157382:_ltcjq0robu)
-- [twint](https://pypi.org/project/twint/)
-- [Tweet Archive Search](https://cse.google.com/cse/publicurl?cx=005797772976587943970:kffjgylvzwu)
-- [Twitter Advanced Search](https://twitter.com/search-advanced)
-- [Twitter / Profiles Directory](https://twitter.com/i/directory/)
-- [TweetBeaver](https://tweetbeaver.com/)
-- [Twitter search tool](https://www.aware-online.com/en/osint-tools/twitter-search-tool/)
-- [Google to search profiles on Twitter](https://recruitin.net/twitter.php)
-- [Tweettioc.com](http://tweettioc.com/)
-- [Search Twitter Bios and Profiles](https://followerwonk.com/bio)
-- [The one million tweet map](https://onemilliontweetmap.com/)
-- [Tweet Binder](https://www.tweetbinder.com/)
-- [Twitter Search](https://one-plus.github.io/Twitter)
-- [Twitter Monitoring](https://one-plus.github.io/TwitterMonitor)
-- [Thread Reader](https://threadreaderapp.com/)
-- [Search Twitter Users](https://pushshift.io/twitter-user-search/)
-- [Find Twitter Followers](http://searchfortweets1.com/)
-- [Getdewey.co](https://getdewey.co/)
-- [geosocial footprint](http://geosocialfootprint.com/)
-- [tweetmap](https://www.omnisci.com/demos/tweetmap)
-- [DoesFollow](https://doesfollow.com/)
-- [Sleeping Time](http://sleepingtime.org/)
-- [Twitter Analytics](https://foller.me/)
-- [Tweet Topic Explorer](http://tweettopicexplorer.neoformix.com/)
-- [TruthNest](https://app.truthnest.com/)
-- [getdaytrends](https://getdaytrends.com/)
-- [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/)
-- [Socialbearing](https://socialbearing.com/)
-- [Twiangulate: analyzing the connections between friends and followers](http://twiangulate.com/search/)
-- [First Tweet](http://ctrlq.org/first/)
-- [Twittertrails.com](http://twittertrails.com/)
-- [Download and Export Twitter Followers into Excel for Free](https://www.vicinitas.io/free-tools/download-twitter-followers)
+- [BirdHunt](https://birdhunt.co/) -  BirdHunt will show you all tweets within the chosen geographic location
+- [Nitter](https://github.com/zedeus/nitter/) -  Alternative Twitter front-end 
+- [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e) - custom search engine for twitter
+- [Twitter Photo Search](https://cse.google.com/cse/publicurl?cx=006290531980334157382:_ltcjq0robu) - custom search engine for twitter
+- [twint](https://pypi.org/project/twint/) - Twint is an advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API.
+- [Tweet Archive Search](https://cse.google.com/cse/publicurl?cx=005797772976587943970:kffjgylvzwu) - custom search engine for twitter
+- [Twitter Advanced Search](https://twitter.com/search-advanced) - search with additional filters
+- [Twitter search tool](https://www.aware-online.com/en/osint-tools/twitter-search-tool/) - create advanced search queries within Twitter. In addition, we refer you to useful tools that allow you to analyze and monitoran account on Twitter
+- [Google to search profiles on Twitter](https://recruitin.net/twitter.php) - Easily use Google to search profiles on X (Twitter)
+- [Search Twitter Bios and Profiles](https://followerwonk.com/bio) - 404
+- [The one million tweet map](https://onemilliontweetmap.com/) - create map of tweets from hashtag, username, keywords.
+- [Tweet Binder](https://www.tweetbinder.com/) - Free Twitter Hashtag Analytics of up to 200 posts from the last 7 days. 
+- [Thread Reader](https://threadreaderapp.com/) - Thread Reader helps you read and share Twitter threads easily! 
+- ~~[Search Twitter Users](https://pushshift.io/twitter-user-search/)~~ - 404
+- [Getdewey.co](https://getdewey.co/) - Save your favorite X (Twitter) and Bluesky bookmarks in one place 
+- [geosocial footprint](http://geosocialfootprint.com/) - GeoSocial Footprint: A geosocial footprint is the combined bits of location information that a user divulges through social media, which ultimately forms the users location "footprint". For Twitter.com users, this footprint is created from GPS enabled tweets, social check-ins, natural language location searching (geocoding), and profile harvesting.
+- [Twitter Analytics](https://foller.me/) - Looking for someone in the United States? Our free people search engine finds social media profiles, public records, and more!
+- [getdaytrends](https://getdaytrends.com/) - Twitter trends worldwide
+- [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/) - Trendsmap has been providing unique and powerful analytical and visualisation tools to analyse Twitter data. With the demise of Twitter, we are now providing access to over ten years historical data
+- [Socialbearing](https://socialbearing.com/) - Insights & analytics for tweets & timelines 
 <br>
 
 [⇧ Top](#index)
