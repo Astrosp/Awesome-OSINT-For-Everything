@@ -646,9 +646,9 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## REDDIT
     
-- [Reveddit.com](https://www.reveddit.com/)
-- [Reddit Search](https://camas.github.io/reddit-search)
-- [Karma Decay](http://karmadecay.com/)
+- [Reveddit.com](https://www.reveddit.com/) - 
+- [Reddit Search](https://camas.github.io/reddit-search) - 
+- [Karma Decay](http://karmadecay.com/) - 
 - [redditsfinder](https://pypi.org/project/redditsfinder/)
 - [SocialGrep](https://www.socialgrep.com/search)
 - [Redective](https://www.redective.com/)
