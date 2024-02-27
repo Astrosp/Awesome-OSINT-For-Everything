@@ -629,21 +629,18 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## YOUTUBE
     
-- [YouTube search tool](https://www.aware-online.com/en/osint-tools/youtube-search-tool/)
-- [YouTube video upload time](https://www.aware-online.com/en/osint-tutorials/youtube-video-upload-time/)
-- [yt-dlp](https://pypi.org/project/yt-dlp/)
-- [Location Search](https://mattw.io/youtube-geofind/location)
-- [YouTube Metadata Bulk](https://mattw.io/youtube-metadata/bulk)
-- [Hadzy.com](https://hadzy.com/)
-- [Youtube channel ID](https://commentpicker.com/youtube-channel-id.php)
-- [Extract Meta Data YouTube](https://citizenevidence.amnestyusa.org/)
-- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html)
-- [Youtube Channel Search](https://asif633.github.io/youtube-channel-search/)
-- [Yout](https://yout.com/)
-- [YouTube Comment Finder](https://ytcomment.kmcat.uk/)
-- [Youtube, Periscope, Twitch & Dailymotion](https://one-plus.github.io/Youtube)
-- [Unlistedvideos.com](https://unlistedvideos.com/)
-- [Youtube Comments Downloader](https://youtubecommentsdownloader.com/)
+- [yt-dlp](https://pypi.org/project/yt-dlp/) - Youtube downloader with additional features.
+- [Location Search](https://mattw.io/youtube-geofind/location) - Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world. 
+- [YouTube Metadata Bulk](https://mattw.io/youtube-metadata/bulk) - Metadata bulk grabs details about multiple YouTube videos, a playlist's videos, or a channel's public videos. 
+- [Hadzy.com](https://hadzy.com/) - Search, sort and analyze youtube comments
+- [Youtube channel ID](https://commentpicker.com/youtube-channel-id.php) - Find YouTube Channel ID, and related channel information and statistics.
+- [Extract Meta Data YouTube](https://citizenevidence.amnestyusa.org/) - Youtube DataViewer
+- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html) -  a simple model of how News organizations could use Google APIs to help find citizen journalism on YouTube. It uses YouTube and Google APIs to generate location based search results which are stack ranked by upload time.
+- [Yout](https://yout.com/) - search for something in the search bar, click your video, and then record it as a Mp3 (Audio), you can toggle to Mp4 (Video), or Gif (Image) if you want those instead.
+- [YouTube Comment Finder](https://ytcomment.kmcat.uk/) - Search for a video, channel or VideoID
+- [Youtube, Periscope, Twitch & Dailymotion](https://one-plus.github.io/Youtube) - general search tool for youtube
+- [Unlistedvideos.com](https://unlistedvideos.com/) - A website for submitting, searching for, and watching unlisted YouTube videos.
+- [Youtube Comments Downloader](https://youtubecommentsdownloader.com/) - Effortlessly export comments from YouTube videos, live streams, shorts, and community posts. Perfect for YouTubers, social media managers, researchers [PAID]
 <br>
 
 [⇧ Top](#index)
@@ -683,11 +680,11 @@ You are searching 121 billion records.
     
 ## GOOGLE
     
-- [Google Finder](https://tools.epieos.com/google-account.php)
-- [Google Social Search](https://www.social-searcher.com/google-social-search/)
-- [Google+ & LinkedIn](https://one-plus.github.io/G+Link)
-- [GHunt](https://github.com/mxrch/GHunt)
-- [Google+ Photo Custom Search](https://cse.google.com/cse/publicurl?cx=006205189065513216365:uo99tr1fxjq)
+- [Google Finder](https://tools.epieos.com/google-account.php) - Find out google info like name by email id
+- [Google Social Search](https://www.social-searcher.com/google-social-search/) - Top Social Networks Search Results Dashboard
+- [Google+ & LinkedIn](https://one-plus.github.io/G+Link) - search by fields
+- [GHunt](https://github.com/mxrch/GHunt) - Offensive Google framework. 
+- [Google+ Photo Custom Search](https://cse.google.com/cse/publicurl?cx=006205189065513216365:uo99tr1fxjq) - custom google search
 <br>
 
 [⇧ Top](#index)
