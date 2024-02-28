@@ -646,37 +646,30 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## REDDIT
     
-- [Reveddit.com](https://www.reveddit.com/) - 
-- [Reddit Search](https://camas.github.io/reddit-search) - 
-- [Karma Decay](http://karmadecay.com/) - 
-- [redditsfinder](https://pypi.org/project/redditsfinder/)
-- [SocialGrep](https://www.socialgrep.com/search)
-- [Redective](https://www.redective.com/)
-- [Reddit_Persona](https://github.com/n2itn/reddit_persona)
-- [Uncensor.cc](https://uncensor.cc/)
-- [Reddit Downloader](https://redditdownloader.github.io/)
-- [Reddit Search Engine](https://cse.google.com/cse?cx=0728740ab68a619ba)
-- [Reddit Search Engine](https://cse.google.com/cse/publicurl?cx=017261104271573007538:bbzhlah6n4o)
-- [Reddit User Analyser](https://reddit-user-analyser.netlify.app/)
-- [reddit search](https://www.redditsearch.io/)
-- [Reddit search tool](https://www.aware-online.com/en/osint-tools/reddit-search-tool/)
-- [Pholder](https://pholder.com/)
-- [RedditMetis](https://redditmetis.com/)
-- [Search Reddit Comments by User](https://www.redditcommentsearch.com/)
-- [Reddit Investigator](https://www.redditinvestigator.com/)
-- [pushshift.io](https://pushshift.io/)
-- [Pushshift API Guide](https://github.com/pushshift/api)
-- [Searcheddit](http://searcheddit.com/)
-- [Removeddit](https://removeddit.com/)
+- [Reveddit.com](https://www.reveddit.com/) - Reveal Reddit's secretly removed content. Search by username or subreddit
+- ~~[Karma Decay](http://karmadecay.com/)~~ - 404
+- [redditsfinder](https://pypi.org/project/redditsfinder/) - Archive a reddit user's post history. Formatted overview of a profile, JSON containing every post, and picture downloads.
+- [SocialGrep](https://www.socialgrep.com/search) - Search reddit posts and comments. Advanced filters via date, score, subreddit, keywords, website urls and more. All searches can be exported via csv or json.
+- [Redective](https://www.redective.com/) - Redective works in realtime by querying reddit each time you do a search
+- [Reddit_Persona](https://github.com/n2itn/reddit_persona) - A Python module to extract personality insights, sentiment & keywords from reddit accounts.
+- [Reddit Downloader](https://redditdownloader.github.io/) - Download media from reddit like image, audio, video.
+- [Reddit Search Engine](https://cse.google.com/cse?cx=0728740ab68a619ba) - custom google search for reddit
+- [Reddit Search Engine](https://cse.google.com/cse/publicurl?cx=017261104271573007538:bbzhlah6n4o) - custom google search for reddit
+- [Reddit User Analyser](https://reddit-user-analyser.netlify.app/) - Analyse a Reddit user by username
+- ~~[reddit search](https://www.redditsearch.io/)~~ - 500
+- [RedditMetis](https://redditmetis.com/) - See statistics for your Reddit account
+- [Search Reddit Comments by User](https://www.redditcommentsearch.com/) - Search through comments of a particular reddit user. Just enter the username and a search query
+- ~~[Reddit Investigator](https://www.redditinvestigator.com/)~~ - 404
+- [Pushshift API Guide](https://github.com/pushshift/api) - The pushshift.io Reddit API was designed and created by the /r/datasets mod team to help provide enhanced functionality and search capabilities for searching Reddit comments and submissions.
 <br>
 
 [⇧ Top](#index)
 ## LINKEDIN
     
-- [LinkedIn Search](https://recruitin.net/)
-- [LinkedIn Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0)
-- [LinkedIn Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/03/linkedin-email-reverse-lookup.html)
-- [Proxycurl](https://nubela.co/proxycurl/)
+- [LinkedIn Search](https://recruitin.net/) - Easily use Google to search profiles on LinkedIn
+- [LinkedIn Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0) - custom google search for linkedin
+- [LinkedIn Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/03/linkedin-email-reverse-lookup.html) - chrome extention for linkedin Simply provide an email address which is of interest to you and click Search. If a match is found the name, profile id, username will be returned as well as the profile image if one exists.
+- [Proxycurl](https://nubela.co/proxycurl/) - Pull rich data about people and companies
     
 ## GOOGLE
     
