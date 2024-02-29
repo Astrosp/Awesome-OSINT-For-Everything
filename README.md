@@ -684,59 +684,48 @@ You are searching 121 billion records.
     
 ## DISCORD
     
-- [Discord User Search](https://discordhub.com/user/search)
-- [Discord Me](https://discord.me/)
-- [Enlarge Discord avatars](https://discordzoom.com/en/)
-- [Discord History Tracker](https://dht.chylex.com/)
-- [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT)
-- [DiscordServers](https://discordservers.com/)
-- [DISBOARD](https://disboard.org/)
-- [Discord Servers Portal](https://www.discordportal.com/)
-- [Discord ID Lookup](https://discord.id/)
-- [Discord Center](https://discord.center/)
-- [Discord Bots](https://discordbotlist.com/)
-- [Discord Bots](https://top.gg/)
-- [Discord Bots](https://discord.bots.gg/)
+- ~~[Discord User Search](https://discordhub.com/user/search)~~ - 502
+- [Discord Me](https://discord.me/) - Public Discord Servers and Bots
+- [Discord History Tracker](https://dht.chylex.com/) - Discord History Tracker lets you save chat history in your servers, groups, and private conversations, and view it offline.
+- [DiscordOSINT](https://github.com/atoncehussein/DiscordOSINT) - This repository contains useful resources to conduct research and OSINT investigations on Discord accounts ,servers and bots
+- [DiscordServers](https://discordservers.com/) - Public Discord servers you may like
+- [DISBOARD](https://disboard.org/) - Disboard is the place where you can list/find Discord servers.
+- [Discord ID Lookup](https://discord.id/) - Unofficial discord lookup
+- [Discord Bots](https://discordbotlist.com/) - Find the best Discord Bots, Apps and Servers with our Discord Bot List, including the top music and economy apps.
+- [Discord Bots](https://top.gg/) - Explore millions of Discord Bots
+- [Discord Bots](https://discord.bots.gg/) - This site is a list of publicly available Discord bots, intended to accompany the Discord Bots, Discord server. The bots presented here are created and maintained by community members and serve all kinds of purposes
 <br>
 
 [⇧ Top](#index)
     
 ## TWITCH
     
-- [TwitchTracker](https://twitchtracker.com/)
-- [Twitch.fckdmca.com](https://twitch.fckdmca.com/)
-- [Twitch Payout Search](https://sizeof.cat/project/twitch-payout-search/)
-- [Search for a Twitch channel](https://sullygnome.com/channelsearch)
-- [Searchstream.live](https://searchstream.live/)
-- [Username Availability](https://cactus.tools/twitch/username)
-- [Check channel badges](https://cactus.tools/twitch/badges)
-- [Check Twitch follow length](https://cactus.tools/twitch/followage)
-- [Twitch Following](https://cactus.tools/twitch/following)
-- [All Twitch Streamers Search](https://twitchstats.net/allstreamers)
-- [Twitchmetrics.net](https://www.twitchmetrics.net/)
-- [Twitch Username Search](https://twitchusernames.com/)
+- [TwitchTracker](https://twitchtracker.com/) - track info about twitch user
+- [Twitch Payout Search](https://sizeof.cat/project/twitch-payout-search/) - Twitch Payout Search
+- [Search for a Twitch channel](https://sullygnome.com/channelsearch) - Search for a Twitch channel (stats for past 7 days)
+- [Searchstream.live](https://searchstream.live/) - twitch live stream filter search
+- [Username Availability](https://cactus.tools/twitch/username) - search for Twitch Username Availability
+- [Check channel badges](https://cactus.tools/twitch/badges) - Check channel badges
+- [Twitch Following](https://cactus.tools/twitch/following) -  Check the Twitch channels someone is following
+- [All Twitch Streamers Search](https://twitchstats.net/allstreamers) - All Twitch Streamers You can search any twitch streamers/channels here... 
+- [Twitchmetrics.net](https://www.twitchmetrics.net/) -  This website gives a meaningful insights about Twitch activity to subs and plebs alike
 <br>
 
 [⇧ Top](#index)
     
 ## INSTAGRAM
     
-- [Bibliogram](https://bib.actionsack.com/)
-- [InstaHunt](https://instahunt.co/)
-- [Instagram Deep Photo Search Engine](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy)
-- [Instagram analyzer and viewer](https://gramho.com/)
-- [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)
-- [Instagram User ID](https://commentpicker.com/instagram-user-id.php)
-- [Searchmy.bio](https://www.searchmy.bio/)
-- [Statflux](http://statflux.com/)
-- [Gramsize.com](https://gramsize.com/)
-- [instalooter](https://pypi.org/project/instalooter/)
-- [instaloader](https://pypi.org/project/instaloader/)
-- [chatter](https://github.com/visualbasic6/chatter)
-- [osi.ig](https://github.com/th3unkn0n/osi.ig)
-- [Osintgram](https://github.com/Datalux/Osintgram)
-- [SoIG](https://github.com/yezz123/SoIG)
-- [yesitsme](https://github.com/blackeko/yesitsme)
+- [InstaHunt](https://instahunt.co/) - InstaHunt shows you Instagram places and posts surrounding the chosen geographic location
+- [Instagram Deep Photo Search Engine](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy) - custom instagram deep photo search
+- [Instagram analyzer and viewer](https://gramho.com/) - Reviwu is a platform for reviewing influencers, i.e., popular Instagram, YouTube, TikTok and OnlyFans content creators. Today, many influencers delete and block everything that does not suit them, which creates a false image of everyone liking and supporting them. Reviwu allows you to give your honest opinion and to review the chosen influencer in a neutral place without fear of censorship
+- [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/) - Find Instagram User ID
+- [Instagram User ID](https://commentpicker.com/instagram-user-id.php) - Find any Instagram User ID by Instagram username.
+- [instalooter](https://pypi.org/project/instalooter/) - InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access
+- [instaloader](https://pypi.org/project/instaloader/) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram. 
+- [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname 
+- [SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account
+- [yesitsme](https://github.com/blackeko/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone 
 <br>
 
 [⇧ Top](#index)
