@@ -732,55 +732,49 @@ You are searching 121 billion records.
     
 ## TELEGRAM
     
-- [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
-- [Telegram Search](https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg)
-- [Telegram Search. Search for posts](https://tgstat.com/search)
-- [Lyzem Blog](https://lyzem.com/)
-- [Search.buzz.im](https://search.buzz.im/)
-- [Telegram Usernames Finder](https://socialfinder.app/list/Telegram)
-- [Telegram Channels List](https://tlgrm.eu/channels)
-- [Readergram.com](https://readergram.com/)
-- [Ixgram](https://www.telegramgroup1.com/)
-- [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html)
-- [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/)
-- [TelegramDB.org](https://telegramdb.org/)
-- [Global Telegram Database](https://t.me/s/privatelinks)
-- [Telegram Search Engine](https://clickbee.me/Telegram-Search-Engine.html)
-- [Nekogram X](https://f-droid.org/packages/nekox.messenger/)
+- [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) - custom google search for telegram
+- [Telegram Search](https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg) - custom google search for telegram
+- [Telegram Search. Search for posts](https://tgstat.com/search) - TGStat offers a full range of possibilities for a comprehensive search of posts and messages in Telegram 
+- [Lyzem Blog](https://lyzem.com/) - search telegram posts
+- [Telegram Channels List](https://tlgrm.eu/channels) - Discover interesting channels for your Telegram
+- [Readergram.com](https://readergram.com/) - Here you can find channels, chats and groups for every taste and preference
+- [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - search for telegram group, channels, bots
+- [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/) - Telegram Channels, Groups, and Bots
+- [TelegramDB.org](https://telegramdb.org/) - TelegramDB is a service that allows you to search for channels, groups and their members.
+- [Global Telegram Database](https://t.me/s/privatelinks) - Telegram Database: channels, groups and users
+- [Nekogram X](https://f-droid.org/packages/nekox.messenger/) - NekoX is an third-party Telegram client, based on Telegram-FOSS with features added.
 <br>
 
 [⇧ Top](#index)
 ## SNAPCHAT
     
-- [Snap Map](https://map.snapchat.com/)
-- [Snapdex](https://snapdex.com/)
-- [Snapchat User Search](https://sovip.io/)
-- [SnapScraper](https://rhematt.github.io/Snap-Scraper/)
-- [snapmap-archiver](https://pypi.org/project/snapmap-archiver/)
+- [Snap Map](https://map.snapchat.com/) - World map of snap just tap on location and watch
+- ~~[Snapdex](https://snapdex.com/)~~ - 404
+- ~~[Snapchat User Search](https://sovip.io/)~~ - 503
+- [SnapScraper](https://rhematt.github.io/Snap-Scraper/) - SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.
+- [snapmap-archiver](https://pypi.org/project/snapmap-archiver/) - Download all Snapmaps content from a specific location.
 <br>
 
-[⇧ Top](#index)
 ## TIKTOK
     
-- [TIKTOK Search Engine](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om)
-- [TikTok User Search](https://vidnice.com/search/)
-- [TikTok downloader](https://tiktokd.com/)
+- [TIKTOK Search Engine](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om) - custom search for tiktok
+- [TikTok User Search](https://vidnice.com/search/) - Make a TikTok search to find some users or hashtags.
+- [TikTok downloader](https://tiktokd.com/) - 522
 <br>
 
 [⇧ Top](#index)
 ## STEAM
     
-- [Steam Community :: Search](https://steamcommunity.com/search/users/)
-- [Steam ID Finder](https://steamidfinder.com/lookup/)
-- [steamdb.info/calculator](https://steamdb.info/calculator/)
+- [Steam Community :: Search](https://steamcommunity.com/search/users/) - Search the Steam Community by alias.
+- [Steam ID Finder](https://steamidfinder.com/lookup/) - Lookup and convert your Steam Hex, SteamID, SteamID3, SteamID64, Custom URL and Community ID
+- [steamdb.info/calculator](https://steamdb.info/calculator/) - Lookup a SteamID and calculate the value of any Steam account
 <br>
 
-[⇧ Top](#index)
 ## CLUBHOUSE
     
-- [Clubhouse Database](https://clubhousedb.com/)
-- [Rooms of Clubhouse](https://roomsofclubhouse.com/)
-- [ClubSearch – search Clubhouse rooms](https://clubsearch.io/)
+- [Clubhouse Database](https://clubhousedb.com/) - Clubhouse Database - User Search & Analytics
+- [Rooms of Clubhouse](https://roomsofclubhouse.com/) - Search open and scheduled Rooms in the Clubhouse App
+- ~~[ClubSearch – search Clubhouse rooms](https://clubsearch.io/)~~ - 404
 <br>
 
 [⇧ Top](#index)
