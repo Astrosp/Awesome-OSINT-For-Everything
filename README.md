@@ -781,11 +781,10 @@ You are searching 121 billion records.
     
 ## BOT
     
-- [Bot Sentinel Dashboard ‹ Bot Sentinel](https://botsentinel.com/)
-- [Botometer by OSoMe](https://botometer.osome.iu.edu/)
-- [FollowerAudit](https://www.followeraudit.com/)
-- [Twitter Bot Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-bot-checker)
-- [BotSlayer](https://osome.iu.edu/tools/botslayer)
+- [Bot Sentinel Dashboard ‹ Bot Sentinel](https://botsentinel.com/) - Bot Sentinel to help fight disinformation and targeted harassment. We believe Twitter users should be able to engage in healthy online discourse without inauthentic accounts, toxic trolls, foreign countries, and organized groups manipulating the conversation.
+- [Botometer by OSoMe](https://botometer.osome.iu.edu/) - a centralized place to share annotated datasets of Twitter social bots. We also provide list of available tools on bot detection.
+- [FollowerAudit](https://www.followeraudit.com/) - Check fake followers and analyze the followers of any X (Twitter) account
+- [Twitter Bot Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-bot-checker) - Find Twitter bots and check your friends and followers' authenticity, and be safe!
 <br>
 
 [⇧ Top](#index)
