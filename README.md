@@ -15,7 +15,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->	
 ## Index
- [AI](#ai) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Image/Video/Audio](#image--video--audio--media) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕
+ [AI](#ai) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Image/Video/Audio](#image--video--audio--media) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕
 
 
 ## Basic OSINT 
@@ -790,25 +790,22 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## ANALYTICS
     
-- [SEO Resources Search Engine](https://cse.google.com/cse/publicurl?cx=005797772976587943970:i7q6z1kjm1w)
-- [Hashatit](https://www.hashatit.com/)
-- [Social Mentions](https://www.social-searcher.com/media-monitoring/)
-- [Social Trends](https://www.social-searcher.com/social-trends/)
-- [Mentionmapp Analytics](https://mentionmapp.com/)
-- [Anonymous Ad Preview Tool](https://ads.google.com/anon/AdPreview)
-- [Semrush](https://www.semrush.com/)
-- [Network Tool](https://osome.iu.edu/tools/networks/#/)
-- [Trends Tool](https://osome.iu.edu/tools/trends/#/)
-- [CoVaxxy](https://osome.iu.edu/tools/covaxxy)
+- [SEO Resources Search Engine](https://cse.google.com/cse/publicurl?cx=005797772976587943970:i7q6z1kjm1w) - custom google search
+- [Hashatit](https://www.hashatit.com/) - Everywhere on social media, content is being generated at unheard of speeds. Hashtags help you navigate the ever-expanding internet, and HASHATIT keeps you on top of hashtags. 
+- [Social Mentions](https://www.social-searcher.com/media-monitoring/) - Maintaining an excellent reputation is crucial for any company, no matter its size. Start your mentions monitoring right now and grow safely.
+- [Social Trends](https://www.social-searcher.com/social-trends/) - Find top social posts, statuses, photos and videos, which were recently published about specific topic. 
+- [Semrush](https://www.semrush.com/) - Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform. 
+- [Network Tool](https://osome.iu.edu/tools/networks/#/) - The Network Tool generates an interactive network to explore how information spreads across Twitter using the OSoMe data archive. You may search the archive using a single hashtag or comma-separated list of hashtags. The timespan between start and end dates cannot exceed 30 days. 
+- [Trends Tool](https://osome.iu.edu/tools/trends/#/) - Analyze the volume of tweets with a given hashtag or URL over a given period of time using OSoMe data.
 <br>
 
 [⇧ Top](#index)
 ## BLOG
     
-- [Blogs Search Engine](https://cse.google.com/cse?cx=013991603413798772546:8c1g6f0frp8#gsc.tab=0)
-- [WordPress Content Snatcher](https://cse.google.com/cse/publicurl?cx=011081986282915606282:w8bndhohpi0)
-- [WordPress Custom Search](https://cse.google.com/cse?cx=011081986282915606282:w8bndhohpi0)
-- [OSINT Blogs Search Engine](https://cse.google.com/cse?cx=fd4729049350a76d0)
+- [Blogs Search Engine](https://cse.google.com/cse?cx=013991603413798772546:8c1g6f0frp8#gsc.tab=0) - custom google search for blog posts
+- [WordPress Content Snatcher](https://cse.google.com/cse/publicurl?cx=011081986282915606282:w8bndhohpi0) - custom google search wordpress content
+- [WordPress Custom Search](https://cse.google.com/cse?cx=011081986282915606282:w8bndhohpi0) - wordpress custom sesarch
+- [OSINT Blogs Search Engine](https://cse.google.com/cse?cx=fd4729049350a76d0) - custom google search for blogs
 <br>
 
 [⇧ Top](#index)
