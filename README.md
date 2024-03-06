@@ -835,76 +835,63 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## SEARCH ENGINES
     
-- [Google Advanced Search](https://www.google.com/advanced_search)
-- [SearX](https://searx.ninja/)
-- [Bing](https://www.bing.com/)
-- [Yandex](https://yandex.com/)
-- [MetaGer: Privacy Protected Search](https://metager3.de/en/)
-- [Duck Duck Go](https://duckduckgo.com/)
-- [Search Engines Index](https://www.searchenginesindex.com/)
-- [carrot2](https://search.carrot2.org/#/search/web)
-- [Qwant](https://www.qwant.com/)
-- [Startpage](https://startpage.com/)
-- [Mailing List Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq)
-- [swisscows](https://swisscows.com/)
-- [Crossref](https://search.crossref.org/)
-- [Brave](https://search.brave.com/)
-- [Mojeek](https://www.mojeek.com/)
-- [Yahoo Search](https://search.yahoo.com/)
-- [Baidu](https://www.baidu.com/)
-- [Ecosia](https://www.ecosia.org/)
-- [Dogpile](https://www.dogpile.com/)
-- [Zoo Search](https://www.metacrawler.com/)
-- [App Store and iTunes search engine](https://fnd.io/)
-- [Ask](https://www.search.ask.com/)
-- [ZorexEye](http://zorexeye.com/)
-- [Yassen.com](http://yassen.com/)
-- [Flippity](https://www.flippity.com/)
-- [keys.openpgp.org](https://keys.openpgp.org/)
-- [MIT PGP Key Server](https://pgp.mit.edu/)
-- [Ipse.io](https://www.ipse.io/)
-- [Ipfs-search.com](https://ipfs-search.com/#/search)
-- [Debate.cards](http://debate.cards/)
-- [Argumentsearch.com](http://argumentsearch.com/)
-- [Meganzsearch.com](https://www.meganzsearch.com/)
-- [Engine.presearch.org](https://engine.presearch.org/)
-- [Blockscan.com](https://blockscan.com/)
-- [Publc.com](https://publc.com/)
-- [GoPit Search Engine - Home](https://www.gopit.com/socialsearch/index.php?type=Social)
-- [The best document search engine](http://www.doc-txt.com/)
-- [CachedViews.com](https://cachedviews.com/)
-- [MAC Address Lookup](https://maclookup.app/)
-- [sploitus](https://sploitus.com/)
-- [https://vulmon.com/](https://vulmon.com/)
-- [Vulnerability & Exploit Database](https://www.rapid7.com/db/)
-- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-- [Recon](http://recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion.pet/)
-- [Google & Bing](https://one-plus.github.io/GoogleBing)
-- [Bookmarks](https://one-plus.github.io/Bookmarks)
-- [Boardreader - Forum Search](https://boardreader.com/)
-- [Libgen.rs](http://libgen.rs/)
-- [Stacksearch](https://stacksear.ch/)
-- [SearchTempest](https://www.searchtempest.com/)
-- [2lingual](https://2lingual.com/)
-- [SEQE - Search Engines Query Engine](https://seqe.me/)
-- [Milled](https://milled.com/search)
-- [btdig](https://btdig.com/)
-- [Osint Open Source Projects](https://awesomeopensource.com/projects/osint)
-- [Monster Crawler Search](http://monstercrawler.com/)
-- [Arabo.com](http://arabo.com/)
-- [Google Scholar](https://scholar.google.com/)
-- [Million Short](https://millionshort.com/)
-- [BeVigil](https://bevigil.com/)
-- [WordPress.com](https://en.search.wordpress.com/)
-- [Octosearch.dootech.com](https://octosearch.dootech.com/)
-- [Search craigslist](http://searchcraigslist.org/)
-- [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/)
-- [Public Buckets](https://osint.sh/buckets/)
-- [URL Shorteners Search](https://shorteners.grayhatwarfare.com/)
-- [Mywoodle.com](https://mywoodle.com/)
-- [Search Atlas](https://searchatlas.org/)
-- [Google to search profiles on Stack Overflow](https://recruitin.net/stackoverflow.php)
-- [Binparcel.com](https://binparcel.com/)
+- [Google Advanced Search](https://www.google.com/advanced_search) - its like filter particular information according to needs
+- [Bing](https://www.bing.com/) - microsoft's Bing search engine
+- [Yandex](https://yandex.com/) - Yandex search engine
+- [MetaGer: Privacy Protected Search](https://metager3.de/en/) - MetaGer is different from other search engines. This is reflected not only in our public good orientation and focus on privacy, Possibility of creating a personal blacklist Function of the search in the search Advertising-free search possible Integration of search engine projects like YaCy The only German search engine that combines results from several large web indexes
+- [Duck Duck Go](https://duckduckgo.com/) - Search and browse more privately with the DuckDuckGo. Unlike Chrome and other browsers, we don't track you
+- [Search Engines Index](https://www.searchenginesindex.com/) - Search Engines in all countries in the world
+- [carrot2](https://search.carrot2.org/#/search/web) - Carrot2 organizes your search results into topics. With an instant overview of what's available, you will quickly find what you're looking for
+- [Qwant](https://www.qwant.com/) - The search engine that respects your privacy
+- [Startpage](https://startpage.com/) - A safer way to search and browse online without personal data collection, tracking or targeting.
+- [Mailing List Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq) -  custom google mailing list search
+- [swisscows](https://swisscows.com/) - anonymous search engine protects the privacy of our users when searching and from inappropriate content when finding it. We do not use cookies or other tracking technologies, with us each search query remains anonymous and each user a guest without a user profile.
+- [Crossref](https://search.crossref.org/) - Search the metadata of journal articles, books, standards, datasets & more 
+- [Brave](https://search.brave.com/) - Brave search engine
+- [Mojeek](https://www.mojeek.com/) - Mojeek is a growing independent search engine which does not track you.
+- [Yahoo Search](https://search.yahoo.com/) - Yahoo search engine
+- [Baidu](https://www.baidu.com/) - chaina's search engine
+- [Ecosia](https://www.ecosia.org/) - a search engine used its revenue to plant trees around the World
+- [Dogpile](https://www.dogpile.com/) - Dogpile is a metasearch engine for information on the World Wide Web that fetches results from Google, Yahoo!, Yandex, Bing, and other popular search engines, including those from audio and video content providers such as Yahoo
+- [Zoo Search](https://www.metacrawler.com/) - Metacrawler is a type of search engine that aggregates results from multiple sources, such as other search engines and specialized web directories, and presents them in a unified format.
+- [App Store and iTunes search engine](https://fnd.io/) - Experience the App Store and iTunes Anywhere
+- [Ask](https://www.search.ask.com/) - a search engine cum news feed
+- [ZorexEye](http://zorexeye.com/) - ZorexEye is a search engine that helps you find direct download links for premium apps, software, books and other files for free with the help of AI and Google's Database.
+- [keys.openpgp.org](https://keys.openpgp.org/) - The keys.openpgp.org server is a public service for the distribution and discovery of OpenPGP-compatible keys, commonly referred to as a "keyserver". 
+- [MIT PGP Key Server](https://pgp.mit.edu/) - pgp key server by MIT
+- ~~[Ipfs-search.com](https://ipfs-search.com/#/search)~~ - Temporary Suspended
+- [Debate.cards](http://debate.cards/) - Search engine for finding and downloading debate evidence 
+- [Argumentsearch.com](http://argumentsearch.com/) - allows to search for natural-language arguments in large document collections. Neural networks find and summarize the pros and cons of your topic in real time
+- [Meganzsearch.com](https://www.meganzsearch.com/) - Mega.nz File Search Engine Search File. Search Movies. Search Music. Search Application. Search Document. More Search
+- [Engine.presearch.org](https://engine.presearch.org/) - Presearch is a community-powered, decentralized search engine that provides better results while protecting your privacy and rewarding you when you search.
+- [Blockscan.com](https://blockscan.com/) - Blockscan, the search engine for the decentralized web
+- [Publc.com](https://publc.com/) - PUBLC is more open and collaborative search engine enhanced by cutting edge AI technology, that empowers its users and revolutionizes the way people share, discover and monetize the content of the web
+- [CachedViews.com](https://cachedviews.com/) - Cached view of any page on Internet through multiple cached sources.
+- [MAC Address Lookup](https://maclookup.app/) - Find the vendor name of a device by entering an OUI or a MAC address
+- [sploitus](https://sploitus.com/) - Sploitus is a everyday tool that helps security researchers find exploits and tools.
+- [Vulmon](https://vulmon.com/) - Search anything related to vulnerabilities on Vulmon, from products to vulnerability types. Start your journey to free vulnerability intelligence. 
+- [Vulnerability & Exploit Database](https://www.rapid7.com/db/) - Technical details for over 180,000 vulnerabilities and 4,000 exploits are available for security professionals and researchers to review.
+- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - The Exploit Database is a CVE compliant archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.
+- [Google & Bing](https://one-plus.github.io/GoogleBing) - Google has a large library of search operators that can help with internet-based research, below is just a selection of them.
+- [Boardreader - Forum Search](https://boardreader.com/) - connecting communities through search
+- [Libgen.rs](http://libgen.rs/) - largest Book librery FREE
+- [Stacksearch](https://stacksear.ch/) - 404
+- [SearchTempest](https://www.searchtempest.com/) - All of Facebook Marketplace, craigslist & more in one search.
+- [2lingual](https://2lingual.com/) - 2lingual makes it easy to Google Search in 2 languages. Get Google Search Results alongside Google Cross Language Search Results. In addition, a Query Translation Option can be activated or deactivated for Google Cross Language Searches.
+- [Milled](https://milled.com/search) -  The search engine for ecommerce emails 
+- [btdig](https://btdig.com/) - BTDigg is the BitTorrent DHT search engine.
+- [Osint Open Source Projects](https://awesomeopensource.com/projects/osint) - The Top 23 Osint Open Source Projects
+- [Monster Crawler Search](http://monstercrawler.com/) - Monster Crawler combines the power of all the leading search engines together in one search box to deliver the best combined results. This is what we call metasearch. The process is more efficient and yields many more relevant results.
+- [Arabo.com](http://arabo.com/) - The Arab Middle East Search Engine & Directory
+- [Google Scholar](https://scholar.google.com/) - Google Scholar provides a simple way to broadly search for scholarly literature. From one place, you can search across many disciplines and sources: articles, theses, books, abstracts and court opinions, from academic publishers, professional societies, online repositories, universities and other web sites. Google Scholar helps you find relevant work across the world of scholarly research. 
+- [Million Short](https://millionshort.com/) - web search engine that allows you to filter and refine your search results set. Million Short makes it easy to discover sites that just don't make it to the top of the search engine results for whatever reason – whether it be poor SEO, new site, small marketing budget, or competitive keywords. The Million Short technology gives users access to the wealth of untapped information on the web. 
+- [BeVigil](https://bevigil.com/) - Instantly find the risk score of any app The internet's first and only security search engine for mobile apps
+- [WordPress.com](https://en.search.wordpress.com/) - search millions of blogs
+- [Octosearch.dootech.com](https://octosearch.dootech.com/) - Helps you search the repositories starred by people you follow on Github
+- [Search craigslist](http://searchcraigslist.org/) - All of Craigslist pages with simple click Searchcraigslist is a classified ad search engine for Craigslist nationwid
+- [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/) - Search Public Buckets
+- [Public Buckets](https://osint.sh/buckets/) - Find public buckets on AWS S3 & Azure Blob by a keyword
+- [Search Atlas](https://searchatlas.org/) - Visualizing Divergent Search Results Across Geopolitical Borders
 <br>
 
 [⇧ Top](#index)
