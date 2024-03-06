@@ -811,29 +811,25 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## NEWS
     
-- [News Search Engine](https://cse.google.com/cse?cx=013991603413798772546:fvmtax6anhd)
-- [Mailing List Archives Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq)
-- [Google News](https://news.google.com/)
-- [News Search](https://upstract.com/search)
-- [Newslookup.com](http://newslookup.com/)
-- [Welcome to Dealstrap!](http://correctsearch.com/)
-- [Beautiful News](https://informationisbeautiful.net/beautifulnews/)
-- [GoodGopher.com](https://goodgopher.com/)
-- [Newsnow](https://www.newsnow.co.uk/)
-- [Wintria](http://www.wintria.com/)
-- [Mereku.com](https://mereku.com/)
-- [Newspapers.com](https://www.newspapers.com/)
-- [Newspaper Archive](https://www.gastearsivi.com/en/)
-- [Talkwalker](https://www.talkwalker.com/alerts)
-- [Google Alerts](https://www.google.com/alerts)
-- [Paperball.news](https://paperball.news/)
-- [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/)
-- [Snopes](https://www.snopes.com/?s=)
-- [ReviewMeta](https://reviewmeta.com/)
-- [Verification Handbook](https://datajournalism.com/read/handbook/verification-1)
-- [Truth or Fiction](https://www.truthorfiction.com/)
-- [Debunking False Stories Archives](https://www.factcheck.org/fake-news/)
-- [Fact-Checking](https://reporterslab.org/fact-checking/)
+- [News Search Engine](https://cse.google.com/cse?cx=013991603413798772546:fvmtax6anhd) - custom google search for news only results
+- [Mailing List Archives Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq) - custom google search for mailing list archives of news
+- [Google News](https://news.google.com/) - google news feed around the world
+- [News Search](https://upstract.com/search) - Upstract is the ultimate attempt in delivering the entire Internet on a single page search the news
+- [Welcome to Dealstrap!](http://correctsearch.com/) - Find Breaking news around the world
+- [Beautiful News](https://informationisbeautiful.net/beautifulnews/) - A collection of good news, positive trends, uplifting statistics and facts — all beautifully visualized by Information is Beautiful.
+- [GoodGopher.com](https://goodgopher.com/) - GoodGopher is the world's first privacy-protected search engine that filters our corporate propaganda and government disinformation for those searching for information and news on liberty, natural healing, central banks, food freedom, advanced science and a multitude of other topics no longer allowed in NSA-controlled search engines. 
+- [Newsnow](https://www.newsnow.co.uk/) - NewsNow: The Independent News Discovery Platform for UK,US,CA
+- ~~[Mereku.com](https://mereku.com/)~~ - 404
+- [Newspapers.com](https://www.newspapers.com/) - The largest online newspaper archive, established in 2012. Used by millions for genealogy and family history, historical research, crime investigations, journalism, and entertainment. Search for obituaries, marriage announcements, birth announcements, social pages, national and local news articles, sports, advertisements, entertainment, fashion and lifestyle pages, comics, and more.
+- [Talkwalker](https://www.talkwalker.com/alerts) - Best free and easy alternative to Google Alerts Talkwalker Alerts monitors every single mention of your brand, products, and keywords across the internet - including news platforms, blogs, forums, websites, and even Twitter (X).
+- [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content create an email alert about any topic in mind
+- [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/) - Visualize the spread of information on Twitter 
+- [Snopes](https://www.snopes.com/?s=) -  The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
+- [ReviewMeta](https://reviewmeta.com/) - ReviewMeta analyzes Amazon product reviews and filters out reviews that our algorithm detects may be unnatural.
+- [Verification Handbook](https://datajournalism.com/read/handbook/verification-1) - Need to learn new data skills, increase your data journalism knowledge or advance your career?
+- [Truth or Fiction](https://www.truthorfiction.com/) - Truth or Fiction? – Seeking truth, exposing fiction
+- [Debunking False Stories Archives](https://www.factcheck.org/fake-news/) - FactCheck.org is one of several organizations working with Facebook to debunk misinformation shared on the social media network
+- [Fact-Checking](https://reporterslab.org/fact-checking/) - The Reporters’ Lab is a center for journalism research in the Sanford School of Public Policy at Duke University. Our core projects focus on fact-checking, but we also do occasional research about trust in the news media and other topics.
 <br>
 
 [⇧ Top](#index)
