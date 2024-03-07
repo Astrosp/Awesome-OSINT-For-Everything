@@ -964,25 +964,23 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## LICENSE PLATE/VIN/VEHICLE
  
-- [Plate Recognizer](https://platerecognizer.com/)
-- [License Plates of the World](http://www.worldlicenseplates.com/)
-- [VIN decoder](http://www.vindecoderz.com/)
-- [Poctra.com](https://poctra.com/)
-- [FAXVIN](https://www.faxvin.com/)
-- [AutoCheck](https://www.autocheck.com/)
-- [VIN Lookup](https://thatsthem.com/vin-lookup)
-- [VINCheck®](https://www.nicb.org/vincheck)
-- [Autogespot](https://www.autogespot.us/spots)
-- [Nomerogram.ru](https://www.nomerogram.ru/)
-- [COSINT – OSINT on Cars](https://osintcurio.us/2021/02/17/cosint-osint-on-cars/)
+- [Plate Recognizer](https://platerecognizer.com/) - Automatic License Plate Recognition software that works in all environments, optimized for your location
+- [License Plates of the World](http://www.worldlicenseplates.com/) - License plates of the world
+- [VIN decoder](http://www.vindecoderz.com/) - VIN decoder is intended to provide detailed information about a vehicle's history, specifications, and ownership based on its unique 17-character identifier.
+- [Poctra.com](https://poctra.com/) - Poctra is salvage car auction archive from US and EU markets.
+- [FAXVIN](https://www.faxvin.com/) - Vehicle History Reports
+- [AutoCheck](https://www.autocheck.com/) - FREE Vehicle Search: Enter a VIN or Plate
+- [VINCheck®](https://www.nicb.org/vincheck) - NICB's VINCheck is a free lookup service provided to the public to assist in determining if a vehicle may have a record of an insurance theft claim, and has not been recovered, or has ever been reported as a salvage vehicle by participating NICB member insurance companies. 
+- [Nomerogram.ru](https://www.nomerogram.ru/) - In Numberogram, you can break the car for free on the state room. Vin is not needed. We are looking for photos of cars in social networks and the Internet, in addition to the photo we know runs and prices, we find on the public. taxi number, dtp and accidents.
 - [🚗License Plates in Canada 🇨🇦](https://www.google.com/maps/d/viewer?mid=1zXYL2BF2MByEduLzYN5brVnli9J3cIlv)
-- [Vehical Info](https://www.vehicleinfo.in/)    
+- [Vehical Info](https://www.vehicleinfo.in/) - 404
+- [CarInfo](https://www.carinfo.app/) - Get Your Vehicle Details by RC
 <br>
 
 [⇧ Top](#index)
 ## FLIGHT TRACKER
     
-- [FlightAirMap](https://www.flightairmap.com/)
+- [FlightAirMap](https://www.flightairmap.com/) - 
 - [ADS-B Exchange](https://globe.adsbexchange.com/)
 - [Icarus.flights](https://icarus.flights/)
 - [FlightAware](https://flightaware.com/)
