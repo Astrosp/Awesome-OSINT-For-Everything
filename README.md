@@ -15,7 +15,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->	
 ## Index
- [AI](#ai) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Image/Video/Audio](#image--video--audio--media) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕
+ [AI](#ai) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Image/Video/Audio](#image--video--audio--media) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Search Engine](#search-engines) ⁕ [News](#news) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕ [Image and Audio](#images-and-audio)
 
 
 ## Basic OSINT 
@@ -896,7 +896,8 @@ You are searching 121 billion records.
 
 [⇧ Top](#index)
 ## GOOGLE CSE
-    
+    custom made google search engine for perticular fields
+
 - [Homepage Search Engine](https://cse.google.com/cse?cx=005797772976587943970:3tu7im1-rdg#gsc.tab=0)
 - [Amazon Cloud Search Engine](https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0)
 - [Google CSE instances Search Engine](https://cse.google.com/cse?cx=009462381166450434430:vggeu3dhhgg#gsc.tab=0)
@@ -917,46 +918,47 @@ You are searching 121 billion records.
 <br>
 
 [⇧ Top](#index)
-## IMAGE / VIDEO / AUDIO / MEDIA
+## IMAGES and Audio
     
-- [Google Images](https://images.google.com/)
-- [Yandex Images](https://yandex.com/images/)
-- [Bing Images](https://www.bing.com/images)
-- [See it, search it](https://www.bing.com/visualsearch)
-- [Images Search Engine](https://cse.google.com/cse?cx=281566d4e61dcc05d)
-- [miniPaint](https://viliusle.github.io/miniPaint/)
-- [PimEyes](https://pimeyes.com/en/)
-- [TinEye](https://tineye.com/)
-- [Findclone](https://findclone.ru/)
-- [Image Raider](https://infringement.report/api/raider-reverse-image-search/)
-- [same.energy](https://same.energy/)
-- [Baidu](https://image.baidu.com/)
-- [Peteyvid.com](https://www.peteyvid.com/)
-- [Free Music Search](http://musgle.com/)
-- [Yahoo Image Search](https://images.search.yahoo.com/images)
-- [Photo Album Finder](https://cse.google.com/cse/publicurl?cx=013991603413798772546:bldnx392j6u)
-- [Image Metadata Viewer](http://exif.regex.info/exif.cgi)
-- [Search for Music Using Your Voice](https://www.midomi.com/)
-- [MyHeritage Photo Enhancer](https://www.myheritage.com/photo-enhancer)
-- [Neural network image super-resolution and enhancement](https://letsenhance.io/)
-- [SVG Editor](https://svg-edit.github.io/svgedit/)
-- [Pixsy](https://www.pixsy.com/)
-- [FotoForensics](https://fotoforensics.com/)
-- [Listen Notes](https://www.listennotes.com/)
-- [image identify](https://www.imageidentify.com/)
-- [EXIF Data Viewer](http://exifdata.com/)
-- [Discover Podcasts Here!](https://podsearch.com/)
-- [Pictures](https://www.picsearch.com/)
-- [Background Removal Tool](https://photoscissors.com/)
-- [Museo](https://museo.app/)
-- [Diff Checker](https://www.diffchecker.com/image-diff/)
-- [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)
-- [Pictriev](http://pictriev.com/)
-- [facesaerch](http://www.facesaerch.com/)
-- [WhatTheFont](https://www.myfonts.com/WhatTheFont/)
-- [Sogou](https://pic.sogou.com/)
-- [Pixabay](https://pixabay.com/images/search/)
-- [tidder.xyz](http://tidder.xyz/)
+### Image
+
+- [Google Images](https://images.google.com/) - Google image search
+- [Yandex Images](https://yandex.com/images/) - Yandex Image search
+- [Bing Images](https://www.bing.com/images) - Bing Image search
+- [See it, search it](https://www.bing.com/visualsearch) - Bing visualsearch, search whats on a image
+- [Images Search Engine](https://cse.google.com/cse?cx=281566d4e61dcc05d) - custom google image search engine
+- [miniPaint](https://viliusle.github.io/miniPaint/) - Online paint and image editor
+- [PimEyes](https://pimeyes.com/en/) - Face Search Engine Reverse Image Search
+- [TinEye](https://tineye.com/) - Reverse Image Search Find where images appear online
+- [Findclone](https://findclone.ru/) - Let's help you find your double.
+- [Image Raider](https://infringement.report/api/raider-reverse-image-search/) - Image Raider is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
+- [same.energy](https://same.energy/) - Same Energy is a visual search engine. You can use it to find beautiful art, photography, decoration ideas, or anything else.
+- [Baidu](https://image.baidu.com/) - chaina's Baidu Image search engine
+- [Yahoo Image Search](https://images.search.yahoo.com/images)- Yahoo Image Search engine
+- [Photo Album Finder](https://cse.google.com/cse/publicurl?cx=013991603413798772546:bldnx392j6u) - custom google search photo album finder
+- [MyHeritage Photo Enhancer](https://www.myheritage.com/photo-enhancer) - Upgrade your photos automatically with the world’s best machine learning technology. Faces will become more pronouncer! It enhance blury photos
+- [SVG Editor](https://svg-edit.github.io/svgedit/) - SVGEdit is a fast, web-based, JavaScript-driven SVG drawing editor that works in any modern browser.
+- [Neural network image super-resolution and enhancement](https://letsenhance.io/) - Make your pics high resolution - HD, 4k and beyond. Enlarge and sharpen photos for printing and web in a single click.
+- [Pixsy](https://www.pixsy.com/) - Find and fight image theft Take back control of your images. See where & how your images are being used online!
+- [FotoForensics](https://fotoforensics.com/) - FotoForensics provides budding researchers and professional investigators access to cutting-edge tools for digital photo forensics. 
+- [image identify](https://www.imageidentify.com/) - The Wolfram Language Image Identification Project
+- [EXIF Data Viewer](http://exifdata.com/) - EXIF is short for Exchangeable Image File, a format that is a standard for storing interchange information in digital photography image files using JPEG compression. Almost all new digital cameras use the EXIF annotation, storing information on the image such as shutter speed, exposure compensation, F number, what metering system was used, if a flash was used, ISO number, date and time the image was taken, whitebalance, auxiliary lenses that were used and resolution. Some images may even store GPS information so you can easily see where the images were taken!
+- [Background Removal Tool](https://photoscissors.com/) - Remove a background and replace it with a transparent, solid color or background image with just a few clicks!
+- [Museo](https://museo.app/) - Museo is a visual search engine that connects you with the Art Institute of Chicago, the Rijksmuseum, the Harvard Art Museums, the Minneapolis Institute of Art, the The Cleveland Museum of Art, and the New York Public Library Digital Collection
+- [Diff Checker](https://www.diffchecker.com/image-diff/) - Find the difference between pictures or other images!
+Enter two images and the difference will show up below
+- [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Forensically is a set of free tools for digital image forensics. It includes clone detection, error level analysis, meta data extraction and more.
+- [Pictriev](http://pictriev.com/) - Find look-alike celebrities on the web using the face recognition.
+- [WhatTheFont](https://www.myfonts.com/WhatTheFont/) -  Instant font identification powered by the world’s largest collection of fonts, Identify font in given image
+- [Sogou](https://pic.sogou.com/) - 
+- [Pixabay](https://pixabay.com/images/search/) - Free Image gallery 
+  
+### Music
+
+- [Free Music Search](http://musgle.com/) -  To see Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results
+- [Search for Music Using Your Voice](https://www.midomi.com/) - Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free!
+- [Listen Notes](https://www.listennotes.com/) - Search the whole Internet's podcasts. Curate your own podcast playlists. Listen on your favorite podcast player apps.
+- [Discover Podcasts Here!](https://podsearch.com/) - PodSearch is the easiest way to discover podcasts on your favorite topics. Listen to short show samples, learn more about the show and hosts
 <br>
 
 [⇧ Top](#index)
