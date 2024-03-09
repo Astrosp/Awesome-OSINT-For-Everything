@@ -980,16 +980,15 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## FLIGHT TRACKER
     
-- [FlightAirMap](https://www.flightairmap.com/) - 
-- [ADS-B Exchange](https://globe.adsbexchange.com/)
-- [Icarus.flights](https://icarus.flights/)
-- [FlightAware](https://flightaware.com/)
-- [Flightradar24](https://www.flightradar24.com/)
-- [Live Air Traffic Control](https://www.liveatc.net/)
-- [Planespotters.net](https://www.planespotters.net/)
-- [Skyscanner](https://www.skyscanner.com/)
-- [RadarBox](https://www.radarbox.com/)
-- [ICAO Civil and Military airspace SUASHP](https://www.arcgis.com/apps/webappviewer/index.html?id=5db021bcb221498f81be055b3e238bf8)
+- [FlightAirMap](https://www.flightairmap.com/) - Real or virtual flights are displayed in real-time on a 2D or 3D map. Airports are also available on map. Statistics for pilots and/or owners are generated.
+- [ADS-B Exchange](https://globe.adsbexchange.com/) - ADS-B Exchange - track aircraft live
+- [Icarus.flights](https://icarus.flights/) - Icarus Flights is a tool for analyzing uncensored aircraft activity data and tracing global aircraft ownership records
+- [FlightAware](https://flightaware.com/) - As the leader in providing advanced, accurate, actionable data and insights that inform every aviation decision, FlightAware is Central to Aviation
+- [Flightradar24](https://www.flightradar24.com/) - Live Flight Tracker - Real-Time Flight Tracker Map 
+- [Live Air Traffic Control](https://www.liveatc.net/) - Live Air traffic form thir headsets
+- [Planespotters.net](https://www.planespotters.net/) - Aviation Photos, Airline Fleets and more
+- [Skyscanner](https://www.skyscanner.com/) - Millions of cheap flights, hotels & cars. One simple search.
+- [RadarBox](https://www.radarbox.com/) - RadarBox is a flight tracking company that displays aircraft & flight information in real-time on a map. RadarBox offers flight data such as latitude and longitude positions, origins and destinations, flight numbers, aircraft types, altitudes, headings and speeds
 <br>
 
 [⇧ Top](#index)
