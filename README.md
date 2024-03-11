@@ -989,15 +989,15 @@ Enter two images and the difference will show up below
 - [Planespotters.net](https://www.planespotters.net/) - Aviation Photos, Airline Fleets and more
 - [Skyscanner](https://www.skyscanner.com/) - Millions of cheap flights, hotels & cars. One simple search.
 - [RadarBox](https://www.radarbox.com/) - RadarBox is a flight tracking company that displays aircraft & flight information in real-time on a map. RadarBox offers flight data such as latitude and longitude positions, origins and destinations, flight numbers, aircraft types, altitudes, headings and speeds
+- [FlightAirMap](https://www.flightairmap.com/) - Real or virtual flights are displayed in real-time on a 2D or 3D map. Airports are also available on map. Statistics for pilots and/or owners are generated.
 <br>
 
 [⇧ Top](#index)
 ## MARITIME
     
-- [Marine Traffic](https://www.marinetraffic.com/)
-- [VesselFinder](https://www.vesselfinder.com/)
-- [FlightAirMap](https://www.flightairmap.com/)
-- [OSINT on the Ocean](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1)
+- [Marine Traffic](https://www.marinetraffic.com/) - seaways / marine live map
+- [VesselFinder](https://www.vesselfinder.com/) - Free AIS Ship Tracker - VesselFinder
+- [OSINT on the Ocean](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1) - Article on Maritime Intelligence Gathering
 <br>
 
 [⇧ Top](#index)
