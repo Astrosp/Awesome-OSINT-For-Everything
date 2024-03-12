@@ -1003,29 +1003,24 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## OPEN DIRECTORY
     
-- [FilePhish](https://cartographia.github.io/FilePhish/)
-- [Open Directory Finder](https://odfinder.github.io/)
-- [Filetype search tool](https://www.aware-online.com/en/osint-tools/filetype-search-tool/)
-- [Opendirsearch.abifog.com](https://opendirsearch.abifog.com/)
-- [Archive-it.org](https://archive-it.org/)
-- [Odcrawler.xyz](https://odcrawler.xyz/)
-- [Google Docs CSE](https://cse.google.com/cse/publicurl?cx=013991603413798772546:rse-4irjrn8#gsc.tab=0)
-- [Documents Search Engine](https://cse.google.com/cse?cx=e6756edc507bcfa91)
-- [Cybersec Documents Search Engine](https://cse.google.com/cse?cx=013991603413798772546:ekjmizm8vus#gsc.tab=0)
-- [GoogleDrive Search Engine](https://cse.google.com/cse?cx=c64ba311eb8c31896)
-- [SlideShare Search Engine](https://cse.google.com/cse?cx=465eeeb114c7f523f)
-- [Document Search](https://one-plus.github.io/DocumentSearch)
-- [FONETASK](http://fonetask.com/)
-- [Web archive search tool](https://www.aware-online.com/osint-tools/web-archive-search-tool/)
-- [Pdfsearch.io](https://www.pdfsearch.io/)
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-- [Drivesearch.kwebpia.net](http://drivesearch.kwebpia.net/)
-- [Filepursuit.com](https://filepursuit.com/)
-- [Filechef.com](https://www.filechef.com/)
-- [Open Directory Search](http://eyeofjustice.com/od/)
-- [Mamont’s open FTP Index](https://www.mmnt.net/)
-- [LENDX](http://lendx.org/)
-- [Direct Download Almost Anything](https://ewasion.github.io/opendirectory-finder/)
+- [FilePhish](https://neonpangolin.github.io/FilePhish/) - A simple Google query builder for document file discovery
+- [Open Directory Finder](https://odfinder.github.io/) - This small Program allows you to find open directories on the web. This program uses Google advance search. Can find any video, audio or other files
+- [Opendirsearch.abifog.com](https://opendirsearch.abifog.com/) - Find open directories with this tool. It uses google's engine for the actual search.
+- [Archive-it.org](https://archive-it.org/) - a digital library of Internet sites and other cultural artifacts in digital form. Like a paper library, we provide free access to researchers, historians, scholars, people with print disabilities, and the general public
+- [Odcrawler.xyz](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files! 
+- [Google Docs CSE](https://cse.google.com/cse/publicurl?cx=013991603413798772546:rse-4irjrn8#gsc.tab=0) - custom google search engine for documents search
+- [Documents Search Engine](https://cse.google.com/cse?cx=e6756edc507bcfa91) - custom google search 
+- [Cybersec Documents Search Engine](https://cse.google.com/cse?cx=013991603413798772546:ekjmizm8vus#gsc.tab=0) - custom google search
+- [GoogleDrive Search Engine](https://cse.google.com/cse?cx=c64ba311eb8c31896) - custom google search
+- [SlideShare Search Engine](https://cse.google.com/cse?cx=465eeeb114c7f523f) - custom google search
+- [Document Search](https://one-plus.github.io/DocumentSearch) - To use the document search tools, please insert a name or company into the relevant boxes
+- [Pdfsearch.io](https://www.pdfsearch.io/) - Document Search Engine - browse more than 18 million document
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) -  A topic-centric list of HQ open datasets. 
+- [Drivesearch.kwebpia.net](http://drivesearch.kwebpia.net/) - You can quickly and easily search for videos, lyrics, songs, knowledge, medical, science associated with the file. Supports the following topics: Google Drvie, Google Docs, All web search, Video, Lyrics, Knowledge, Movie, Health, Medical, Science, Pandora, Last.fm, SoundCloud... 
+- [Filepursuit.com](https://filepursuit.com/) - Search the web for files, videos, audios, eBooks & much more
+- [Open Directory Search](http://eyeofjustice.com/od/) - Open Directory Search Portal
+- [LENDX](http://lendx.org/) - All over the world, people like you and me connect their computers to the internet. Some of those users allow their computers to operate as servers (for hosting their websites and such). Those websites have folders that contain the images, documents and text that makeup the website's content. These folders are the directory of the website. In that directory, those users can store any files and any data they wish to put there. Lendx simply allows you to access this data.
+- [Direct Download Almost Anything](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
 <br>
 
 [⇧ Top](#index)
@@ -1088,6 +1083,7 @@ Enter two images and the difference will show up below
 - [domainbigdata](https://domainbigdata.com/)
 - [Domain Codex](https://www.domaincodex.com/search.php)
 - [dnslytics](https://dnslytics.com/)
+- [dnstwist](https://dnstwist.it) - scan phishing domain
 - [SecurityTrails](https://securitytrails.com/)
 - [Shodan](https://shodan.io/)
 - [Internetdb.shodan.io](https://internetdb.shodan.io/)
