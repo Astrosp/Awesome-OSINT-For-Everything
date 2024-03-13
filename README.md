@@ -1041,37 +1041,35 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## SOURCE CODES
     
-- [Pastes Search Engine](https://cse.google.com/cse?cx=661713d0371832a02)
-- [Pastes Search Engine 2](https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e)
-- [GitHub Search Engine](https://cse.google.com/cse?cx=1b053c8ec746d6611)
-- [Source Code Search Engine](https://publicwww.com/)
-- [Google to search profiles on GitHub](https://recruitin.net/github.php)
-- [Grep.app](https://grep.app/)
-- [NerdyData](https://www.nerdydata.com/)
-- [Paste Search](https://psbdmp.ws/)
-- [GitHub Code Search](https://github.com/search)
-- [Bitbucket Repo Search](https://bitbucket.org/repo/all/)
-- [Shhgit](https://github.com/eth0izzle/shhgit)
-- [git-hound](https://github.com/tillson/git-hound)
-- [Webfinery | Source Code Search](https://webfinery.com/search)
-- [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search)
-- [searchcode](https://searchcode.com/)
-- [Sourcegraph](https://about.sourcegraph.com/)
-- [Awesome Open Source](https://awesomeopensource.com/)
-- [Awesome-indexed](http://awesome-indexed.mathew-davies.co.uk/)
-- [Awesomelists.top](http://dev.awesomelists.top/#/)
-- [Zen](https://github.com/s0md3v/Zen)
-- [GitDorker](https://github.com/obheda12/GitDorker)
+- [Pastes Search Engine](https://cse.google.com/cse?cx=661713d0371832a02) - custom google search
+- [Pastes Search Engine 2](https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e) - custom google search
+- [GitHub Search Engine](https://cse.google.com/cse?cx=1b053c8ec746d6611) - custom google search
+- [Source Code Search Engine](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
+- [Google to search profiles on GitHub](https://recruitin.net/github.php) - Easily use Google to search profiles on GitHub
+- [Grep.app](https://grep.app/) - grep.app searches code from over a half million public repositories on GitHub.
+- [NerdyData](https://www.nerdydata.com/) - NerdyData will help you find which websites use certain SaaS technologies.
+- [Paste Search](https://psbdmp.ws/) - Leaks monitor The biggest archive of {paste} dumps
+- [GitHub Code Search](https://github.com/search) - github code search
+- [Bitbucket Repo Search](https://bitbucket.org/repo/all/) - find code in bitbucket
+- [Shhgit](https://github.com/eth0izzle/shhgit) - Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories
+- [git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs. 
+- [Webfinery | Source Code Search](https://webfinery.com/search) - Search the source code of the web
+- [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search) - This Custom Search Tool by @RedHuntLabs Team looks for keywords/strings in following Online IDEs, Paste(s) sites and Code Sharing Platforms. 
+- [searchcode](https://searchcode.com/) - Search 75 billion lines of code from 40 million projects
+- [Sourcegraph](https://about.sourcegraph.com/) - Sourcegraph allows developers to rapidly search, write, and understand code by bringing insights from their entire codebase right into the editor
+- [Awesome Open Source](https://awesomeopensource.com/) - Find And Compare Open Source Projects
+- [Zen](https://github.com/s0md3v/Zen) -  Find emails of Github users 
+- [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 <br>
 
 [⇧ Top](#index)
 ## WHOIS
     
-- [WHOIS Service](https://whoismind.com/)
-- [Whois Search](https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US)
-- [Who.is](https://who.is/)
-- [Whoxy](https://www.whoxy.com/)
-- [Whois History](https://osint.sh/whoishistory/)
+- [WHOIS Service](https://whoismind.com/) - search any ip address
+- [Whois Search](https://webwhois.verisign.com/webwhois-ui/index.jsp?language=en_US) - Verisign’s Whois tool allows users to look up records in the registry database for all registered .com, .net, .name, .cc and .edu domain names.
+- [Who.is](https://who.is/) - WHOIS Search, Domain Name, Website, and IP Tools
+- [Whoxy](https://www.whoxy.com/) - whoxy domain search engine
+- [Whois History](https://osint.sh/whoishistory/) - Lets you see all the historical WHOIS records of a domain name
 <br>
 
 [⇧ Top](#index)
