@@ -1026,19 +1026,16 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## DATASET
     
-- [Datasetsearch.research.google.com](https://datasetsearch.research.google.com/)
-- [Databasd](https://databasd.com/)
-- [Data.gov](https://www.data.gov/)
-- [data.world](https://data.world/)
-- [BigQuery public datasets](https://cloud.google.com/bigquery/public-data/)
-- [Ariadne2.isti.cnr.it](http://ariadne2.isti.cnr.it/)
-- [DSC Data Science Search Engine](https://www.datasciencecentral.com/page/search)
-- [Datasetlist.com](https://www.datasetlist.com/)
-- [Search Datasets](https://datahub.io/search)
-- [OpenData by Socrata](https://opendata.socrata.com/)
-- [Opensanctions.org](https://opensanctions.org/)
-- [FiveThirtyEight](https://fivethirtyeight.com/?s=)
-- [Kaggle](https://www.kaggle.com/search?q=)
+- [Datasetsearch.research.google.com](https://datasetsearch.research.google.com/) -  Dataset Search is a search engine for datasets. Using a simple keyword search, users can discover datasets hosted in thousands of repositories across the Web.
+- [Databasd](https://databasd.com/search) - is a search engine to find open datasets. The search technology leverages alien artifical intelligence (AAI) to conduct predictive bloackchain data analysis
+- [Data.gov](https://www.data.gov/) - Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
+- [data.world](https://data.world/) - The Data Catalog Platform
+- [BigQuery public datasets](https://cloud.google.com/bigquery/public-data/) - A public dataset is any dataset that is stored in BigQuery and made available to the general public through the Google Cloud Public Dataset Program
+- [DSC Data Science Search Engine](https://www.datasciencecentral.com/page/search) - Data Science Central is the industry’s leading online resource for data practitioners. From Statistics and Analytics to Machine Learning and AI, Data Science Central provides a community experience that includes a rich editorial platform, social interaction, forum-based support, and the latest information on technology, tools, trends, and careers
+- [Datasetlist.com](https://www.datasetlist.com/) - A list of machine learning datasets from across the web.
+- [Search Datasets](https://datahub.io/search) - Build elegant data-driven sites with markdown & deploy in seconds.
+- [Opensanctions.org](https://opensanctions.org/) - OpenSanctions helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products
+- [Kaggle](https://www.kaggle.com/search?q=) - Join over 17M+ machine learners to share, stress test, and stay up-to-date on all the latest ML techniques and technologies. Discover a huge repository of community-published models, data & code for your next project
 <br>
 
 [⇧ Top](#index)
