@@ -1075,59 +1075,40 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## DOMAIN / IP / DNS
     
-- [domainbigdata](https://domainbigdata.com/)
-- [Domain Codex](https://www.domaincodex.com/search.php)
-- [dnslytics](https://dnslytics.com/)
+- [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
-- [SecurityTrails](https://securitytrails.com/)
-- [Shodan](https://shodan.io/)
-- [Internetdb.shodan.io](https://internetdb.shodan.io/)
-- [GreyNoise Intelligence](https://www.greynoise.io/viz/)
-- [FOFA](https://fofa.so/)
-- [zoomeye](https://www.zoomeye.org/)
-- [Censys](https://censys.io/domain)
-- [ViewDNS.info](https://viewdns.info/)
-- [Internet Census 2012](http://census2012.sourceforge.net/paper.html)
-- [ONYPHE](https://www.onyphe.io/)
-- [IPLeak](https://ipleak.net/)
-- [Censys Certificates](https://censys.io/certificates)
-- [Censys IPv4](https://censys.io/ipv4)
-- [ViewDNS.info](https://viewdns.info/)
-- [Robtex](https://www.robtex.com/)
-- [Website search tool](https://www.aware-online.com/en/osint-tools/website-search-tool/)
-- [Wappalyzer](https://www.wappalyzer.com/lookup/)
-- [photon](https://pypi.org/project/photon/)
-- [Technology Lookup](https://osint.sh/stack/)
-- [BuiltWith Technology Lookup](https://builtwith.com/)
-- [NMAP Online](https://osint.sh/nmap/)
-- [Nmap Checker Tool](https://shadowcrypt.net/tools/nmap)
-- [Free online network tools](https://centralops.net/co/)
-- [Google Transparency Report](https://transparencyreport.google.com/https/certificates)
-- [Certificate Search](https://osint.sh/crt/)
-- [CRT](https://crt.sh/)
-- [LeakIX](https://leakix.net/)
-- [DomainWatch](https://domainwat.ch/)
-- [URL and website scanner](https://urlscan.io/)
-- [dnsdumpster](https://dnsdumpster.com/)
-- [Domain Codex](https://www.domaincodex.com/search.php)
-- [SimilarWeb](https://www.similarweb.com/)
-- [Alexa](https://www.alexa.com/siteinfo)
-- [Website Information](https://one-plus.github.io/WebsiteInformation)
-- [IP search - Network Entity Reputation Database](https://nerd.cesnet.cz/nerd/ips/)
-- [Reverse Domain](https://osint.sh/domain/)
-- [Poodle Check](https://osint.sh/poodle/)
-- [Heartbleed Check](https://osint.sh/heartbleed/)
-- [DNS History Lookup](https://osint.sh/dnshistory/)
-- [Subdomain Finder](https://osint.sh/subdomain/)
-- [Reverse IP Lookup](https://osint.sh/reverseip/)
-- [Reverse Google Adsense](https://osint.sh/adsense/)
-- [Reverse Google Analytics](https://osint.sh/analytics/)
-- [Reverse MX Record](https://osint.sh/reversemx/)
-- [IP GEO Location Lookup](https://osint.sh/ip/)
-- [IANA — Root Zone Database](https://www.iana.org/domains/root/db)
-- [Punkspider](https://punkspider.org/)
-- [metabigor](https://github.com/j3ssie/metabigor)
-- [Spyse](https://spyse.com/)
+- [SecurityTrails](https://securitytrails.com/) - search for domain, IPs, keyword or Hostname
+- [Shodan](https://shodan.io/) - Shodan is a search engine that lets users search for various types of servers connected to the internet using a variety of filters. Some have also described it as a search engine of service banners, which are metadata that the server sends back to the client.
+- [Internetdb.shodan.io](https://internetdb.shodan.io/) - The InternetDB API provides a fast way to see the open ports for an IP address. It gives a quick, at-a-glance view of the type of device that is running behind an IP address to help you make decisions based on the open ports. 
+- [GreyNoise Intelligence](https://www.greynoise.io/viz/) - GreyNoise identifies internet scanners and common business activity in your security events so you can make confident decisions, faster. Whether you use our Visualizer, API, or integrate GreyNoise data into your security tools, find what's important in your security logs and get back to business.
+- [FOFA](https://fofa.so/) - 
+- [zoomeye](https://www.zoomeye.org/) - ZoomEye is a freemium online tool aimed to help aid cybersecurity in the areas of reconnaissance and threat evaluation.
+- [Censys](https://censys.io/domain) -  is a web-based search platform for assessing attack surface for Internet connected devices. The tool can be used not only to identify Internet connected assets and Internet of Things/Industrial Internet of Things (IoT/IIoT), but Internet-connected industrial control systems and platforms.
+- [ViewDNS.info](https://viewdns.info/) - Reverse IP Lookup Find all sites hosted on a given server. Domain / IP. Reverse Whois Lookup Find domain names owned by an individual or company.
+- [Internet Census 2012](http://census2012.sourceforge.net/paper.html) - Overview of 180 Billion service probe records from May to December 2012.
+- [ONYPHE](https://www.onyphe.io/) - ONYPHE is an Attack Surface Management & Attack Surface Discovery solution built as a Cyber Defense Search Engine. We scan the entire Internet and Dark Web for exposed assets and crawl the links just like a Web search engine. Our data is searchable with a Web form or directly from our numerous APIs.
+- [IPLeak](https://ipleak.net/) - 
+- [Robtex](https://www.robtex.com) - Robtex is used for various kinds of research of IP numbers, Domain names, etc
+- [Wappalyzer](https://www.wappalyzer.com/lookup/) - Instantly reveal the technology stack of any website, such as CMS, ecommerce platform or payment processor, as well as company and contact details.
+- [photon](https://pypi.org/project/photon/) - Incredibly fast crawler designed for OSINT. 
+- [Technology Lookup](https://osint.sh/stack/) - Technology stack checker tool. Check out the technologies used on any website.
+- [BuiltWith Technology Lookup](https://builtwith.com/) - Find out what websites are Built With
+- [OSINT.SH](https://osint.sh/) - All in one Information Gathering Tools
+- [Nmap Checker Tool](https://shadowcrypt.net/tools/nmap) - Online Free Hacking Tools - ShadowCrypt
+- [Free online network tools](https://centralops.net/co/) - Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6
+- [Google Transparency Report](https://transparencyreport.google.com/https/certificates) - HTTPS encryption on the web report
+- [Certificate Search](https://osint.sh/crt/) - Find information about the target assets from their SSL certificate
+- [CRT](https://crt.sh/) - certificate search
+- [LeakIX](https://leakix.net/) - This project goes around the Internet and finds services to index them.
+- [URL and website scanner](https://urlscan.io/) - urlscan.io is a free service to scan and analyse websites. When a URL is submitted to urlscan.io, an automated process will browse to the URL like a regular user and record the activity that this page navigation creates.
+- [dnsdumpster](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
+- [Domain Codex](https://www.domaincodex.com/search.php) - private investigation search, legal and case research, IP & Digital piracy..
+- [SimilarWeb](https://www.similarweb.com/) - SimilarWeb is a tool that estimates the total amount of traffic different websites get. It allows you to see competitors' top traffic sources, broken down into six major categories, including referring sites, social traffic, and top search keywords
+- [IP search - Network Entity Reputation Database](https://nerd.cesnet.cz/nerd/ips/) - The NERD system gathers data about sources of cyber threats from a number of sources and builds a constantly-updated database of the known malicious network entities (currently only IP addresses).
+- [Reverse Domain](https://osint.sh/domain/) - Allow you to find domain names by a keyword
+- [IANA — Root Zone Database](https://www.iana.org/domains/root/db) - The Root Zone Database represents the delegation details of top-level domains, including gTLDs such as .com, and country-code TLDs such as .uk. As the manager of the DNS root zone, we are responsible for coordinating these delegations in accordance with our policies and procedures.
+- [Punkspider](https://punkspider.org/) - Searching for vulnerable websites is coming back soon! Are you new to web security and have no idea what the heck we're talking about
+- [metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 <br>
 
 [⇧ Top](#index)
