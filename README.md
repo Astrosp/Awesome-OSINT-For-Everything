@@ -1114,21 +1114,19 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## MALWARE
     
-- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
-- [Interactive Online Malware Analysis Sandbox](https://app.any.run/)
-- [Free Automated Malware Analysis Service](https://hybrid-analysis.com/)
-- [VirusTotal](https://www.virustotal.com/gui/)
-- [Maltiverse](https://maltiverse.com/search)
-- [Malware News Search](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)
-- [AlienVault Open Threat Exchange](https://otx.alienvault.com/)
-- [Jotti’s malware scan](https://virusscan.jotti.org/)
-- [IObit Cloud](https://cloud.iobit.com/index.php)
-- [theZoo](https://github.com/ytisf/theZoo)
-- [Vx-underground.org](https://vx-underground.org/)
-- [VX Heaven](https://vx-underground.org/archive/VxHeaven/index.html)
-- [aptnotes/data](https://github.com/aptnotes/data)
-- [exploit-database-papers](https://github.com/offensive-security/exploitdb-papers)
-- [exploitdb-bin-sploits](https://github.com/offensive-security/exploitdb-bin-sploits)
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) -  Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research. 
+- [Interactive Online Malware Analysis Sandbox](https://app.any.run/) -  check malware for free. With our online malware analysis tools you can research malicious files and URLs and get result with incredible
+- [Free Automated Malware Analysis Service](https://hybrid-analysis.com/) - This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+- [VirusTotal](https://www.virustotal.com/gui/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community. 
+- [Maltiverse](https://maltiverse.com/search) - We are here to help companies to adopt quality Threat Intelligence in a simple, quick and effective way 
+- [Malware News Search](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc) - custom google search for malware news
+- [AlienVault Open Threat Exchange](https://otx.alienvault.com/) - The World's First Truly Open Threat Intelligence Community · Gain FREE access to over 20 million threat indicators contributed daily
+- [Jotti’s malware scan](https://virusscan.jotti.org/) - Jotti's malware scan is a free service that lets you scan suspicious files with several anti-virus programs. You can submit up to 5 files at the same time. There is a 250MB limit per file. Please be aware that no security solution offers 100% protection, not even when it uses several anti-virus engines
+- [IObit Cloud](https://cloud.iobit.com/index.php) - IObit Cloud is an advanced automated threat analysis system. We use the latest Cloud Computing technology and Heuristic Analyzing mechanic to analyze the behavior of spyware, adware, trojans, keyloggers, bots, worms, hijackers and other security-related risks in a fully automated mode.
+- [theZoo](https://github.com/ytisf/theZoo) - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. 
+- [Vx-underground.org](https://vx-underground.org/) - vx-underground also known as VXUG, is an educational website about malware and cybersecurity. It claims to have the largest online repository of malware.	
+- [aptnotes/data](https://github.com/aptnotes/data) - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
+- [exploit-database-papers](https://github.com/offensive-security/exploitdb-papers) - The legacy Exploit Database paper repository
 <br>
 
 [⇧ Top](#index)
