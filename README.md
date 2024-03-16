@@ -1132,28 +1132,22 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## IoT
     
-- [Webcam Search Engine](https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0)
-- [Insecam](http://www.insecam.org/)
-- [Camhacker.com](https://www.camhacker.com/)
-- [EarthCam](https://www.earthcam.com/)
-- [Airport Webcams](https://airportwebcams.net/)
-- [The Webcam Network](http://www.the-webcam-network.com/)
-- [Default Router Login](https://www.cleancss.com/router-default/)
-- [Live Bar and Pub Webcams](http://gobefore.me/cams/)
-- [Webcams Abroad live images](https://www.webcamsabroad.com/)
-- [WEBCAM LIVE](https://www.whatsupcams.com/en/)
-- [city-webcams.com](https://city-webcams.com/)
-- [thingful](http://www.thingful.net/)
-- [Live World Webcam](http://liveworldwebcam.net/)
-- [Live Cams | Iplivecams](https://www.iplivecams.com/live-cams/)
-- [Webcamtaxi](https://www.webcamtaxi.com/en/)
-- [Explorecams.com](https://explorecams.com/)
-- [C4-cams](http://c4-cams.qwazwsx.xyz/c4-cams/)
-- [Nest Cam Directory](https://www.nestcamdirectory.com/)
-- [Opentopia](http://www.opentopia.com/)
-- [WorldCam](https://worldcam.eu/)
-- [Hawaii Traffic Cameras](http://goakamai.org/home)
-- [Honolulu Traffic Cams](http://www2.honolulu.gov/honolulumyway/?trafficcam)
+- [Webcam Search Engine](https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0) - custom google search for webcams search
+- [Insecam](http://www.insecam.org/) - Live cameras directory
+- [Camhacker.com](https://www.camhacker.com/) - Finds thousands of public live webcam streams and unprotected security cameras from all over the world.
+- [EarthCam](https://www.earthcam.com/) - Providing a virtual window to the world, viewers can freely explore the globe from unparalleled vantage points, such as the torch balcony of the Statue of Liberty, which has been closed to the public since 1916. EarthCam.com derives revenue from advertising and licensing of its proprietary webcam content.
+- [Airport Webcams](https://airportwebcams.net/) - LIVE Airport Webcams From Around The World
+- [The Webcam Network](http://www.the-webcam-network.com/) - Most webcam-directories offer listings of places where webcams are located 
+- [Webcams Abroad live images](https://www.webcamsabroad.com/) - Webcams Abroad is a fast growing international directory with webcams all over the world. 
+- [WEBCAM LIVE](https://www.whatsupcams.com/en/) - search live webcams
+- [city-webcams.com](https://city-webcams.com/) - local webcams and live streaming from around the world
+- [thingful](http://www.thingful.net/) - Thingful.net is a search engine for the Internet of Things, providing a unique geographical index of real-time data from connected objects around the world, including energy, radiation, weather, and air quality devices as well as seismographs, iBeacons, ships, aircraft and even animal trackers.
+- [Live World Webcam](http://liveworldwebcam.net/) - LiveWorldWebcam.net, search engine of thousands of live webcams from around the world!
+- [Webcamtaxi](https://www.webcamtaxi.com/en/) - Webcamtaxi is a platform for live streaming HD webcams from around the globe that will give you the opportunity to travel live online and discover new and distant places. If you are passionate about travelling, we are the right choice for you.
+- [Explorecams.com](https://explorecams.com/) - search engine allows you to search through thousands of images that people took on a specific digital cameras and compatible lenses, so you know what to expect from your next gear purchase.
+- [Opentopia](http://www.opentopia.com/) - free live webcams
+- [WorldCam](https://worldcam.eu/) - webcams form around the world
+- [Hawaii Traffic Cameras](http://goakamai.org/home) - hawaii tarffic cameras
 - [Toronto area Live Traffic Cams](https://gtaupdate.com/traffic/)
 - [Lake County Fire Cameras](https://www.arcgis.com/apps/webappviewer/index.html?id=0f7aa08cc4b74fc6a0c4308d4eace6b3)
 - [VDOT Traffic Cams](https://www.arcgis.com/apps/dashboards/a0d3fb34cda44f5b8b10be1b245f24a3)
