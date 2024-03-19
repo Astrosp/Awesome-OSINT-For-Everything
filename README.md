@@ -1159,20 +1159,18 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## RADIO
     
-- [Broadcastify](https://www.broadcastify.com/listen/)
-- [RadioReference](https://www.radioreference.com/apps/db/)
-- [Feeds.talonvoice.com](https://feeds.talonvoice.com/)
-- [Automated transcription for radio stations](https://sonix.ai/radio-stations)
-- [Scanmap](https://scanmap.mobi/)
-- [WiGLE: Wireless Network Mapping](https://wigle.net/)
-- [Ham Radio QRZ Callsign Database Search](https://www.qrz.com/lookup)
-- [Radio-Locator](https://radio-locator.com/)
-- [RadioID Database](https://database.radioid.net/database/search#!)
-- [Radio-Sherlock](http://dxmaps.com/search.html)
-- [Rfsearch.com](http://rfsearch.com/)
-- [Radiocells.org](https://radiocells.org/)
-- [@murph_live](https://twitter.com/murph_live)
-- [Radio Garden](http://radio.garden/search)
+- [Broadcastify](https://www.broadcastify.com/listen/) - Broadcastify - Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds
+- [RadioReference](https://www.radioreference.com/apps/db/) - radioreference database search by city, name, system, frequency...
+- [Feeds.talonvoice.com](https://feeds.talonvoice.com/) - This a website transcribing scanner feeds to text in real-time, in response to recent events
+- [Automated transcription for radio stations](https://sonix.ai/radio-stations) - Convert your radio shows or podcast episodes to text and publish these transcripts to get more traffic with Sonix: The world’s most advanced audio transcription platform.
+- [WiGLE: Wireless Network Mapping](https://wigle.net/) - all the networks found by everyone
+- [Ham Radio QRZ Callsign Database Search](https://www.qrz.com/lookup) - radio database search
+- [Radio-Locator](https://radio-locator.com/) -  the most trusted AM and FM radio station search engine on the internet. We have links to over 17,100 radio stations' web pages and over 12,800 stations' audio streams from radio stations in the U.S. and around the world. 
+- [RadioID Database](https://database.radioid.net/database/search#!) - radio database
+- [Radio-Sherlock](http://dxmaps.com/search.html) - Your professional and amateur radio search engine
+- [Radiocells.org](https://radiocells.org/) - 404
+- [@murph_live](https://twitter.com/murph_live) - Murph is a police scanner transcriber tool. See real-time scanner conversation.
+- [Radio Garden](http://radio.garden/search) - live radio aroud the world (The Best)
 <br>
 
 [⇧ Top](#index)
