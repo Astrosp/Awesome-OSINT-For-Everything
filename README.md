@@ -1177,7 +1177,6 @@ Enter two images and the difference will show up below
     
 ## RESOLVERS
     
-- [Skype Resolver](http://www.skypeipresolver.net/index.php)
 - [PSN Resolver](https://playstationresolver.xyz/)
 - [Cloudflare Resolver](http://www.skypeipresolver.net/cloudflare.php)
 - [Cloudflare Resolver Tool](https://shadowcrypt.net/tools/cloudflare)
@@ -1186,16 +1185,16 @@ Enter two images and the difference will show up below
     
 ## REAL ESTATE
     
-- [PrimeLocation](https://www.primelocation.com/)
-- [Realtor](https://www.realtor.com/)
-- [EMPORIS](https://www.emporis.com/)
-- [rehold](https://rehold.com/)
-- [Zillow](https://www.zillow.com/)
-- [Zillow Canada](https://www.zillow.com/z/canada/canada-homes/)
-- [Zoopla](https://www.zoopla.co.uk/)
-- [homemetry](https://homemetry.com/)
-- [Explore Canada’s Real Estate Market](https://www.remax.ca/find-real-estate)
-- [Onondaga County Home Sales](https://b2.caspio.com/dp.asp?AppKey=18321000d7j6h9j6c1i4e8f0i5a9)
+- [PrimeLocation](https://www.primelocation.com/) - 
+- [Realtor](https://www.realtor.com/) - 
+- [EMPORIS](https://www.emporis.com/) - 
+- [rehold](https://rehold.com/) - 
+- [Zillow](https://www.zillow.com/) - 
+- [Zillow Canada](https://www.zillow.com/z/canada/canada-homes/) - 
+- [Zoopla](https://www.zoopla.co.uk/) - 
+- [homemetry](https://homemetry.com/) - 
+- [Explore Canada’s Real Estate Market](https://www.remax.ca/find-real-estate) - 
+- [Onondaga County Home Sales](https://b2.caspio.com/dp.asp?AppKey=18321000d7j6h9j6c1i4e8f0i5a9) - 
 <br>
 
 [⇧ Top](#index)
