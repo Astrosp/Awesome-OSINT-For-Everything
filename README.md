@@ -1177,7 +1177,7 @@ Enter two images and the difference will show up below
     
 ## RESOLVERS
     
-- [PSN Resolver](https://playstationresolver.xyz/)
+- [PSN Resolver](https://playstationresolver.xyz/) - 
 - [Cloudflare Resolver](http://www.skypeipresolver.net/cloudflare.php)
 - [Cloudflare Resolver Tool](https://shadowcrypt.net/tools/cloudflare)
 - [Discord Resolver](https://www.leaked.site/index.php?resolver/discord.0/)
@@ -1185,41 +1185,30 @@ Enter two images and the difference will show up below
     
 ## REAL ESTATE
     
-- [PrimeLocation](https://www.primelocation.com/) - 
-- [Realtor](https://www.realtor.com/) - 
-- [EMPORIS](https://www.emporis.com/) - 
-- [rehold](https://rehold.com/) - 
-- [Zillow](https://www.zillow.com/) - 
-- [Zillow Canada](https://www.zillow.com/z/canada/canada-homes/) - 
-- [Zoopla](https://www.zoopla.co.uk/) - 
-- [homemetry](https://homemetry.com/) - 
-- [Explore Canada’s Real Estate Market](https://www.remax.ca/find-real-estate) - 
-- [Onondaga County Home Sales](https://b2.caspio.com/dp.asp?AppKey=18321000d7j6h9j6c1i4e8f0i5a9) - 
+- [PrimeLocation](https://www.primelocation.com/) - find homes to buy or rent
+- [Realtor](https://www.realtor.com/) - find estate by school, address or zip
+- [rehold](https://rehold.com/) -  Rehold Has the Most Extensive Database and Reverse Address Directory in the USA 
+- [Zillow](https://www.zillow.com/) - Recommendations are based on your location and search activity, such as the homes you've viewed and saved and the filters you've used. We use this information to bring similar homes to your attention 
+- [Zoopla](https://www.zoopla.co.uk/) - Find homes to buy or rent and check house prices
+- [homemetry](https://homemetry.com/) - Homemetry is an all-in-one real estate information site that provides a comprehensive overview of homes for sale, apartments for rent, markets, trends and neighborhood insights to help you make the right decisions on exactly what, when and where to buy, sell or rent. 
+- [Explore Canada’s Real Estate Market](https://www.remax.ca/find-real-estate) - Explore Canada's Real Estate Market
 <br>
 
 [⇧ Top](#index)
 ## [CAN] CORPORATION
     
-- [RJSC Connect](https://rjsc.novascotia.ca/)
-- [Search for a Federal Corporation](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA)
-- [FederalCorporation](https://federalcorporation.ca/)
-- [Corporate Affairs Registry Database](https://www.pxw2.snb.ca/card_online/cardsearch.aspx)
-- [MRAS Business Registry Search](https://beta.canadasbusinessregistries.ca/search)
-- [Alberta Business Search](https://albertacorporations.com/)
-- [LeoList](https://www.leolist.cc/)
-- [Toronto Star](https://misc.thestar.com/interactivegraphic/2019/07-july/25-housing-complaints-database/index.html)
-- [Rental in Canada](https://www.n49.com/search/rental/1/canada/)
-- [Manitoba Assessment Online](https://www.gov.mb.ca/mao/public/search_select.aspx)
-- [Search for Company Documents](https://www.sedar.com/search/search_form_pc_en.html)
-- [Business Directory | OCC](https://occ.ca/business-directory/)
-- [Rechercher par entreprise](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Entreprise)
-- [Rechercher par répondant](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Repondant)
-- [Rechercher par région ou type de travaux](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=RegionTypeTravaux)
-- [Services en ligne](https://www.pes.ctq.gouv.qc.ca/pes/faces/dossierclient/recherche.jsp)
-- [Alcool - Régie des alcools, des courses et des jeux (RACJ)](https://www.racj.gouv.qc.ca/en/registres-publics/alcool.html)
-- [BAnQ numérique](https://numerique.banq.qc.ca/resultats)
-- [Online Services PEI Business / Corporate Registry](https://www.princeedwardisland.ca/en/feature/pei-business-corporate-registry-original#/service/LegacyBusiness/LegacyBusinessSearch)
-- [XBRL Voluntary Filing Program](https://www.sedar.com/issuers/issuers_en.htm)
+- [RJSC Connect](https://rjsc.novascotia.ca/) - Search the Registry of Joint Stock Companies
+- [FederalCorporation](https://federalcorporation.ca/) - Find Federal Corporations in Canada
+- [Corporate Affairs Registry Database](https://www.pxw2.snb.ca/card_online/cardsearch.aspx) - Corporate Affairs Registry Database
+- [MRAS Business Registry Search](https://beta.canadasbusinessregistries.ca/search) - canada's business registries
+- [Alberta Business Search](https://albertacorporations.com/) -  Search for a company by name, or browse the newest companies registered in Alberta, Canada 
+- [LeoList](https://www.leolist.cc/) - LeoList to buy, sell, or trade almost anything! Personals, escorts, cars, real estate, jobs, services, vacation rentals and more virtually anywhere
+- [Rental in Canada](https://www.n49.com/search/rental/1/canada/) - rental in canada
+- [Business Directory | OCC](https://occ.ca/business-directory/) - The Ontario Chamber of Commerce (OCC) is the indispensable partner of business and Canada’s largest, most influential provincial chamber. 
+- [Rechercher par entreprise](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Entreprise) - Register of RBQ Licence Holders
+- [Services en ligne](https://www.pes.ctq.gouv.qc.ca/pes/faces/dossierclient/recherche.jsp) - Consultation of a dossier
+- [Online Services PEI Business / Corporate Registry](https://www.princeedwardisland.ca/en/feature/pei-business-corporate-registry-original#/service/LegacyBusiness/LegacyBusinessSearch) - PEI Business / Corporate Registry  Original
+- [XBRL Voluntary Filing Program](https://www.sedar.com/issuers/issuers_en.htm) - File, disclose and search for issuer information in Canada’s capital markets
 <br>
 
 [⇧ Top](#index)
