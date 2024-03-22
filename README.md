@@ -1215,51 +1215,42 @@ Enter two images and the difference will show up below
 
 ## MAPS
     
-- [Google Maps](https://www.google.com/maps)
-- [Bing Maps](https://www.bing.com/maps)
-- [Yandex.Maps](https://yandex.com/maps/)
-- [Generate a panorama](https://www.udeuschle.de/panoramas/makepanoramas_en.html)
-- [Mapillary](https://www.mapillary.com/app/)
-- [Geonarra.com](https://www.geonarra.com/)
-- [Waze](https://www.waze.com/live-map)
+- [Google Maps](https://www.google.com/maps) - google map
+- [Bing Maps](https://www.bing.com/maps) -  microsoft bing map
+- [Yandex.Maps](https://yandex.com/maps/) -  yandex map
+- [Mapillary](https://www.mapillary.com/app/) - Access street-level imagery and map data from all over the world. Fill in the gaps by capturing coverage yourself.
+- [Geonarrative.com](https://geonarrative.usgs.gov/landsat-collection/) - Explore remote-sensing satellites that have orbited our Earth for 50 years.
+- [Waze](https://www.waze.com/live-map) -  Navigation and map
 - [百度地图](https://map.baidu.com/) - baidu map
-- [DigitalGlobe](https://discover.digitalglobe.com/)
-- [MapQuest](https://www.mapquest.com/)
-- [OpenStreetMap](https://www.openstreetmap.org/)
-- [Maps.descarteslabs.com](https://maps.descarteslabs.com/)
-- [ArcGIS Wildfire Map](https://www.arcgis.com/home/webmap/viewer.html?webmap=df8bcc10430f48878b01c96e907a1fc3#!)
-- [Living Atlas of the World | ArcGIS](https://livingatlas.arcgis.com/en/browse/)
-- [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/)
-- [COVID-19 Map](https://coronavirus.jhu.edu/map.html)
-- [Ukraine Interactive map](https://liveuamap.com/)
-- [Satellites.pro](https://satellites.pro/)
-- [Military bases around the world. - uMap](https://umap.openstreetmap.fr/en/map/military-bases-around-the-world_510207)
-- [Wikimapia](http://wikimapia.org/)
-- [Map of Syrian Civil War](https://syria.liveuamap.com/)
-- [Windy](https://www.windy.com/-Webcams/webcams)
-- [Gpx File Editor](https://gpx.studio/)
-- [OALLEY](https://www.oalley.net/app/)
-- [fgdc_gp_demos’s public fiddles](https://jsfiddle.net/user/fgdc_gp_demos/fiddles/)
-- [KartaView](https://kartaview.org/map/)
-- [Google Map Search Engine](https://cse.google.com/cse?cx=013991603413798772546:mofb1uoaebi)
-- [Power Plants in the United States](https://www.arcgis.com/apps/dashboards/201fc98c0d74482d8b3acb0c4cc47f16)
-- [UK Onshore Oil and Gas Activity](https://www.arcgis.com/apps/webappviewer/index.html?id=29c31fa4b00248418e545d222e57ddaa)
-- [Walmart Store Status](https://www.arcgis.com/apps/dashboards/4e573c79e1224081805165d25b4f33c7)
-- [MODIS Wildfire](https://www.arcgis.com/apps/dashboards/bf5df3a49a624521844a2e5e1ec7df05)
-- [Earthquake Watch](https://www.arcgis.com/apps/dashboards/c8af9c5411814584b460cc87cb7c3780)
-- [InciWeb](https://inciweb.nwcg.gov/)
-- [Earth](https://earth.nullschool.net/#current)
-- [US Labor Strike Map](https://www.google.com/maps/d/viewer?mid=1hE1nDR-Ff_sVgOS67IteJSxGZlvqIP3k)
-- [Active Agency Map](https://www.google.com/maps/d/viewer?mid=1eYVDPh5itXq5acDT9b0BVeQwmESBa4cB)
-- [Ontario GiveSendGo Donors](https://www.google.com/maps/d/viewer?mid=1heAgrb9bDuk287yqseyvhZ7-U_kz64hM)
-- [Live-action-map.com](https://www.live-action-map.com/)
-- [awesome-maps-ukraine](https://github.com/Symbian9/awesome-maps-ukraine)
-- [Допомога](https://dopomoha.pl/)
-- [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams)
-- [Ukraine War Map/Heatmap](https://ruarq.github.io/ukraine-war-heatmap)
-- [Live map of London Underground trains](https://traintimes.org.uk/map/tube/)
-- [Livecorona.co.kr](https://livecorona.co.kr/)
-- [TfL JamCams](https://www.tfljamcams.net/)
+- [DigitalGlobe](https://discover.digitalglobe.com/) - 404
+- [MapQuest](https://www.mapquest.com/) - find driving directions, maps, live traffic updates and road conditions. Find nearby businesses, restaurants and hotels. Explore!
+- [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is a free, open geographic database updated and maintained by a community of volunteers via open collaboration. Contributors collect data from surveys, trace from aerial imagery and also import from other freely licensed geodata sources.
+- [ArcGIS Wildfire Map](https://www.arcgis.com/home/webmap/viewer.html?webmap=df8bcc10430f48878b01c96e907a1fc3#!) - This is a map of US wildfire locations (active/recent) and other sources of information related to wildfires.
+- [Living Atlas of the World | ArcGIS](https://livingatlas.arcgis.com/en/browse/) - ArcGIS Living Atlas of the World
+- [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Global Fire information for Resource management system
+- [COVID-19 Map](https://coronavirus.jhu.edu/map.html) - covid-19 cases world map
+- [Ukraine Interactive map](https://liveuamap.com/) - Live Universal Awareness Map, is an internet service to monitor and indicate activities on online geographic maps, particularly of locations with ongoing armed conflict in ukraine russia
+- [Israel-Palestine](https://israelpalestine.liveuamap.com/) - Live Universal Awareness Map, is an internet service to monitor and indicate activities on online geographic maps, particularly of locations with ongoing armed conflict in israel palestine
+- [Satellites.pro](https://satellites.pro/) - satellite world map
+- [Military bases around the world. - uMap](https://umap.openstreetmap.fr/en/map/military-bases-around-the-world_510207) - Militarty bases around the world 
+- [Wikimapia](http://wikimapia.org/) - Wikimapia is an online editable map - you can describe any place on Earth. Or just surf the map discovering tonns of already marked places
+- [Map of Syrian Civil War](https://syria.liveuamap.com/) - syrian civil war map
+- [Windy](https://www.windy.com/-Webcams/webcams) - wind map weather forecast
+- [Gpx File Editor](https://gpx.studio/) - gpx.studio is a free online GPX viewer and editor which allows visualize multiple traces, edit traces, edit waypoints and more.
+- [fgdc_gp_demos’s public fiddles](https://jsfiddle.net/user/fgdc_gp_demos/fiddles/) - 
+- [KartaView](https://kartaview.org/map/) - Collect and share street level imagery from around the world to an open repository, available to everyone.
+- [Google Map Search Engine](https://cse.google.com/cse?cx=013991603413798772546:mofb1uoaebi) - custom google search for google search
+- [Power Plants in the United States](https://www.arcgis.com/apps/dashboards/201fc98c0d74482d8b3acb0c4cc47f16) - map of power plants in the United States using data from the U.S. Energy Information Administration and U.S. Environmental Protection Agency
+- [UK Onshore Oil and Gas Activity](https://www.arcgis.com/apps/webappviewer/index.html?id=29c31fa4b00248418e545d222e57ddaa) - 404
+- [Walmart Store Status](https://www.arcgis.com/apps/dashboards/4e573c79e1224081805165d25b4f33c7) - walmart store location map
+- [MODIS Wildfire](https://www.arcgis.com/apps/dashboards/bf5df3a49a624521844a2e5e1ec7df05) - a Live Feeds layer showing Thermal activity detected by the MODIS sensors on the NASA Aqua and Terra satellites during the last 48 hours.
+- [Earthquake Watch](https://www.arcgis.com/apps/dashboards/c8af9c5411814584b460cc87cb7c3780) - Earthquake watch
+- [Earth](https://earth.nullschool.net/#current) - live wind 
+- [US Labor Strike Map](https://www.google.com/maps/d/viewer?mid=1hE1nDR-Ff_sVgOS67IteJSxGZlvqIP3k) - US labor strike map
+- [Active Agency Map](https://www.google.com/maps/d/viewer?mid=1eYVDPh5itXq5acDT9b0BVeQwmESBa4cB) - The following is a list of public safety agencies that have joined Neighbors by Ring. This map is updated regularly.
+- [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams) - Live cams from Ukraine
+- [Live map of London Underground trains](https://traintimes.org.uk/map/tube/) - Live london underground train map
+- [TfL JamCams](https://www.tfljamcams.net/) - Trafic cams from London
 <br>
 
 [⇧ Top](#index)
