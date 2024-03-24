@@ -1256,23 +1256,20 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## GEO
     
-- [GEOINT](https://start.me/p/W1kDAj/geoint)
-- [GeoNames](https://www.geonames.org/)
-- [Geoseer.net](https://www.geoseer.net/)
-- [GeoINT Search](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
-- [GeoIP Tracker tool](https://shadowcrypt.net/tools/geoip)
-- [Earth Engine Dataset](https://developers.google.com/earth-engine/datasets/)
-- [GeoPlatform Portal](https://www.geoplatform.gov/)
-- [Inspire-geoportal.eu](http://www.inspire-geoportal.eu/)
+- [GEOINT](https://start.me/p/W1kDAj/geoint) - every tools you need for geographical data gathering 
+- [GeoNames](https://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
+- [Geoseer.net](https://www.geoseer.net/) - Search over 3.5 million distinct spatial GIS WMS, WCS, WMTS datasests hosted on over 40k live services from around the world.
+- [GeoINT Search](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0) - coustom google search for geographical related search queries.
+- [GeoIP Tracker tool](https://shadowcrypt.net/tools/geoip) - Got an intruder in your network? Want to know where the intruder is from? Use this tool. Geo IP tracker uses geographical location technology and utilizes public records to track down the location of the IP address. It may not be accurate, but it will give you idea of IP addresses whereabouts.
+- [Earth Engine Dataset](https://developers.google.com/earth-engine/datasets/) - Earth Engine's public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
+- [GeoPlatform Portal](https://www.geoplatform.gov/) - The Geospatial Platform is a cross-agency collaborative effort and Shared Service that embodies the principles and spirit of Open Government, emphasizing government-to-citizen communication, accountability, and transparency.
 - [FAO Map Catalog](https://data.apps.fao.org/map/catalog/srv/eng/catalog.search#/home)
-- [Datacore-gn.unepgrid.ch](https://datacore-gn.unepgrid.ch/)
-- [ISRIC Data Hub](https://data.isric.org/geonetwork/srv/eng/catalog.search#/home)
-- [geocreepy](http://www.geocreepy.com/)
-- [US Crisis Monitor](https://acleddata.com/special-projects/us-crisis-monitor/)
-- [Toronto Live](https://apps.esri.ca/torontolive/)
+- [geocreepy](http://www.geocreepy.com/) - A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
+- [US Crisis Monitor](https://acleddata.com/special-projects/us-crisis-monitor/) - The United States Crisis Monitor provides in-depth coverage of demonstration and political violence trends across the US
+- [Toronto Live](https://apps.esri.ca/torontolive/) - toronto live ; like public schools, traffic, bike share, ttc.
 - [Residential Fire Fatalities in Indiana](https://www.arcgis.com/apps/dashboards/4d1289ab105145a1b1f80c1ad3cf19fb)
-- [geoprotests API](https://rapidapi.com/gisfromscratch/api/geoprotests/)
-- [geoint-py](https://github.com/gisfromscratch/geoint-py)
+- [geoprotests API](https://rapidapi.com/gisfromscratch/api/geoprotests/) - Query protests worldwide and visualize them using spatial aggregations.
+- [geoint-py](https://github.com/gisfromscratch/geoint-py) - A bunch of geospatial intelligence workflows implemented using Python
 <br>
 
 [⇧ Top](#index)
