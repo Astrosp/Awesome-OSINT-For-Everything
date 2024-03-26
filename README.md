@@ -1275,27 +1275,26 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## CRYPTOCURRENCY
     
-- [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/)
-- [Bitcoin Explorer](https://blockchair.com/bitcoin)
-- [Ethereum Block Explorer](https://etherscan.io/)
+- [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/) - Real-time customizable price alert for cryptocurrencies, coins, stocks with many way to receive alert email, telegram, discord.
+- [Bitcoin Explorer](https://blockchair.com/bitcoin) - Bitcoin's blockchain is a publicly accessible ledger that records all transactions made with the cryptocurrency Bitcoin. It utilizes a decentralized network of computers (nodes) to maintain a chronological series of data blocks that are secured using cryptographic principles, ensuring the integrity and verifiability of each transaction.
+- [Ethereum Block Explorer](https://etherscan.io/) - Etherscan is the leading block explorer and search, API & analytics platform for Ethereum
 - [Flowscan.org](https://flowscan.org/)
-- [Bitcoin Forums Search Engine](https://cse.google.com/cse?cx=f49f9d5e679b15787)
-- [Blockchain Explorer](https://www.blockchain.com/explorer)
-- [Blockcypher](https://live.blockcypher.com/)
+- [Bitcoin Forums Search Engine](https://cse.google.com/cse?cx=f49f9d5e679b15787) - custom google search for bitcoin
+- [Blockchain Explorer](https://www.blockchain.com/explorer) - Blockchain.com is a cryptocurrency financial services company. The company began as the first Bitcoin blockchain explorer in 2011 and later created a cryptocurrency wallet that accounted for 28% of bitcoin transactions between 2012 and 2020
+- [Blockcypher](https://live.blockcypher.com/) - Find info that other block explorers don't have, search the block chain.
 - [Addresschecker.eu](http://addresschecker.eu/)
-- [Coinwink.com](https://coinwink.com/)
-- [Cryptocurrency search tool](https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/)
-- [OSINT cryptocurrencies](https://www.aware-online.com/en/osint-tools/cryptocurrency-tools/)
+- [Coinwink.com](https://coinwink.com/) - Track important price changes of your favorite cryptocurrencies with the help of Coinwink crypto alerts
+
 <br>
 
 [⇧ Top](#index)
 ## DARKNET
     
-- [Dark Tracer](https://darktracer.io/)
-- [ransomwatch 👀 🦅 ](https://ransomwatch.telemetry.ltd/#/INDEX)
-- [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/)
-- [Ahmia — Search Tor Hidden Services](https://ahmia.fi/)
-- [Onion search engine](https://onionsearchengine.com/)
+- [Dark Tracer](https://darktracer.io/) - 
+- [ransomwatch 👀 🦅 ](https://ransomwatch.telemetry.ltd/#/INDEX) - 
+- [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/) - 
+- [Ahmia — Search Tor Hidden Services](https://ahmia.fi/) - 
+- [Onion search engine](https://onionsearchengine.com/) - 
 - [onionsearch](https://pypi.org/project/onionsearch/)
 - [Tor2Web: Tor Hidden Services Gateway](https://tor2web.onionsearchengine.com/)
 - [Ransomware Group Sites](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion.pet/)
