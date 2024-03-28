@@ -1290,21 +1290,19 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## DARKNET
     
-- [Dark Tracer](https://darktracer.io/) - 
-- [ransomwatch 👀 🦅 ](https://ransomwatch.telemetry.ltd/#/INDEX) - 
-- [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/) - 
-- [Ahmia — Search Tor Hidden Services](https://ahmia.fi/) - 
-- [Onion search engine](https://onionsearchengine.com/) - 
-- [onionsearch](https://pypi.org/project/onionsearch/)
-- [Tor2Web: Tor Hidden Services Gateway](https://tor2web.onionsearchengine.com/)
-- [Ransomware Group Sites](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion.pet/)
-- [Blockpath.com](https://blockpath.com/)
-- [LinkBaseORG](https://link-base.org/)
-- [Onions - Darknetlive](https://darknetlive.com/onions/)
-- [Darknet Market List](https://darknetlive.com/markets/)
+- [Dark Tracer](https://darktracer.io/) - 404
+- [ransomwatch 👀 🦅 ](https://ransomwatch.telemetry.ltd/#/INDEX) - the transparent ransomware claim tracker 
+- [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/) - ransomware darknet websites
+- [Ahmia — Search Tor Hidden Services](https://ahmia.fi/) - Ahmia searches hidden services on the Tor network. To access these hidden services, you need the Tor browser bundle
+- [Onion search engine](https://onionsearchengine.com/) - onion search engine
+- [onionsearch](https://pypi.org/project/onionsearch/) - OnionSearch is a script that scrapes urls on different .onion search engines.
+- [Tor2Web: Tor Hidden Services Gateway](https://tor2web.onionsearchengine.com/) - access onion sites through regular web
+- [Ransomware Group Sites](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion.pet/) - ransomware group sites
+- [Blockpath.com](https://blockpath.com/) - bitcoin accounting simplified 
+- [Onions - Darknetlive](https://darknetlive.com/onions/) - massive list of onion service links
 - [Darkweb Forums](https://darknetlive.com/forums/)
-- [Raklet](http://iwr4usy33opfclmbyemzbmnwwnmmqpqltezpac7fyqqkdv3mabtm6kqd.onion.pet/)
-- [Tool | path](https://learnmeabitcoin.com/tools/path/)
+- [Onion.pet](http://onion.pet) - Onion.pet acts as a proxy between the Tor Darknet, also known as hidden services, and you on the regular, or clearnet
+- [Tool | path](https://learnmeabitcoin.com/tools/path/) - search bitcoin transaction, block, address.
 <br>
 
 [⇧ Top](#index)
@@ -1324,11 +1322,6 @@ Enter two images and the difference will show up below
 - [Ashley Madison hacked email checker](https://ashley.cynic.al/)
 - [Search Ashley Madison Leaked Data](http://checkashleymadison.com/)
 - [Sony Archives](https://wikileaks.org/sony/emails/)
-- [Foodora](https://bloopbase.keybase.pub/POPPY/FOODORA/index.html)
-- [Liker](https://bloopbase.keybase.pub/POPPY/LIKER/index.html)
-- [Ledger](https://bloopbase.keybase.pub/POPPY/LEDGER/index.html)
-- [Slack](https://bloopbase.keybase.pub/SLACK/index.html)
-- [Weedmaps](https://bloopbase.keybase.pub/POPPY/WEEDMAPS/index.html)
 <br>
 
 [⇧ Top](#index)
