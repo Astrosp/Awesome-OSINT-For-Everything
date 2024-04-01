@@ -1303,25 +1303,25 @@ Enter two images and the difference will show up below
 - [Darkweb Forums](https://darknetlive.com/forums/)
 - [Onion.pet](http://onion.pet) - Onion.pet acts as a proxy between the Tor Darknet, also known as hidden services, and you on the regular, or clearnet
 - [Tool | path](https://learnmeabitcoin.com/tools/path/) - search bitcoin transaction, block, address.
+- [ProPublica](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/) - ProPublica is a popular online publication that won five Pulitzer in 2016. It aims to expose abuses of power and betrayal of public trust through investigative journalism.
+- [Sci-Hub](http://scihub22266oqcxt.onion/) - Sci-Hub is a massive database that eliminates the barriers to getting scientific knowledge. It contains millions of scientific research documents from around the world. The site seeks to liberate information by making it free to individuals and institutions.
+- [Hidden Answers](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/) - 
 <br>
 
 [⇧ Top](#index)
 ## DATA DUMP
     
-- [Have I been pwned](https://haveibeenpwned.com/)
-- [DeepSearch](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion.pet/)
-- [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check/)
-- [Intelligence X](https://intelx.io/)
-- [DDoSecrets](https://ddosecrets.com/wiki/Special:AllPages)
-- [Bloopbase](https://bloopbase.keybase.pub/)
-- [Scylla.so](https://scylla.so/)
-- [Leakedpassword.com](https://leakedpassword.com/)
-- [DeHashed](https://dehashed.com/)
-- [Snusbase](https://www.snusbase.com/)
-- [Leaked.site](https://www.leaked.site/)
-- [Ashley Madison hacked email checker](https://ashley.cynic.al/)
-- [Search Ashley Madison Leaked Data](http://checkashleymadison.com/)
-- [Sony Archives](https://wikileaks.org/sony/emails/)
+- [Have I been pwned](https://haveibeenpwned.com/) - check if your email address is in a data breach
+- ~~[DeepSearch](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion.pet/)~~
+- [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check/) - Find out if your email, phone number or related personal information might have fallen into the wrong hands.
+- [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. · The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs...
+- [DDoSecrets](https://ddosecrets.com/wiki/Special:AllPages) - Distributed Denial of Secrets (DDoSecrets) is a non-profit journalist organization focused on publishing, archiving and analyzing public interest information, creating news coverage from around the world. DDoSecrets specializes in large datasets that have been leaked or hacked, and in verifying and researching the data while protecting sources
+- [Leakedpassword.com](https://leakedpassword.com/) - Find out if a password hack has exposed your password to the world.
+- [DeHashed](https://dehashed.com/) - Have you been compromised? DeHashed provides free deep-web scans and protection against credential leaks
+- [Snusbase](https://www.snusbase.com/) - Enhance the security of your personal accounts, as well as those of your employees and loved ones, by proactively monitoring the exposure of your online identities.
+- [Ashley Madison hacked email checker](https://ashley.cynic.al/) - Was your profile compromised in the Ashley Madison hack
+- [Search Ashley Madison Leaked Data](http://checkashleymadison.com/) - Search Ashley Madison Leaked Data
+- [Sony Archives](https://wikileaks.org/sony/emails/) - You will find this data in there .onion site
 <br>
 
 [⇧ Top](#index)
