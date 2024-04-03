@@ -1327,34 +1327,26 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## EXTREMIST / FAR-RIGHT
     
-- [Unicorn Riot: Discord Leaks](https://discordleaks.unicornriot.ninja/discord/)
-- [Data | DDoSecrets Search](https://search.ddosecrets.com/data/)
-- [Parler Archive Search](https://parler.adatascienti.st/research)
-- [Parler Capitol Videos](https://projects.propublica.org/parler-capitol-videos/)
-- [Project Whispers](https://whispers.ddosecrets.com/)
-- [GiveSendGo](https://bloopbase.keybase.pub/LEFTHOOK/GiveSendGo/index.html)
-- [Gettr](https://bloopbase.keybase.pub/LEFTHOOK/Gettr/index.html)
-- [Utah Gun Exchange](https://bloopbase.keybase.pub/LEFTHOOK/UtahGunExchanges/index.html)
-- [8chan](https://bloopbase.keybase.pub/LEFTHOOK/8chan/index.html)
-- [Iron March](https://bloopbase.keybase.pub/LEFTHOOK/IronMarch/index.html)
-- [4chansearch.org](https://4chansearch.org/)
-- [archived.moe](https://archived.moe/)
-- [Extremist Profiles](https://www.splcenter.org/fighting-hate/extremist-files/individual)
-- [Extremist Groups](https://www.splcenter.org/fighting-hate/extremist-files/groups)
-- [Database of suspected terrorists](https://www.nsatt.org/)
-- [TSA No-Fly List](https://www.no-fly-list.com/)
-- [Terrorism Incidents Database](http://smapp.rand.org/rwtid/search_form.php)
-- [Global Terrorism Database](https://www.start.umd.edu/gtd/access/)
-- [Sanctions List Search](https://sanctionssearch.ofac.treas.gov/)
-- [Trump Twitter Archive](https://www.thetrumparchive.com/)
-- [OFAC Sanctioned Search Engine](https://cse.google.com/cse?cx=e96467889fb82b9b0)
-- [INFORMNAPALM](https://informnapalm.org/db/russian-aggression/#lang=en&page=m_unit)
-- [gogettr](https://pypi.org/project/gogettr/)
-- [GUTTR](https://github.com/VVX7/GUTTR)
-- [FBI Most Wanted Search Engine](https://cse.google.com/cse?cx=1ee952e6584aa91f9)
-- [Interpol Most Wanted Search Engine](https://cse.google.com/cse?cx=b1746754c83012613)
-- [Europol Most Wanted Search Engine](https://cse.google.com/cse?cx=f08e8dc2172da1ba8)
-- [Ironmarch.exposed](https://www.ironmarch.exposed/)
+- [Unicorn Riot: Discord Leaks](https://discordleaks.unicornriot.ninja/discord/) - Unicorn Riot obtained hundreds of thousands of messages from white supremacist and neo-nazi Discord chat servers after Charlottesville. Unicorn Riot Discord Leaks opens far-right activity centers to public scrutiny through data journalism.
+- [Data | DDoSecrets Search](https://search.ddosecrets.com/data/) - DDoSecrets is a non-profit journalist organization focused on publishing, archiving and analyzing public interest information, creating news coverage from around the world. DDoSecrets specializes in large datasets that have been leaked or hacked, and in verifying and researching the data while protecting sources. Founded in 2018, it has published over 100 million files from nearly 60 countries, worked with hundreds of outlets and half a dozen cross-border collaborations. 
+- [Adatascientist](https://adatascienti.st) - exploring how money and ideas move around
+- [Parler Capitol Videos](https://projects.propublica.org/parler-capitol-videos/) - What Parler Saw During the Attack on the Capitol
+- [Project Whispers](https://whispers.ddosecrets.com/) - whispers data leak
+- [4chansearch.org](https://4chansearch.org/) - news search
+- [archived.moe](https://archived.moe/) - archive data
+- [Extremist Profiles](https://www.splcenter.org/fighting-hate/extremist-files/individual) - extremist file
+- [Database of suspected terrorists](https://www.nsatt.org/) - NSAT&T is an independent, non-government organization and is in no way affiliated with any branch of any government or any company that provides telephone or telegraph communications services
+- [TSA No-Fly List](https://www.no-fly-list.com/) - No fly list
+- [RAND](http://rand.org) - RAND is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+- [Global Terrorism Database](https://www.start.umd.edu/gtd/access/) - The Global Terrorism Database™ (GTD) is an open-source database including information on terrorist events around the world from 1970 through 2020 (with annual updates planned for the future). Unlike many other event databases, the GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 200,000 cases.
+- [Sanctions List Search](https://sanctionssearch.ofac.treas.gov/) - Sanctions List Search
+- [Trump Twitter Archive](https://www.thetrumparchive.com/) - trump twitter archive
+- [OFAC Sanctioned Search Engine](https://cse.google.com/cse?cx=e96467889fb82b9b0) - custom google search for OFAC Sanction search
+- [INFORMNAPALM](https://informnapalm.org/db/russian-aggression/#lang=en&page=m_unit) - InformNapalm volunteer intelligence community presents its interactive database, mapping Russian aggression against Ukraine as well as Georgia and Syria. More than 2000 OSINT investigations performed by InformNapalm
+- [gogettr](https://pypi.org/project/gogettr/) - Extraction tool for GETTR, a "non-bias [sic] social network."
+- [FBI Most Wanted Search Engine](https://cse.google.com/cse?cx=1ee952e6584aa91f9) - custom google search engine for FBI most wanted list
+- [Interpol Most Wanted Search Engine](https://cse.google.com/cse?cx=b1746754c83012613) - costom google search for Interpol most wanted list
+- [Europol Most Wanted Search Engine](https://cse.google.com/cse?cx=f08e8dc2172da1ba8) - custom google search for Europol most wnated list
 <br>
 
 [⇧ Top](#index)
