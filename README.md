@@ -1353,41 +1353,30 @@ Enter two images and the difference will show up below
     
 ## FINANCE
     
-- [Greylist Trace](https://greylisttrace.com/)
-- [Tradint Research Tool](https://tradint.io/)
-- [analytics-engine](https://github.com/mashiox/analytics-engine)
-- [Ppp.adatascienti.st](https://ppp.adatascienti.st/)
-- [CoVi Analytics](https://www.covianalytics.com/)
-- [Search Our PPP Loan Database](https://ppp.directory/search)
-- [TMX](https://www.m-x.ca/en/trading/data/quotes?symbol=)
-- [TMX TSX](https://www.tsx.com/listings/listing-with-us/listed-company-directory)
-- [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm)
+- [Greylist Trace](https://greylisttrace.com/) - enterprise risk management and asset tracing
+- [Tradint Research Tool](https://tradint.io/) - This tool enables users to conduct a full-scale Tradint (Trade Intelligence) investigation using the best tools and methods.
+- [analytics-engine](https://github.com/mashiox/analytics-engine) - An environment of open source services used for market analysis 
+- [Ppp.adatascienti.st](https://ppp.adatascienti.st/) - ppp load search
+- [CoVi Analytics](https://www.covianalytics.com/) - At CoVi Analytics, we create easy-to-use tools (Apps) specifically for the operations team to help streamline operations, enhance efficiency, and empower growth through tech-driven solutions that simplify business activities, automate operations and deliver greater insights
+- [Search Our PPP Loan Database](https://ppp.directory/search) - ppp load database search
+- [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm) - File, disclose and search for issuer information in Canada’s capital markets
 <br>
 
 [⇧ Top](#index)
 ## BUSINESS
     
-- [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3)
-- [WhaleSlide](https://whaleslide.com/)
-- [AllPeople](https://allpeople.com/)
-- [Corporation Wiki](https://www.corporationwiki.com/)
-- [PA PPP Database](https://public.flourish.studio/visualisation/3105919/)
-- [Michigan PPP loans](https://c0eib122.caspio.com/dp/74321000d4c16abc2baf480b8934)
-- [Companies House](https://www.gov.uk/government/organisations/companies-house)
-- [Global Brownbook](https://www.brownbook.net/)
-- [list-org](https://www.list-org.com/)
-- [OpenCorporates](https://opencorporates.com/)
-- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/)
-- [Home Comptroller.Texas.Gov](https://comptroller.texas.gov/)
-- [Company search tool](https://www.aware-online.com/en/osint-tools/company-search-tool/)
-- [XRefer](https://www.xrefer.com/)
-- [Ttabcenter.com](https://ttabcenter.com/)
-- [First Search](https://search.firstround.com/)
-- [Findingstartups.com](https://findingstartups.com/)
-- [Startup Tracker](https://startuptracker.io/home)
-- [Shopsearchengine.com](http://shopsearchengine.com/)
-- [Covidbailouttracker.com](https://covidbailouttracker.com/)
-- [Coronavirus Bailouts: Search Every Company Approved for Federal Loans Over $150k](https://projects.propublica.org/coronavirus/bailouts/)
+- [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3) - custom google search for companies and organization search
+- [AllPeople](https://allpeople.com/) - AllPeople is the largest free directory of business contacts for America. Find leads for companies including name, position, email, address, phone number and more!
+- [Corporation Wiki](https://www.corporationwiki.com/) - Corporation Wiki exists to provide corporate transparency and historical data on companies. This allows officers to be held accountable for the actions they take through their corporations
+- [PA PPP Database](https://public.flourish.studio/visualisation/3105919/) - loan database
+- [Companies House](https://www.gov.uk/government/organisations/companies-house) - UK gov companies houses
+- [Global Brownbook](https://www.brownbook.net/) - global business listing database
+- [list-org](https://www.list-org.com/) - Basic information about any Russian legal entity or entrepreneur
+- [OpenCorporates](https://opencorporates.com/) - Fresh, standardized, auditable information direct from official primary sources across 140+ jurisdictions — all underpinned by our Legal-Entity Data Principles and world-leading expertise in legal-entity data. 
+- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who’s behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
+- [XRefer](https://www.xrefer.com/) - Find top rated verified local companies
+- [Startup Tracker](https://startuptracker.io/home) - Discover and track startups from MVP to IPO
+- [Shopsearchengine.com](http://shopsearchengine.com/) - shopsearchengine.com the internets premiere shopping site, find it fast.
 - [LA County CA Restaurant Health Violations](https://b2.caspio.com/dp.asp?AppKey=22341000af0b9c98ebf047f1b9f2)
 - [Kansas Restaurant Inspections](https://b2.caspio.com/dp/a1a31000af3bac4c5e434987a857)
 - [Lexington-Fayette County KY Health Department Restaurant Inspections](https://b2.caspio.com/dp.asp?AppKey=c8521000c641ab80b6d2448e89d9)
