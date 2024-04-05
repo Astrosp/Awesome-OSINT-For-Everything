@@ -1388,51 +1388,41 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## POLICE / LE / FED
     
-- [Openoversight](https://openoversight.com/)
-- [Criminal Cop Database Lookup](https://extras.mercurynews.com/criminalcops/database/)
-- [Police1](https://bloopbase.keybase.pub/ACAB/POLICEONE/index.html)
-- [The Philadelphia Police Misconduct Database](https://datawrapper.dwcdn.net/3GbVI/1/)
-- [NYPD Misconduct Complaint Database](https://nyclu.shinyapps.io/CCRB_combo/)
-- [NYPD Officer Profile](https://nypdonline.org/link/2)
-- [Maine County Law Enforcement Discipline Chart](https://public.flourish.studio/visualisation/4443849/?utm_source=showcase&utm_campaign=visualisation/4443849)
-- [Arizona LE Database - ABC15](https://datawrapper.dwcdn.net/kkg90/6/)
-- [Police Complaint Lookup](http://complaints.cuapb.org/)
-- [Boston Police Internal Affairs Cases, 2010-2020](https://apps.bostonglobe.com/graphics/2020/law-enforcement/index.html?initialWidth=1029&childId=police-embed&parentTitle=Database%3A%20Search%2010%20years%27%20worth%20of%20Boston%20Police%20Department%20disciplinary%20action&parentUrl=https%3A%2F%2Fwww.bostonglobe.com%2F2020%2F11%2F24%2Fmetro%2Fheres-searchable-database-boston-police-department-internal-investigations-disciplinary-actions-more%2F)
-- [Police Decertifcations Search and Report](https://c0acu882.caspio.com/dp/07da6000e467ebc2a444430c9c1d)
-- [San Francisco CopWatch Database](https://airtable.com/embed/shreS9yA6eWiJAmHZ/tbl0A1AfPBOaPNBhH?backgroundColor=blue)
-- [NJ Police and Fire FY 2011 Pension contribution](https://b2.caspio.com/dp.asp?AppKey=c43d100007eedbb0f0e740188660)
-- [EFF Atlas of Surveillance](https://atlasofsurveillance.org/)
-- [Clearview AI US taxpayer-funded entities](https://datawrapper.dwcdn.net/VOOIE/16/)
+- [Openoversight](https://openoversight.com/) - OpenOversight: A public, searchable database of law enforcement officers.
+- [The Philadelphia Police Misconduct Database](https://datawrapper.dwcdn.net/3GbVI/1/) - Philadelphia Police database
+- [NYPD Misconduct Complaint Database](https://nyclu.shinyapps.io/CCRB_combo/) - NYPD Database
+- [Maine County Law Enforcement Discipline Chart](https://public.flourish.studio/visualisation/4443849/?utm_source=showcase&utm_campaign=visualisation/4443849) - Search 5 years of Maine county law enforcement discipline
+- [Arizona LE Database - ABC15](https://datawrapper.dwcdn.net/kkg90/6/) - List of Arizona law enforcement officials with credibility, honesty issues, compiled by ABC15.
+- [Police Complaint Lookup](http://complaints.cuapb.org/) - Police complaint lookup
+- [Boston Police Internal Affairs Cases, 2010-2020](https://apps.bostonglobe.com/graphics/2020/law-enforcement/index.html?initialWidth=1029&childId=police-embed&parentTitle=Database%3A%20Search%2010%20years%27%20worth%20of%20Boston%20Police%20Department%20disciplinary%20action&parentUrl=https%3A%2F%2Fwww.bostonglobe.com%2F2020%2F11%2F24%2Fmetro%2Fheres-searchable-database-boston-police-department-internal-investigations-disciplinary-actions-more%2F) - Full Disclosure: Boston Police Internal Affairs Cases, 2010-2020
+- [Police Decertifcations Search and Report](https://c0acu882.caspio.com/dp/07da6000e467ebc2a444430c9c1d) - Search for decertified officers
+- [EFF Atlas of Surveillance](https://atlasofsurveillance.org/) - Search our database of police tech — enter a city, county, state or agency in the United States.
+- [Clearview AI US taxpayer-funded entities](https://datawrapper.dwcdn.net/VOOIE/16/) - search for US taxpayer-funded entities that have used or tried Clearview AI as of February 2020 based on internal data.
 - [Oregon DPSST Professional Standards Cases Database](https://www.oregon.gov/dpsst/CJ/Pages/Cases.aspx)
-- [PA Forfeiture 2010-2016 Search](https://b2.caspio.com/dp/0a921000328dc970793c4364bb2a)
-- [BlueLeaks](https://blueleaks.io/index.html)
-- [Plain View Project](https://www.plainviewproject.org/data)
-- [ICE Patrol](https://ice.wikileaks.org/search)
-- [RCMP Death Search](https://c0cqk108.caspio.com/dp/9156100036f195cdf0934662917c)
-- [RCMP Death Search 2](https://c0cqk108.caspio.com/dp/915610007f161cceda514e33a0b7)
-- [RCMP Death Search 3](https://b2.caspio.com/dp/91561000c38ca49de99e4ecf9619)
-- [Policecrime.bgsu.edu](https://policecrime.bgsu.edu/)
-- [CAPstat.nyc](https://www.capstat.nyc/)
-- [Citizens Police Data Project](https://beta.cpdp.co/)
-- [Fatal Encounters](https://fatalencounters.org/people-search/)
-- [The NYPD Files](https://projects.propublica.org/nypd-ccrb/)
-- [Open Data Policing](https://opendatapolicing.com/)
+- [Plain View Project](https://www.plainviewproject.org/data) - a research project that has identified thousands of Facebook posts and comments by current and former police officers.
+- [wikileaks](https://wikileaks.org) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption
+- [RCMP Death Search](https://c0cqk108.caspio.com/dp/9156100036f195cdf0934662917c) - The RCMP National Grave Discovery Database
+- [Policecrime.bgsu.edu](https://policecrime.bgsu.edu/) - The Henry A. Wallace Police Crime Database
+- [Citizens Police Data Project](https://beta.cpdp.co/) - collects and publishes information
+about police misconduct in Chicago
+- [Fatal Encounters](https://fatalencounters.org/people-search/) - This database contains records of people who’ve been killed through interactions with law enforcement since Jan. 1, 2000.
+- [The NYPD Files](https://projects.propublica.org/nypd-ccrb/) - Search Thousands of Civilian Complaints Against New York City Police Officers 
+- [Open Data Policing](https://opendatapolicing.com/) - Search all known North Carolina traffic stops
 - [Police Surveillance in Chicago](https://redshiftzero.github.io/policesurveillance/)
-- [Mappingpoliceviolence.org](https://mappingpoliceviolence.org/)
-- [Police Protest Videos](https://projects.propublica.org/protest-police-videos/)
-- [GeorgeFloyd Protest police brutality videos](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA#)
-- [Police Body-Worn Camera Footage Access Map](https://www.rcfp.org/resources/bodycams/)
-- [Policebrutalitydatabase.org](https://www.policebrutalitydatabase.org/)
-- [Civilian Office of Police Accountability](https://www.chicagocopa.org/data-cases/case-portal/)
-- [Coplookup.com](https://coplookup.com/)
+- [Mappingpoliceviolence.org](https://mappingpoliceviolence.org/) - Police Surveillance in Chicago
+- [Police Protest Videos](https://projects.propublica.org/protest-police-videos/) - We Tracked What Happens to Police After They Use Force on Protesters
+- [GeorgeFloyd Protest police brutality videos](https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA#) - GeorgeFloyd Protest - police brutality videos on Twitter
+- [Police Body-Worn Camera Footage Access Map](https://www.rcfp.org/resources/bodycams/) - Access to police body-worn camera video
+- [Civilian Office of Police Accountability](https://www.chicagocopa.org/data-cases/case-portal/) - case portal
 - [Project Comport - IMPD/BPD/WPD [Datasets]](https://www.projectcomport.org/)
-- [How many untested rape kits does your city police department or county sheriff’s office have?](https://datawrapper.dwcdn.net/uOdaT/4/)
+- [How many untested r@pe kits does your city police department or county sheriff’s office have?](https://datawrapper.dwcdn.net/uOdaT/4/) -  How many untested r@pe kits does your city police department or county sheriff's office have?
 - [Gun Dealer Inspections | The Trace](https://projects.thetrace.org/inspections/)
-- [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/)
-- [Chicago Police Department Demographics](https://public.flourish.studio/visualisation/1089756/)
-- [George Floyd - Where black people are most disproportionately killed by police](https://public.flourish.studio/visualisation/2646234/)
-- [Iowa Cities police budgets](https://public.flourish.studio/visualisation/3168834/)
+- [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/) - A Secret Catalogue of Government Gear for Spying on Your Cellphone
+- [Chicago Police Department Demographics](https://public.flourish.studio/visualisation/1089756/) - Demographic Composition of Chicago Police Department Compared to Population
+- [George Floyd - Where black people are most disproportionately killed by police](https://public.flourish.studio/visualisation/2646234/) - George Floyd - Where black people are most disproportionately killed by police 
+- [Iowa Cities police budgets](https://public.flourish.studio/visualisation/3168834/) - Amount of General Fund Budgets allocated to police in cities in Iowa
 - [TGCG Members Page](https://c2ffn114.caspio.com/dp/e6a74000833e44e23c324a10987c)
+- [LELU](https://github.com/the-legal-aid-society/LELU) - Data from Legal Aid Society's Law Enforcement Lookup
 <br>
 
 [⇧ Top](#index)
