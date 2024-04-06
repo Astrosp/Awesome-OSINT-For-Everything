@@ -1428,9 +1428,9 @@ about police misconduct in Chicago
 [⇧ Top](#index)
 ## INFORMANT
     
-- [WhosaRat.com](https://whosarat.com/)
-- [Snitch List](https://web.archive.org/web/20200115091633/http://sniitch.com/all/)
-- [Goldensnitches](https://goldensnitches.com/)
+- [WhosaRat.com](https://whosarat.com/) - Largest online database of Police informants and corrupt Police/Agents
+- [Snitch List](https://web.archive.org/web/20200115091633/http://sniitch.com/all/)  - Your public blog diary where you can write about anything and anyone. You are anonymous to the world but yet your blogs matter.(archive of Sniitch) for site  [click Here](https://sniitch.com/)
+- [Goldensnitches](https://goldensnitches.com/) - 500	
      
 ## RESIDENT DATABASE
     
