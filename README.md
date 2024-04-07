@@ -433,6 +433,7 @@ START FOR FREE
 - [THREAT MAP by LookingGlass](https://map.lookingglasscyber.com/)
 - [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/) - NETSCOUT Cyber Threat Horizon (Horizon) is a global cybersecurity situational awareness platform that provides organizations with highly contextualized visibility into 'over the horizon' threat activity on the landscape.
 - [APTnotes](https://github.com/aptnotes/data) - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
+- [Hudson Rock Free Cybercrime Intelligence Tools] (https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific domain or email address was compromised by Infostealer infections.
 <br>
 
 [⇧ Top](#index)
