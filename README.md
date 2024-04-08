@@ -28,6 +28,8 @@ Data Leak, scam, username
 - [OffshoreLeaks](https://offshoreleaks.icij.org/) - find out who's behind offshore companies.
 - [WorldWide OSINT Map](http://cybdetective.com/osintmap/) - gather basic info around the world.
 - [WhatsMyName](https://whatsmyname.app/) - This tool allow to enumerate usernames across many websites.
+- [os-surveillance](https://os-surveillance.io/) - Gather real-time intelligence from Social media, Cameras, Internet of Things or Crimes and Amber Alerts
+In addition search for Wifi networks and look for planes, vessels, trains and city traffic 
  <br>
 
 ## AI
@@ -1435,13 +1437,11 @@ about police misconduct in Chicago
      
 ## RESIDENT DATABASE
     
-- [Michigan Resident Database](https://www.michiganresidentdatabase.com/)
-- [Ohio Resident Database](https://www.ohioresidentdatabase.com/)
-- [Florida Residents Directory](https://www.floridaresidentsdirectory.com/)
-- [North Carolina Resident Database](https://northcarolinaresidentdatabase.com/)
-- [NY Rent Regulated Building Search](https://apps.hcr.ny.gov/BuildingSearch/)
-- [Canadian Resident Database (warning: slow)](https://bloopbase.keybase.pub/POPPY/CANRES/index.html)
-- [Pipl US (warning: slow)](https://bloopbase.keybase.pub/POPPY/PIPL/index.html)
+- [Michigan Resident Database](https://www.michiganresidentdatabase.com/) - Michigan residents public records search
+- [Ohio Resident Database](https://www.ohioresidentdatabase.com/) - Ohio residents public records search
+- [Florida Residents Directory](https://www.floridaresidentsdirectory.com/) - public recored search for Florida
+- [North Carolina Resident Database](https://northcarolinaresidentdatabase.com/) - North corolina public record search
+- [NY Rent Regulated Building Search](https://apps.hcr.ny.gov/BuildingSearch/) - Rent regulated building search from New York state division of housing and community
 <br>
 
 [⇧ Top](#index)
