@@ -1447,10 +1447,10 @@ about police misconduct in Chicago
 [⇧ Top](#index)
 ## PUBLIC RECORDS
     
-- [JudyRecords](https://www.judyrecords.com/)
-- [CourtListener](https://www.courtlistener.com/)
-- [Public Access to Court Electronic Records](https://pacer.uscourts.gov/)
-- [Parallelsearch case law](https://parallelsearch.casetext.com/)
+- [JudyRecords](https://www.judyrecords.com/) - 740 million US court cases
+- [CourtListener](https://www.courtlistener.com/) - Search millions of legal decisions by case name, topic, or citation.
+- [Public Access to Court Electronic Records](https://pacer.uscourts.gov/) - public access to court electronic records
+- [Parallelsearch case law](https://parallelsearch.casetext.com/) - Find a case by phrase
 - [Canadian Legal Information Institute](https://www.canlii.org/en/)
 - [Supreme Court of Canada - Cases](https://www.scc-csc.ca/case-dossier/index-eng.aspx)
 - [Offender Tracking Information System (OTIS)](https://mdocweb.state.mi.us/OTIS2/otis2.aspx)
