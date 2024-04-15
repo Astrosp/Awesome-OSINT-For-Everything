@@ -19,7 +19,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 
 
 ## Basic OSINT 
-Data Leak, scam, username
+Data Leak, scam, username, domain
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
 - [Dehashed](https://www.dehashed.com/) - You can search for your email if its leak in some databases of anything..
 - [HaveIbeenPwned?](https://haveibeenpwned.com/) - check if your email address is in a data breach
@@ -29,7 +29,8 @@ Data Leak, scam, username
 - [WorldWide OSINT Map](http://cybdetective.com/osintmap/) - gather basic info around the world.
 - [WhatsMyName](https://whatsmyname.app/) - This tool allow to enumerate usernames across many websites.
 - [os-surveillance](https://os-surveillance.io/) - Gather real-time intelligence from Social media, Cameras, Internet of Things or Crimes and Amber Alerts
-In addition search for Wifi networks and look for planes, vessels, trains and city traffic 
+In addition search for Wifi networks and look for planes, vessels, trains and city traffic
+- [Chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.
  <br>
 
 ## AI
