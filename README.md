@@ -396,7 +396,7 @@ START FOR FREE
 - [OpenWeatherMap](https://openweathermap.org/) - Weather forecasts, nowcasts and history in a fast and elegant way
 - [Weather History & Data Archive](https://www.wunderground.com/history) - Find historical weather by searching for a city, zip code, or airport code. Include a date for which you would like to see weather history
 - [World Temperatures — Weather Around The World](https://www.timeanddate.com/weather/) - World Temperatures Weather Around The World
-- [AccuWeather](https://www.accuwe	ather.com/) - Weather around the world
+- [AccuWeather](https://www.accuweather.com/) - Weather around the world
 <br>
 
 [⇧ Top](#index)
@@ -436,7 +436,7 @@ START FOR FREE
 - [THREAT MAP by LookingGlass](https://map.lookingglasscyber.com/)
 - [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/) - NETSCOUT Cyber Threat Horizon (Horizon) is a global cybersecurity situational awareness platform that provides organizations with highly contextualized visibility into 'over the horizon' threat activity on the landscape.
 - [APTnotes](https://github.com/aptnotes/data) - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
-- [Hudson Rock Free Cybercrime Intelligence Tools] (https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific domain or email address was compromised by Infostealer infections.
+- [Hudson Rock Free Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific domain or email address was compromised by Infostealer infections.
 <br>
 
 [⇧ Top](#index)
@@ -586,7 +586,7 @@ You are searching 121 billion records.
 - [SOCMINT](https://start.me/p/Wp1kpe/socmint) - some of the best tools 
 - [SocialMap](https://vincos.it/world-map-of-social-networks/) - World map of social media.	
 - [Vimeo search tool](https://www.aware-online.com/en/osint-tools/vimeo-search-tool/) - on Vimeo . Quickly search for videos, people, channels and groups
-- [Kribrum.io](https://krib	rum.io/) - NOTE: IF YOU FIND OUT IST'S WORKING LET ME KNOW- 
+- [Kribrum.io](https://kribrum.io/) - NOTE: IF YOU FIND OUT IST'S WORKING LET ME KNOW- 
 - [Social Search Engine](https://www.socialsearchengine.org/) - Search social information from multiple social networking sites including Facebook, Twitter, Steemit, Google Plus, Blogspot, LinkedIn and more at same time.
 - [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram) - search people, posts ...
 - [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php) - Dribbble is good for finding front end developers, graphic designers, illustrators, typographers, logo designers, and other creative types.
