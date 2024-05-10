@@ -44,6 +44,8 @@ AI tools/Site
 - [10web](https://10web.io/) - Fill out a short questionnaire about your business, and 10Web will build an entire Wordpress website for you.
 - [AgentGPT](https://agentgpt.reworkd.ai/) - AutoGPT's are all the rage right now, and this is among the best ones out there. ive your agent a goal and it'll autonomously give itself tasks, browse the web, and execute it for you.
 - [LonardoAI](https://leonardo.ai/) - Leonardo.ai is a website for a company that offers AI-powered image and video editing tools. The website is designed with a sleek and modern look, featuring a black and white color scheme with pops of orange.
+- [Adobe FireFly](https://firefly.adobe.com/) - A tool from adobe to generate Images from text prompt with added customization.
+- [Groq](https://groq.com/) - Fastest LLM Model
 <br>
 
 [⇧ Top](#index)
