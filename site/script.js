@@ -21,7 +21,7 @@ async function searchTools() {
       throw new Error("Please enter a valid keyword to search.");
     }
 
-    const response = await fetch("/README.md");
+    const response = await fetch("./README.md");
 
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
