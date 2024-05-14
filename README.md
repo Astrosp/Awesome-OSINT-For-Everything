@@ -15,15 +15,20 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Image/Video/Audio](#image--video--audio--media) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Search Engine](#search-engines) ⁕ [News](#news) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕ [Image and Audio](#images-and-audio)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Image/Video/Audio](#image--video--audio--media) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Search Engine](#search-engines) ⁕ [News](#news) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕ [Image and Audio](#images-and-audio)
 
 
-## Basic OSINT
-Data Leak, scam, username, domain
+## Breaches and Leaks
+
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
 - [Dehashed](https://www.dehashed.com/) - You can search for your email if its leak in some databases of anything..
 - [HaveIbeenPwned?](https://haveibeenpwned.com/) - check if your email address is in a data breach
 - [ScamSearch](https://scamsearch.io/) - search to find phone, email, profile if is tobe a scammer.
+- [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. · The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs...
+- [spycloud](https://portal.spycloud.com/endpoint/enriched-stats/[YOUR-MAIL]) - put your mail in YOUR-MAIL.
+  
+## Basic OSINT
+Data Leak, scam, username, domain
 - [Lampyre](https://lampyre.io/) - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
 - [OffshoreLeaks](https://offshoreleaks.icij.org/) - find out who's behind offshore companies.
 - [WorldWide OSINT Map](http://cybdetective.com/osintmap/) - gather basic info around the world.
@@ -1320,7 +1325,6 @@ Enter two images and the difference will show up below
 - [Have I been pwned](https://haveibeenpwned.com/) - check if your email address is in a data breach
 - ~~[DeepSearch](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion.pet/)~~
 - [Personal Data Leak Checker](https://cybernews.com/personal-data-leak-check/) - Find out if your email, phone number or related personal information might have fallen into the wrong hands.
-- [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. · The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs...
 - [DDoSecrets](https://ddosecrets.com/wiki/Special:AllPages) - Distributed Denial of Secrets (DDoSecrets) is a non-profit journalist organization focused on publishing, archiving and analyzing public interest information, creating news coverage from around the world. DDoSecrets specializes in large datasets that have been leaked or hacked, and in verifying and researching the data while protecting sources
 - [Leakedpassword.com](https://leakedpassword.com/) - Find out if a password hack has exposed your password to the world.
 - [DeHashed](https://dehashed.com/) - Have you been compromised? DeHashed provides free deep-web scans and protection against credential leaks
