@@ -1301,6 +1301,7 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## DARKNET
 
+- [Danex.io](http://danex.io/) - Dark web search Engine tool.
 - [Dark Tracer](https://darktracer.io/) - 404
 - [ransomwatch 👀 🦅 ](https://ransomwatch.telemetry.ltd/#/INDEX) - the transparent ransomware claim tracker
 - [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/) - ransomware darknet websites
