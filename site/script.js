@@ -12,19 +12,53 @@
 //         document.getElementById("results").innerHTML = results.join("<br>");
 //       }
 
+// async function searchTools() {
+//   try {
+//     const keyword = document.getElementById("keyword").value;
+
+//     // Validate keyword (optional)
+//     if (!keyword.trim()) {
+//       throw new Error("Please enter a valid keyword to search.");
+//     }
+
+//     const response = await fetch("./README.md");
+
+//     if (!response.ok) {
+//       throw new Error(`HTTP error! status: ${response.status}`);
+//     }
+
+//     const contents = await response.text();
+//     const lines = contents.split("\n");
+//     const results = [];
+
+//     for (const line of lines) {
+//       if (line.toLowerCase().includes(keyword.toLowerCase())) {
+//         results.push(line);
+//       }
+//     }
+
+//     document.getElementById("results").innerHTML = results.join("<br>");
+//   } catch (error) {
+//     console.error("Error:", error);
+//     const errorMessage = error.message || "An error occurred. Please try again later.";
+//     document.getElementById("results").innerHTML = `<p style="color: red;">${errorMessage}</p>`;
+//   }
+// }
+
+
+
 async function searchTools() {
   try {
-    const keyword = document.getElementById("keyword").value;
+    const keyword = document.getElementById("keyword").value.trim();
 
-    // Validate keyword (optional)
-    if (!keyword.trim()) {
+    if (!keyword) {
       throw new Error("Please enter a valid keyword to search.");
     }
 
     const response = await fetch("./README.md");
 
     if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
+      throw new Error(`HTTP error! Status: ${response.status}`);
     }
 
     const contents = await response.text();
@@ -40,7 +74,6 @@ async function searchTools() {
     document.getElementById("results").innerHTML = results.join("<br>");
   } catch (error) {
     console.error("Error:", error);
-    const errorMessage = error.message || "An error occurred. Please try again later.";
-    document.getElementById("results").innerHTML = `<p style="color: red;">${errorMessage}</p>`;
+    document.getElementById("results").innerHTML = `<p style="color: red;">${error.message || "An error occurred. Please try again."}</p>`;
   }
 }

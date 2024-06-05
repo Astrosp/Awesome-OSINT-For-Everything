@@ -1267,6 +1267,7 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## GEO
 
+- [GeoSpy](https://geospy.web.app/) - Photo location prediction using AI
 - [GEOINT](https://start.me/p/W1kDAj/geoint) - every tools you need for geographical data gathering
 - [GeoNames](https://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 - [Geoseer.net](https://www.geoseer.net/) - Search over 3.5 million distinct spatial GIS WMS, WCS, WMTS datasests hosted on over 40k live services from around the world.
