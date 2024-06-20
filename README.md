@@ -635,6 +635,7 @@ You are searching 121 billion records.
 - [getdaytrends](https://getdaytrends.com/) - Twitter trends worldwide
 - [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/) - Trendsmap has been providing unique and powerful analytical and visualisation tools to analyse Twitter data. With the demise of Twitter, we are now providing access to over ten years historical data
 - [Socialbearing](https://socialbearing.com/) - Insights & analytics for tweets & timelines
+- [SocialData API](https://socialdata.tools/) - SocialData is an unofficial Twitter API that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.
 <br>
 
 [⇧ Top](#index)
