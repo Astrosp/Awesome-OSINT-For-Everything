@@ -439,6 +439,7 @@ START FOR FREE
 - [Cisco Talos Intelligence Group](https://talosintelligence.com/) - Gather Intelligence for IPs, Domain, network of file
 - [Fortinet Threat Map](https://threatmap.fortiguard.com/) -
 - [FortiGuard](http://www.fortiguard.com/) - AI-Powered Threat Intelligence for an Evolving Digital World.
+- [Hunt](https://www.hunt.io/) - Hunt is a threat hunting tool with good open directory counter intelligence and IOC hunting that detects and neutralizes malicious activities.
 - [ThreatMiner](https://www.threatminer.org/) - ThreatMiner is a threat intelligence portal designed to enable analysts to research under a single interface.
 - [cymon](https://cymon.io/) -
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - manage your Threat Intelligence at scale
