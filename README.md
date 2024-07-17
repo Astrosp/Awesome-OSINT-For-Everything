@@ -31,7 +31,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
   
 ## Basic OSINT
-Data Leak, scam, username, domain
+Data Leak, scam, username, domain, social
 - [Lampyre](https://lampyre.io/) - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
 - [OffshoreLeaks](https://offshoreleaks.icij.org/) - find out who's behind offshore companies.
 - [WorldWide OSINT Map](http://cybdetective.com/osintmap/) - gather basic info around the world.
@@ -39,6 +39,7 @@ Data Leak, scam, username, domain
 - [os-surveillance](https://os-surveillance.io/) - Gather real-time intelligence from Social media, Cameras, Internet of Things or Crimes and Amber Alerts
 In addition search for Wifi networks and look for planes, vessels, trains and city traffic
 - [Chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.
+- [Tookie-osint](https://github.com/alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
  <br>
 
 ## AI
