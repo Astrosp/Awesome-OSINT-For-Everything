@@ -565,6 +565,7 @@ You are searching 121 billion records.
 - [SimpleMail](https://www.simplemail.dev/) - A simple API to send transactional emails to users, without needing to worry about SMTP, templates, etc..
 - [Protonmail](https://proton.me/mail) - Proton Mail is a Swiss end-to-end encrypted email service
 - [Tuta](https://tuta.com/) - Tuta is the world's most secure email service, easy to use and private by design.
+- [Predicta Search](https://predictasearch.com) - Get the digital footprint from an email or phone number
 <br>
 
 [⇧ Top](#index)
