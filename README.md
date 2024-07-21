@@ -662,6 +662,9 @@ You are searching 121 billion records.
 - [Youtube, Periscope, Twitch & Dailymotion](https://one-plus.github.io/Youtube) - general search tool for youtube
 - [Unlistedvideos.com](https://unlistedvideos.com/) - A website for submitting, searching for, and watching unlisted YouTube videos.
 - [Youtube Comments Downloader](https://youtubecommentsdownloader.com/) - Effortlessly export comments from YouTube videos, live streams, shorts, and community posts. Perfect for YouTubers, social media managers, researchers [PAID]
+- [ActiveTK](https://www.activetk.jp/tools/yt-not-well-known) - This web application allows you to search for Youtube videos by
+the number of views or likes.
+
 <br>
 
 [⇧ Top](#index)
@@ -973,6 +976,8 @@ Enter two images and the difference will show up below
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/) -  Instant font identification powered by the world’s largest collection of fonts, Identify font in given image
 - [Sogou](https://pic.sogou.com/) -
 - [Pixabay](https://pixabay.com/images/search/) - Free Image gallery
+- [picarta.ai](https://www.picarta.ai/) - find where a photo has been taken using AI
+- []
 
 ### Music
 
@@ -1329,6 +1334,9 @@ Enter two images and the difference will show up below
 - [ProPublica](https://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/) - ProPublica is a popular online publication that won five Pulitzer in 2016. It aims to expose abuses of power and betrayal of public trust through investigative journalism.
 - [Sci-Hub](http://scihub22266oqcxt.onion/) - Sci-Hub is a massive database that eliminates the barriers to getting scientific knowledge. It contains millions of scientific research documents from around the world. The site seeks to liberate information by making it free to individuals and institutions.
 - [Hidden Answers](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/) -
+- Access Onion site through visible web: 1. [tor2web](https://tor2web.activetk.jp/)
+										 2. [browserling](https://www.browserling.com/)
+										 3. [4everproxy](https://www.4everproxy.com/tor-proxy)
 <br>
 
 [⇧ Top](#index)
