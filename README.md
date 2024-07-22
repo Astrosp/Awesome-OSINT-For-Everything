@@ -40,7 +40,8 @@ Data Leak, scam, username, domain, social
 In addition search for Wifi networks and look for planes, vessels, trains and city traffic
 - [Chiasmodon](https://github.com/chiasmod0n/chiasmodon) - Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.
 - [Tookie-osint](https://github.com/alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
-- [dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs 
+- [dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
+- [COMB](https://www.proxynova.com/tools/comb/) - the largest dataset of leaked credentials (emails, usernames, and passwords)
  <br>
 
 ## AI
@@ -664,6 +665,7 @@ You are searching 121 billion records.
 - [Youtube Comments Downloader](https://youtubecommentsdownloader.com/) - Effortlessly export comments from YouTube videos, live streams, shorts, and community posts. Perfect for YouTubers, social media managers, researchers [PAID]
 - [ActiveTK](https://www.activetk.jp/tools/yt-not-well-known) - This web application allows you to search for Youtube videos by
 the number of views or likes.
+- [youtubetranscript](https://youtubetranscript.com/) - Extremely fast free online service for converting YouTube videos to text. Not perfect quality, but quite acceptable and very fast.
 
 <br>
 
@@ -916,6 +918,8 @@ the number of views or likes.
 - [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/) - Search Public Buckets
 - [Public Buckets](https://osint.sh/buckets/) - Find public buckets on AWS S3 & Azure Blob by a keyword
 - [Search Atlas](https://searchatlas.org/) - Visualizing Divergent Search Results Across Geopolitical Borders
+- [Dorki](https://dorki.io) - A partially free online tool that allows to collect search results from different search engines (Alexandria, Yahoo, Wikispecies, Yep, Wiby etc) and export them to JSON/TXT.
+- [Hackxy](https://hackxy.io/) - cybersecurity search engine for ctf write and bugbounty reports
 <br>
 
 [⇧ Top](#index)
@@ -1100,6 +1104,7 @@ Enter two images and the difference will show up below
 
 [⇧ Top](#index)
 ## DOMAIN / IP / DNS
+#####URL's
 
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
@@ -1135,6 +1140,7 @@ Enter two images and the difference will show up below
 - [IANA — Root Zone Database](https://www.iana.org/domains/root/db) - The Root Zone Database represents the delegation details of top-level domains, including gTLDs such as .com, and country-code TLDs such as .uk. As the manager of the DNS root zone, we are responsible for coordinating these delegations in accordance with our policies and procedures.
 - [Punkspider](https://punkspider.org/) - Searching for vulnerable websites is coming back soon! Are you new to web security and have no idea what the heck we're talking about
 - [metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
+- [urldna](https://urldna.io) - Gather info about URL: ssl cert, ip, header, metadat ...
 <br>
 
 [⇧ Top](#index)
@@ -1277,6 +1283,8 @@ Enter two images and the difference will show up below
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams) - Live cams from Ukraine
 - [Live map of London Underground trains](https://traintimes.org.uk/map/tube/) - Live london underground train map
 - [TfL JamCams](https://www.tfljamcams.net/) - Trafic cams from London
+- [atlas.co](https://app.atlas.co) - a tool for visualising geodata
+- [felt](https://felt.com) - create map-based visualizations
 <br>
 
 [⇧ Top](#index)
@@ -1318,6 +1326,7 @@ Enter two images and the difference will show up below
 ## DARKNET
 
 - [Danex.io](http://danex.io/) - Dark web search Engine tool.
+- [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - List of onion site (Forum,Chats,Markets)
 - [Dark Tracer](https://darktracer.io/) - 404
 - [ransomwatch 👀 🦅 ](https://ransomwatch.telemetry.ltd/#/INDEX) - the transparent ransomware claim tracker
 - [Ransomware Darknet websites](https://sizeof.cat/post/ransomware-darknet-websites/) - ransomware darknet websites
@@ -1335,8 +1344,8 @@ Enter two images and the difference will show up below
 - [Sci-Hub](http://scihub22266oqcxt.onion/) - Sci-Hub is a massive database that eliminates the barriers to getting scientific knowledge. It contains millions of scientific research documents from around the world. The site seeks to liberate information by making it free to individuals and institutions.
 - [Hidden Answers](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/) -
 - Access Onion site through visible web: 1. [tor2web](https://tor2web.activetk.jp/)
-										 2. [browserling](https://www.browserling.com/)
-										 3. [4everproxy](https://www.4everproxy.com/tor-proxy)
+										 1. [browserling](https://www.browserling.com/)
+										 2. [4everproxy](https://www.4everproxy.com/tor-proxy)
 <br>
 
 [⇧ Top](#index)
