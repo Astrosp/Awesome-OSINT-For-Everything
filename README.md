@@ -900,7 +900,7 @@ the number of views or likes.
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - The Exploit Database is a CVE compliant archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.
 - [Google & Bing](https://one-plus.github.io/GoogleBing) - Google has a large library of search operators that can help with internet-based research, below is just a selection of them.
 - [Boardreader - Forum Search](https://boardreader.com/) - connecting communities through search
-- [Libgen.rs](http://libgen.rs/) - largest Book librery FREE
+- [Libgen.rs](http://libgen.rs/) - largest Book library FREE
 - [Stacksearch](https://stacksear.ch/) - 404
 - [SearchTempest](https://www.searchtempest.com/) - All of Facebook Marketplace, craigslist & more in one search.
 - [2lingual](https://2lingual.com/) - 2lingual makes it easy to Google Search in 2 languages. Get Google Search Results alongside Google Cross Language Search Results. In addition, a Query Translation Option can be activated or deactivated for Google Cross Language Searches.
@@ -1570,7 +1570,7 @@ about police misconduct in Chicago
 - [York County VA 2017 Public Salaries](https://b2.caspio.com/dp/0a921000b12e238357df42e7affc)
 - [OH Court Costs](https://b2.caspio.com/dp/95d31000da9841d5980644c98761)
 - [German Gov Employee Database (Unknown)](https://c0acz339.caspio.com/dp/E171600054612b9f79fb4ddf8f2b)
-- [Brazillian Address CEP Search and Report](https://c2abn462.caspio.com/dp/6c2d80006c6adb825b3b45079cb8)
+- [Brazilian Address CEP Search and Report](https://c2abn462.caspio.com/dp/6c2d80006c6adb825b3b45079cb8)
 - [Darpan NGO Search](https://c7ect427.caspio.com/dp/c45e900062d54a7f263942979465)
 - [UNC System employees with the biggest paychecks](https://c0dzk127.caspio.com/dp/b95b1000e0821c125a8a43cd9cc1)
 - [HEALTHCARE EDUCATION PROVIDERS](https://c3dug085.caspio.com/dp/1fec4000740ace75fdb94ec5bca5)
