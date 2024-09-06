@@ -15,9 +15,12 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Search Engine](#search-engines) ⁕ [News](#news) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕ [Image and Audio](#images-and-audio)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Search Engine](#search-engines) ⁕ [News](#news) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕ [Image and Audio](#images-and-audio)
 
 
+#### <i>Some of other OSINT tools List</i>
+
+- [osinttools.io](https://osinttools.io/) -  Discover and compare the top OSINT tools in one place.
 ## Breaches and Leaks
 
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
@@ -136,6 +139,10 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 <br>
 
 [⇧ Top](#index)
+
+ ## Whatsapp
+
+ - [checkleaked](https://whatsapp.checkleaked.cc) - check whatsapp user profile without saving contact number and some other info.
 
  ## FILE UPLOAD
 
