@@ -76,6 +76,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 [⇧ Top](#index)
 ## PRODUCTIVITY
 
+- [it-tools](https://it-tools.tech/) - Collection of handy online tools for developers
 - [unfurl](https://dfir.blog/unfurl/) - Break down url into pieces and find out what each thing do.
 - [Wolfram|Alpha](https://www.wolframalpha.com/) - solve mathematical Equations
 - [Cryptpad.fr](https://cryptpad.fr/) - Flagship instance of CryptPad, the end-to-end encrypted and open-source collaboration suite. Administered by the CryptPad development team.
