@@ -32,6 +32,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [weleakinfo](https://weleakinfo.io/) - We Leak Info - Leaked Dehashed Databases, search for leaks.
 - [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
 - [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
+- [Findemail.io](https://findemail.io/) - Find email addresses for given company.
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
@@ -1294,6 +1295,7 @@ Enter two images and the difference will show up below
 - [TfL JamCams](https://www.tfljamcams.net/) - Trafic cams from London
 - [atlas.co](https://app.atlas.co) - a tool for visualising geodata
 - [felt](https://felt.com) - create map-based visualizations
+- [TradeMap](https://www.trademap.org/Index.aspx) - Trade map of world by counties (import/export)
 <br>
 
 [⇧ Top](#index)
