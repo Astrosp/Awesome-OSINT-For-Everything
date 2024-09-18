@@ -20,7 +20,7 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 
 #### <i>Some of other OSINT tools List</i>
 
-- [osinttools.io](https://osinttools.io/) -  Discover and compare the top OSINT tools in one place.
+- [osinttools.io](https://osinttools.io/) - Discover and compare the top OSINT tools in one place.
 ## Breaches and Leaks
 
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
@@ -68,7 +68,7 @@ AI tools/Site
 ## Recon
 Tools for Image/Audio/Video/Doc reconnaissance
 
-- [FOCA](https://github.com/ElevenPaths/FOCA) -  Tool to find metadata and hidden information in the documents.
+- [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [FaceCheck](https://facecheck.id/) - Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.
 - [Osmedeus](https://github.com/j3ssie/osmedeus) - Osmedeus is a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets.
 - [log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
@@ -105,7 +105,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
 - [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet
 - [Oldweb.today](http://oldweb.today/) - see old web browser
-- [Unpaywall](https://unpaywall.org/products/extension) -  Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal
+- [Unpaywall](https://unpaywall.org/products/extension) - Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal
 - [DeepL](https://www.deepl.com/translator) - DeepL translate
 - [Project CSV](https://projectcsv.github.io/) - view/modify csv files
 - [CSV to HTML](https://codepen.io/RYJASM/pen/LVEWgV) - convert csv file to html
@@ -240,7 +240,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Face Photo Generator](https://thispersondoesnotexist.com/) - random Photo generator
 - [Random Face Generator](https://fakeinfo.net/random-face-generator) - Want to make your profile more attractive to boost your account reach? Then try our Random Face Generator Tool. It lets you select your favorite image among the variety of options
 - [Credit Card Generator](https://www.fakenamegenerator.com/credit-card-validator.php) - Fake credit card number generator
-- [PIC/CIC Code Database](https://www.allredtech.com/) -  A PIC or CIC code is a 4-digit prefix that identifies a long distance carrier in North America or the Caribbean to a LEC. The LEC uses the code to properly route the call.
+- [PIC/CIC Code Database](https://www.allredtech.com/) - A PIC or CIC code is a 4-digit prefix that identifies a long distance carrier in North America or the Caribbean to a LEC. The LEC uses the code to properly route the call.
 - [SIN Generator](https://www.fakenamegenerator.com/social-insurance-number.php) - Canadian Social Insurance Number (SIN)
 - [ABA Generator](https://www.fakenamegenerator.com/aba-validator.php) - ABA/Routing Number Validator
 - [VIN Generator](https://www.fakenamegenerator.com/vehicle-identification-number.php) - Vehicle Identification Number
@@ -284,7 +284,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Online Password Hash Crack](https://www.onlinehashcrack.com/) - Cloud-based service that attempts to recover passwords (hashes, WPA dumps, Office, PDF, iTunes Backup, Archives) obtained in a legal way (pentest, audit,..).
 - [Md5 Decrypt & Encrypt](https://md5decrypt.net/en/) - encrypt decrypt md5 hashes
 - [MD5 reverse lookup](https://md5.gromweb.com/) - MD5 conversion and reverse lookup
-- [Ultimate Hashing](https://md5hashing.net/) -  [En|De]crypt Hash — Generate hash out of the string and lookup (unhash) for hash value in our pre-computed hash-tables
+- [Ultimate Hashing](https://md5hashing.net/) - [En|De]crypt Hash — Generate hash out of the string and lookup (unhash) for hash value in our pre-computed hash-tables
 - ~[Hashes.org](https://hashes.org/search.php)~ <font color="red">Dead!</font>
 <br>
 
@@ -293,14 +293,14 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
 - [Media-downloader.net](https://media-downloader.net/) -
-- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) -  A Pure client-side webapp to download entire or parts of Imgur albums.
+- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) - A Pure client-side webapp to download entire or parts of Imgur albums.
 - [Export Comments](https://exportcomments.com/) - Easily exports all comments from your social media posts to Excel file.
 - [Image Extractor](https://extract.pics/) - Extract Images From any public website by using a virtual browser
 - [Loader.to](https://loader.to/) - YouTube MP3 Playlist Downloader Online
 - [Commentexporter.com](https://www.commentexporter.com/) - Export and save facebook comment to your computer. Nested comment supported.
 Enter your "Post URL" to export
 - [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - This tool lets you view the followers on any Twitch account.
-- [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems.   Also, Link Gopher does the same for unique domains.
+- [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems. Also, Link Gopher does the same for unique domains.
 - [Page Links Extractor Tool](https://shadowcrypt.net/tools/pagelinks) - Pagelink Extractor scans the entire web page and lists down all hyperlinks on the website. It is useful for research purpose and uses regex to extract the link. It will be regularly updated.
 - [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page. The hrefs or "page links" are displayed in plain text for easy copying or review.
 <br>
@@ -328,7 +328,7 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Stutterbox](https://www.stutterbox.co.uk/) - A speech jammer is a device that inhibits a user from speaking in coherent sentences due to the user hearing their own voice played back to them with a slight delay.
 - [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
 - [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites, just enter username and this tool show you how many websites have that username.
-- [ScamSearch](https://scamsearch.io/) -  Find your scammer online & report them. Don't let them get away. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website
+- [ScamSearch](https://scamsearch.io/) - Find your scammer online & report them. Don't let them get away. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website
 <br>
 
 [⇧ Top](#index)
@@ -483,7 +483,7 @@ Enrich your records, score and route instantly
 
 ## UNIFIED SEARCH
 
-- [SynapsInt](https://synapsint.com/) -  Synapsint is a 100% free service, the data that is presented for each search is the result of consulting different intelligence services, search engines, datasets, etc.
+- [SynapsInt](https://synapsint.com/) - Synapsint is a 100% free service, the data that is presented for each search is the result of consulting different intelligence services, search engines, datasets, etc.
 You will find a lot of information related to a domain, a IP Address or to an ASN. Information like metatags, web site records, ISP, virus analysis, open ports, vulnerabilities, subdomains, location, network, WHOIS, DNS records, technologies used, pastes, social media accounts, blacklisted IP, links and other stuff, also you can know if an URL belongs to a phishing site.
 - [InfoTracer](https://infotracer.com/) - Instant Public Records Search Contact Info, Criminal Records, Arrests, Assets, Social Profiles & More
 - [MetaDefender](https://metadefender.opswat.com/) - Find threats in File, url, ip addr, hash ....
@@ -634,8 +634,8 @@ You are searching 121 billion records.
 [⇧ Top](#index)
  ## TWITTER
 
-- [BirdHunt](https://birdhunt.co/) -  BirdHunt will show you all tweets within the chosen geographic location
-- [Nitter](https://github.com/zedeus/nitter/) -  Alternative Twitter front-end
+- [BirdHunt](https://birdhunt.co/) - BirdHunt will show you all tweets within the chosen geographic location
+- [Nitter](https://github.com/zedeus/nitter/) - Alternative Twitter front-end
 - [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e) - custom search engine for twitter
 - [Twitter Photo Search](https://cse.google.com/cse/publicurl?cx=006290531980334157382:_ltcjq0robu) - custom search engine for twitter
 - [twint](https://pypi.org/project/twint/) - Twint is an advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API.
@@ -666,7 +666,7 @@ You are searching 121 billion records.
 - [Hadzy.com](https://hadzy.com/) - Search, sort and analyze youtube comments
 - [Youtube channel ID](https://commentpicker.com/youtube-channel-id.php) - Find YouTube Channel ID, and related channel information and statistics.
 - [Extract Meta Data YouTube](https://citizenevidence.amnestyusa.org/) - Youtube DataViewer
-- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html) -  a simple model of how News organizations could use Google APIs to help find citizen journalism on YouTube. It uses YouTube and Google APIs to generate location based search results which are stack ranked by upload time.
+- [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html) - a simple model of how News organizations could use Google APIs to help find citizen journalism on YouTube. It uses YouTube and Google APIs to generate location based search results which are stack ranked by upload time.
 - [Yout](https://yout.com/) - search for something in the search bar, click your video, and then record it as a Mp3 (Audio), you can toggle to Mp4 (Video), or Gif (Image) if you want those instead.
 - [YouTube Comment Finder](https://ytcomment.kmcat.uk/) - Search for a video, channel or VideoID
 - [Youtube, Periscope, Twitch & Dailymotion](https://one-plus.github.io/Youtube) - general search tool for youtube
@@ -741,9 +741,9 @@ the number of views or likes.
 - [Searchstream.live](https://searchstream.live/) - twitch live stream filter search
 - [Username Availability](https://cactus.tools/twitch/username) - search for Twitch Username Availability
 - [Check channel badges](https://cactus.tools/twitch/badges) - Check channel badges
-- [Twitch Following](https://cactus.tools/twitch/following) -  Check the Twitch channels someone is following
+- [Twitch Following](https://cactus.tools/twitch/following) - Check the Twitch channels someone is following
 - [All Twitch Streamers Search](https://twitchstats.net/allstreamers) - All Twitch Streamers You can search any twitch streamers/channels here...
-- [Twitchmetrics.net](https://www.twitchmetrics.net/) -  This website gives a meaningful insights about Twitch activity to subs and plebs alike
+- [Twitchmetrics.net](https://www.twitchmetrics.net/) - This website gives a meaningful insights about Twitch activity to subs and plebs alike
 <br>
 
 [⇧ Top](#index)
@@ -859,7 +859,7 @@ the number of views or likes.
 - [Talkwalker](https://www.talkwalker.com/alerts) - Best free and easy alternative to Google Alerts Talkwalker Alerts monitors every single mention of your brand, products, and keywords across the internet - including news platforms, blogs, forums, websites, and even Twitter (X).
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content create an email alert about any topic in mind
 - [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/) - Visualize the spread of information on Twitter
-- [Snopes](https://www.snopes.com/?s=) -  The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
+- [Snopes](https://www.snopes.com/?s=) - The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
 - [ReviewMeta](https://reviewmeta.com/) - ReviewMeta analyzes Amazon product reviews and filters out reviews that our algorithm detects may be unnatural.
 - [Verification Handbook](https://datajournalism.com/read/handbook/verification-1) - Need to learn new data skills, increase your data journalism knowledge or advance your career?
 - [Truth or Fiction](https://www.truthorfiction.com/) - Truth or Fiction? – Seeking truth, exposing fiction
@@ -879,7 +879,7 @@ the number of views or likes.
 - [carrot2](https://search.carrot2.org/#/search/web) - Carrot2 organizes your search results into topics. With an instant overview of what's available, you will quickly find what you're looking for
 - [Qwant](https://www.qwant.com/) - The search engine that respects your privacy
 - [Startpage](https://startpage.com/) - A safer way to search and browse online without personal data collection, tracking or targeting.
-- [Mailing List Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq) -  custom google mailing list search
+- [Mailing List Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq) - custom google mailing list search
 - [swisscows](https://swisscows.com/) - anonymous search engine protects the privacy of our users when searching and from inappropriate content when finding it. We do not use cookies or other tracking technologies, with us each search query remains anonymous and each user a guest without a user profile.
 - [Crossref](https://search.crossref.org/) - Search the metadata of journal articles, books, standards, datasets & more
 - [Brave](https://search.brave.com/) - Brave search engine
@@ -913,7 +913,7 @@ the number of views or likes.
 - [Stacksearch](https://stacksear.ch/) - 404
 - [SearchTempest](https://www.searchtempest.com/) - All of Facebook Marketplace, craigslist & more in one search.
 - [2lingual](https://2lingual.com/) - 2lingual makes it easy to Google Search in 2 languages. Get Google Search Results alongside Google Cross Language Search Results. In addition, a Query Translation Option can be activated or deactivated for Google Cross Language Searches.
-- [Milled](https://milled.com/search) -  The search engine for ecommerce emails
+- [Milled](https://milled.com/search) - The search engine for ecommerce emails
 - [btdig](https://btdig.com/) - BTDigg is the BitTorrent DHT search engine.
 - [Osint Open Source Projects](https://awesomeopensource.com/projects/osint) - The Top 23 Osint Open Source Projects
 - [Monster Crawler Search](http://monstercrawler.com/) - Monster Crawler combines the power of all the leading search engines together in one search box to deliver the best combined results. This is what we call metasearch. The process is more efficient and yields many more relevant results.
@@ -986,7 +986,7 @@ the number of views or likes.
 Enter two images and the difference will show up below
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Forensically is a set of free tools for digital image forensics. It includes clone detection, error level analysis, meta data extraction and more.
 - [Pictriev](http://pictriev.com/) - Find look-alike celebrities on the web using the face recognition.
-- [WhatTheFont](https://www.myfonts.com/WhatTheFont/) -  Instant font identification powered by the world’s largest collection of fonts, Identify font in given image
+- [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Instant font identification powered by the world’s largest collection of fonts, Identify font in given image
 - [Sogou](https://pic.sogou.com/) -
 - [Pixabay](https://pixabay.com/images/search/) - Free Image gallery
 - [picarta.ai](https://www.picarta.ai/) - find where a photo has been taken using AI
@@ -994,7 +994,7 @@ Enter two images and the difference will show up below
 
 ### Music
 
-- [Free Music Search](http://musgle.com/) -  To see Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results
+- [Free Music Search](http://musgle.com/) - To see Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results
 - [Search for Music Using Your Voice](https://www.midomi.com/) - Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free!
 - [Listen Notes](https://www.listennotes.com/) - Search the whole Internet's podcasts. Curate your own podcast playlists. Listen on your favorite podcast player apps.
 - [Discover Podcasts Here!](https://podsearch.com/) - PodSearch is the easiest way to discover podcasts on your favorite topics. Listen to short show samples, learn more about the show and hosts
@@ -1054,7 +1054,7 @@ Enter two images and the difference will show up below
 - [SlideShare Search Engine](https://cse.google.com/cse?cx=465eeeb114c7f523f) - custom google search
 - [Document Search](https://one-plus.github.io/DocumentSearch) - To use the document search tools, please insert a name or company into the relevant boxes
 - [Pdfsearch.io](https://www.pdfsearch.io/) - Document Search Engine - browse more than 18 million document
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) -  A topic-centric list of HQ open datasets.
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [Drivesearch.kwebpia.net](http://drivesearch.kwebpia.net/) - You can quickly and easily search for videos, lyrics, songs, knowledge, medical, science associated with the file. Supports the following topics: Google Drvie, Google Docs, All web search, Video, Lyrics, Knowledge, Movie, Health, Medical, Science, Pandora, Last.fm, SoundCloud...
 - [Filepursuit.com](https://filepursuit.com/) - Search the web for files, videos, audios, eBooks & much more
 - [Open Directory Search](http://eyeofjustice.com/od/) - Open Directory Search Portal
@@ -1065,7 +1065,7 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## DATASET
 
-- [Datasetsearch.research.google.com](https://datasetsearch.research.google.com/) -  Dataset Search is a search engine for datasets. Using a simple keyword search, users can discover datasets hosted in thousands of repositories across the Web.
+- [Datasetsearch.research.google.com](https://datasetsearch.research.google.com/) - Dataset Search is a search engine for datasets. Using a simple keyword search, users can discover datasets hosted in thousands of repositories across the Web.
 - [Databasd](https://databasd.com/search) - is a search engine to find open datasets. The search technology leverages alien artifical intelligence (AAI) to conduct predictive bloackchain data analysis
 - [Data.gov](https://www.data.gov/) - Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more.
 - [data.world](https://data.world/) - The Data Catalog Platform
@@ -1097,7 +1097,7 @@ Enter two images and the difference will show up below
 - [searchcode](https://searchcode.com/) - Search 75 billion lines of code from 40 million projects
 - [Sourcegraph](https://about.sourcegraph.com/) - Sourcegraph allows developers to rapidly search, write, and understand code by bringing insights from their entire codebase right into the editor
 - [Awesome Open Source](https://awesomeopensource.com/) - Find And Compare Open Source Projects
-- [Zen](https://github.com/s0md3v/Zen) -  Find emails of Github users
+- [Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 - [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 <br>
 
@@ -1123,7 +1123,7 @@ Enter two images and the difference will show up below
 - [GreyNoise Intelligence](https://www.greynoise.io/viz/) - GreyNoise identifies internet scanners and common business activity in your security events so you can make confident decisions, faster. Whether you use our Visualizer, API, or integrate GreyNoise data into your security tools, find what's important in your security logs and get back to business.
 - [FOFA](https://fofa.so/) -
 - [zoomeye](https://www.zoomeye.org/) - ZoomEye is a freemium online tool aimed to help aid cybersecurity in the areas of reconnaissance and threat evaluation.
-- [Censys](https://censys.io/domain) -  is a web-based search platform for assessing attack surface for Internet connected devices. The tool can be used not only to identify Internet connected assets and Internet of Things/Industrial Internet of Things (IoT/IIoT), but Internet-connected industrial control systems and platforms.
+- [Censys](https://censys.io/domain) - is a web-based search platform for assessing attack surface for Internet connected devices. The tool can be used not only to identify Internet connected assets and Internet of Things/Industrial Internet of Things (IoT/IIoT), but Internet-connected industrial control systems and platforms.
 - [ViewDNS.info](https://viewdns.info/) - Reverse IP Lookup Find all sites hosted on a given server. Domain / IP. Reverse Whois Lookup Find domain names owned by an individual or company.
 - [Internet Census 2012](http://census2012.sourceforge.net/paper.html) - Overview of 180 Billion service probe records from May to December 2012.
 - [ONYPHE](https://www.onyphe.io/) - ONYPHE is an Attack Surface Management & Attack Surface Discovery solution built as a Cyber Defense Search Engine. We scan the entire Internet and Dark Web for exposed assets and crawl the links just like a Web search engine. Our data is searchable with a Web form or directly from our numerous APIs.
@@ -1156,8 +1156,8 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## MALWARE
 
-- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) -  Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.
-- [Interactive Online Malware Analysis Sandbox](https://app.any.run/) -  check malware for free. With our online malware analysis tools you can research malicious files and URLs and get result with incredible
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.
+- [Interactive Online Malware Analysis Sandbox](https://app.any.run/) - check malware for free. With our online malware analysis tools you can research malicious files and URLs and get result with incredible
 - [Free Automated Malware Analysis Service](https://hybrid-analysis.com/) - This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
 - [VirusTotal](https://www.virustotal.com/gui/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
 - [Maltiverse](https://maltiverse.com/search) - We are here to help companies to adopt quality Threat Intelligence in a simple, quick and effective way
@@ -1207,7 +1207,7 @@ Enter two images and the difference will show up below
 - [Automated transcription for radio stations](https://sonix.ai/radio-stations) - Convert your radio shows or podcast episodes to text and publish these transcripts to get more traffic with Sonix: The world’s most advanced audio transcription platform.
 - [WiGLE: Wireless Network Mapping](https://wigle.net/) - all the networks found by everyone
 - [Ham Radio QRZ Callsign Database Search](https://www.qrz.com/lookup) - radio database search
-- [Radio-Locator](https://radio-locator.com/) -  the most trusted AM and FM radio station search engine on the internet. We have links to over 17,100 radio stations' web pages and over 12,800 stations' audio streams from radio stations in the U.S. and around the world.
+- [Radio-Locator](https://radio-locator.com/) - the most trusted AM and FM radio station search engine on the internet. We have links to over 17,100 radio stations' web pages and over 12,800 stations' audio streams from radio stations in the U.S. and around the world.
 - [RadioID Database](https://database.radioid.net/database/search#!) - radio database
 - [Radio-Sherlock](http://dxmaps.com/search.html) - Your professional and amateur radio search engine
 - [Radiocells.org](https://radiocells.org/) - 404
@@ -1229,7 +1229,7 @@ Enter two images and the difference will show up below
 
 - [PrimeLocation](https://www.primelocation.com/) - find homes to buy or rent
 - [Realtor](https://www.realtor.com/) - find estate by school, address or zip
-- [rehold](https://rehold.com/) -  Rehold Has the Most Extensive Database and Reverse Address Directory in the USA
+- [rehold](https://rehold.com/) - Rehold Has the Most Extensive Database and Reverse Address Directory in the USA
 - [Zillow](https://www.zillow.com/) - Recommendations are based on your location and search activity, such as the homes you've viewed and saved and the filters you've used. We use this information to bring similar homes to your attention
 - [Zoopla](https://www.zoopla.co.uk/) - Find homes to buy or rent and check house prices
 - [homemetry](https://homemetry.com/) - Homemetry is an all-in-one real estate information site that provides a comprehensive overview of homes for sale, apartments for rent, markets, trends and neighborhood insights to help you make the right decisions on exactly what, when and where to buy, sell or rent.
@@ -1243,13 +1243,13 @@ Enter two images and the difference will show up below
 - [FederalCorporation](https://federalcorporation.ca/) - Find Federal Corporations in Canada
 - [Corporate Affairs Registry Database](https://www.pxw2.snb.ca/card_online/cardsearch.aspx) - Corporate Affairs Registry Database
 - [MRAS Business Registry Search](https://beta.canadasbusinessregistries.ca/search) - canada's business registries
-- [Alberta Business Search](https://albertacorporations.com/) -  Search for a company by name, or browse the newest companies registered in Alberta, Canada
+- [Alberta Business Search](https://albertacorporations.com/) - Search for a company by name, or browse the newest companies registered in Alberta, Canada
 - [LeoList](https://www.leolist.cc/) - LeoList to buy, sell, or trade almost anything! Personals, escorts, cars, real estate, jobs, services, vacation rentals and more virtually anywhere
 - [Rental in Canada](https://www.n49.com/search/rental/1/canada/) - rental in canada
 - [Business Directory | OCC](https://occ.ca/business-directory/) - The Ontario Chamber of Commerce (OCC) is the indispensable partner of business and Canada’s largest, most influential provincial chamber.
 - [Rechercher par entreprise](https://www.pes.rbq.gouv.qc.ca/RegistreLicences/Recherche?mode=Entreprise) - Register of RBQ Licence Holders
 - [Services en ligne](https://www.pes.ctq.gouv.qc.ca/pes/faces/dossierclient/recherche.jsp) - Consultation of a dossier
-- [Online Services PEI Business / Corporate Registry](https://www.princeedwardisland.ca/en/feature/pei-business-corporate-registry-original#/service/LegacyBusiness/LegacyBusinessSearch) - PEI Business / Corporate Registry  Original
+- [Online Services PEI Business / Corporate Registry](https://www.princeedwardisland.ca/en/feature/pei-business-corporate-registry-original#/service/LegacyBusiness/LegacyBusinessSearch) - PEI Business / Corporate Registry Original
 - [XBRL Voluntary Filing Program](https://www.sedar.com/issuers/issuers_en.htm) - File, disclose and search for issuer information in Canada’s capital markets
 <br>
 
@@ -1258,11 +1258,11 @@ Enter two images and the difference will show up below
 ## MAPS
 
 - [Google Maps](https://www.google.com/maps) - google map
-- [Bing Maps](https://www.bing.com/maps) -  microsoft bing map
-- [Yandex.Maps](https://yandex.com/maps/) -  yandex map
+- [Bing Maps](https://www.bing.com/maps) - microsoft bing map
+- [Yandex.Maps](https://yandex.com/maps/) - yandex map
 - [Mapillary](https://www.mapillary.com/app/) - Access street-level imagery and map data from all over the world. Fill in the gaps by capturing coverage yourself.
 - [Geonarrative.com](https://geonarrative.usgs.gov/landsat-collection/) - Explore remote-sensing satellites that have orbited our Earth for 50 years.
-- [Waze](https://www.waze.com/live-map) -  Navigation and map
+- [Waze](https://www.waze.com/live-map) - Navigation and map
 - [百度地图](https://map.baidu.com/) - baidu map
 - [DigitalGlobe](https://discover.digitalglobe.com/) - 404
 - [MapQuest](https://www.mapquest.com/) - find driving directions, maps, live traffic updates and road conditions. Find nearby businesses, restaurants and hotels. Explore!
@@ -1465,7 +1465,7 @@ about police misconduct in Chicago
 - [Police Body-Worn Camera Footage Access Map](https://www.rcfp.org/resources/bodycams/) - Access to police body-worn camera video
 - [Civilian Office of Police Accountability](https://www.chicagocopa.org/data-cases/case-portal/) - case portal
 - [Project Comport - IMPD/BPD/WPD [Datasets]](https://www.projectcomport.org/)
-- [How many untested r@pe kits does your city police department or county sheriff’s office have?](https://datawrapper.dwcdn.net/uOdaT/4/) -  How many untested r@pe kits does your city police department or county sheriff's office have?
+- [How many untested r@pe kits does your city police department or county sheriff’s office have?](https://datawrapper.dwcdn.net/uOdaT/4/) - How many untested r@pe kits does your city police department or county sheriff's office have?
 - [Gun Dealer Inspections | The Trace](https://projects.thetrace.org/inspections/)
 - [Secret Surveillance Catalogue](https://theintercept.com/surveillance-catalogue/) - A Secret Catalogue of Government Gear for Spying on Your Cellphone
 - [Chicago Police Department Demographics](https://public.flourish.studio/visualisation/1089756/) - Demographic Composition of Chicago Police Department Compared to Population
@@ -1479,7 +1479,7 @@ about police misconduct in Chicago
 ## INFORMANT
 
 - [WhosaRat.com](https://whosarat.com/) - Largest online database of Police informants and corrupt Police/Agents
-- [Snitch List](https://web.archive.org/web/20200115091633/http://sniitch.com/all/)  - Your public blog diary where you can write about anything and anyone. You are anonymous to the world but yet your blogs matter.(archive of Sniitch) for site  [click Here](https://sniitch.com/)
+- [Snitch List](https://web.archive.org/web/20200115091633/http://sniitch.com/all/)- Your public blog diary where you can write about anything and anyone. You are anonymous to the world but yet your blogs matter.(archive of Sniitch) for site [click Here](https://sniitch.com/)
 - [Goldensnitches](https://goldensnitches.com/) - 500
 
 ## RESIDENT DATABASE
