@@ -165,6 +165,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
 - [Seekr](https://github.com/seekr-osint/seekr) - All-In-One OSINT tool with neat web interface
 - [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
+- [Dencode.com](https://dencode.com/) - DenCode is a web application for encoding and decoding values.
 - [mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [pywhat](https://pypi.org/project/pywhat/) - The easiest way to identify anything
 - [theHarvester](https://pypi.org/project/theHarvester/) - theHarvester is a very simple, yet effective tool designed to be used in the early stages of a penetration test. Use it for open source intelligence gathering and helping to determine a company's external threat landscape on the internet. The tool gathers emails, names, subdomains, IPs, and URLs using multiple public data sources
