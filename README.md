@@ -162,6 +162,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 [⇧ Top](#index)
 ## TOOLSET
 
+- [shell.how](https://www.shell.how/) - This website provides a comprehensive overview of a command's functionality, including detailed explanations of its constituent fragments. 
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
 - [Seekr](https://github.com/seekr-osint/seekr) - All-In-One OSINT tool with neat web interface
 - [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
