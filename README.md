@@ -46,6 +46,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Tookie-osint](https://github.com/alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [COMB](https://www.proxynova.com/tools/comb/) - the largest dataset of leaked credentials (emails, usernames, and passwords)
+- [Face Detection and comparison](https://6mzld2.csb.app/) - compare two uploaded faces
  <br>
 
 ## AI
@@ -73,6 +74,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [FaceCheck](https://facecheck.id/) - Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.
 - [Osmedeus](https://github.com/j3ssie/osmedeus) - Osmedeus is a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets.
 - [log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
+- [Odin](https://search.odin.io/) - A Internet Scanning, Thread hunting tool. Can used for domain, ip, port, cve...
 <br>
 
 [⇧ Top](#index)
