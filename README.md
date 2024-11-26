@@ -47,6 +47,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [COMB](https://www.proxynova.com/tools/comb/) - the largest dataset of leaked credentials (emails, usernames, and passwords)
 - [Face Detection and comparison](https://6mzld2.csb.app/) - compare two uploaded faces
+- [Prospeo](https://prospeo.io/) - Find business email addresses for outreach, find mobile, domain search, email verifier.
  <br>
 
 ## AI
