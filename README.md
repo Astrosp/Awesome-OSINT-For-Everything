@@ -146,6 +146,9 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 
 [⇧ Top](#index)
 
+ ## OSINT Challenge
+ - [billingcat](https://challenge.bellingcat.com/) - Test your open source research skills with these challenges.
+
  ## Whatsapp
 
  - [checkleaked](https://whatsapp.checkleaked.cc) - check whatsapp user profile without saving contact number and some other info.
@@ -1119,8 +1122,9 @@ Enter two images and the difference will show up below
 
 [⇧ Top](#index)
 ## DOMAIN / IP / DNS
-#####URL's
+### URL's
 
+- [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
 - [SecurityTrails](https://securitytrails.com/) - search for domain, IPs, keyword or Hostname
