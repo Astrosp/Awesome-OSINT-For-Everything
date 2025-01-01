@@ -33,7 +33,8 @@ A list of osint tools, websites for pentration testing, Reverse Searching, Red t
 - [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
 - [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
 - [Findemail.io](https://findemail.io/) - Find email addresses for given company.
-  
+- [Osint.ly](https://osint.ly/) - Find leaked results by Username, emails, domains...
+
 ## Basic OSINT
 Data Leak, scam, username, domain, social
 - [Lampyre](https://lampyre.io/) - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
@@ -556,6 +557,8 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - ~~[OSINT Toolkit](https://one-plus.github.io/EmailUsername)~~
 - [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - username search with customization
 - [snoop](https://github.com/snooppr/snoop) - Snoop Project One of the most promising OSINT tools to search for nicknames. Over 4000+ sites (THE BEST ONE)
+- [Osintly](https://osint.ly/) - All-in-one OSINT platform designed for comprehensive online searches. It allows users to search for usernames.
+
 <br>
 
 [⇧ Top](#index)
