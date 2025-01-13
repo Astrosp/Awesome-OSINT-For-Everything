@@ -48,6 +48,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [COMB](https://www.proxynova.com/tools/comb/) - the largest dataset of leaked credentials (emails, usernames, and passwords)
 - [Face Detection and comparison](https://6mzld2.csb.app/) - compare two uploaded faces
 - [Prospeo](https://prospeo.io/) - Find business email addresses for outreach, find mobile, domain search, email verifier.
+- [RepoAnalyzer](https://repoanalyzer.site/) - Discover authentic blockchain projects through comprehensive analysis of on-chain data, GitHub activity, and community engagement.
  <br>
 
 ## AI
@@ -826,7 +827,6 @@ the number of views or likes.
 - [Tokvid](https://tokvid.com/) - Tool for downloading TikTok videos.
 - [TubeHi](https://www.tubehi.com/) - Tool for analyzing TikTok and YouTube content.
 
-Let me know if you'd like any changes!
 <br>
 
 [⇧ Top](#index)
@@ -1147,6 +1147,7 @@ Enter two images and the difference will show up below
 ## DOMAIN / IP / DNS
 ### URL's
 
+- [favihash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
