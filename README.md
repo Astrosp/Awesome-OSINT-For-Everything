@@ -317,7 +317,8 @@ Enter your "Post URL" to export
 
 [⇧ Top](#index)
 ## PRIVACY / SECURITY
-
+- [EmailFinder](https://snov.io/email-finder) - Find any company mail
+- [companyresearcher](https://companyresearcher.exa.ai/) - Enter a company URL for detailed research info. Instantly know any company inside out.
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html) - The Hitchhiker’s Guide to Online Anonymity
 - [Privacy Guides](https://privacyguides.org/) - The guide to restoring your online privacy.
 - [Surveillance Self-Defense](https://ssd.eff.org/) - Surveillance Self-Defense Tips, Tools and How-tos for Safer Online Communications
