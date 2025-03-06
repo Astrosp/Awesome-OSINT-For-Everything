@@ -53,6 +53,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ## AI
 AI tools/Site
+- [ai-toolkit](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!
 - [Decktopus](https://www.decktopus.com/) - Create beautiful & professional presentations in just minutes.
 - [Monica](https://monica.im/) - Monica is a ChatGPT copilot in Chrome, who can help you: Summarize articles, Translate text, Define words
 - [Poised](https://www.poised.com/) - It's a personal communication coach that gives real-time feedback to help you speak with more energy, clarity, & confidence.
