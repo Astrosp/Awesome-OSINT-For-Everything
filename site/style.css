@@ -3,24 +3,28 @@ body {
     background-position: center;
     background-size: cover;
     display: flex;
+    flex-direction: column; 
     align-items: center;
-    justify-content: center;
     height: 100vh;
     margin: 0;
-    padding: 0;
+    padding: 20px;
     font-family: 'Poppins', sans-serif;
+    background-attachment: fixed;
+    overflow-y: auto;
 }
 
 .search-bar {
     width: 100%;
     max-width: 700px;
-    align-items: center;
     background: rgba(255, 255, 255, 0.2);
     padding: 10px 20px;
     border-radius: 60px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     display: flex;
-    backdrop-filter: blur(4px) saturated(180%);
+    backdrop-filter: blur(4px) saturate(180%);
+    position: sticky;
+    top: 30px;
+    z-index: 100;
 }
 
 .search-bar input {
@@ -29,31 +33,63 @@ body {
     border: 0;
     flex: 1;
     background: transparent;
-    border-right: none;
-    outline: none;
+    outline: none; 
     color: #cac7ff;
 }
 
-::placeholder{
+::placeholder {
     color: #cac7ff;
 }
 
-.search-bar button img{
+.search-bar button img {
     width: 25px;
 }
 
-.search-bar button {
-    width: 60px;
-    padding: 18px 20px;
-    border-radius: 50%;
-    background: #58629b;
-    background-position: center;
-    border: 0;
-    cursor: pointer;
+#results {
+    width: 100%;
+    max-width: 700px; 
+    margin-top: 80px;
+    font-size: 15px;
+    text-align: left;
+    color: #fff; 
 }
 
-#results {
-    margin-top: 50px;
+/* Additional styles for search results */
+.tool {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #666; 
+}
+
+.tool h3 {
+    margin: 0 0 5px 0;
+}
+
+.tool a {
+    color: #add8e6; 
+    text-decoration: none;
+}
+
+.tool a:hover {
+    text-decoration: underline;
+}
+
+.tool p {
+    margin: 5px 0;
+}
+
+.category {
+    color: #ccc; 
+    font-style: italic;
+}
+
+.search-bar button {
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 30px;
+    background: #58629b;
+    border: 0;
+    cursor: pointer;
+    color: #fff; 
     font-size: 18px;
-    text-align: left;
 }

@@ -1,15 +1,18 @@
 <!DOCTYPE html>
-  <head>
-    <title>OSINT Tools</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
-  </head>
-  <body>
-    <form action="" class="search-bar">
-      <input type="text" id="search_text" placeholder="Search What you Want!">
-      <button type="submit" onclick="matches()"><img src="img/search.png"></button>
-    </form>
-    <div id="results"></div>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OSINT Tools Search</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search for tools (e.g., google)">
+    <button id="searchButton"><img src="img/search.png" alt="Search"></button>
+  </div>
+  <div id="results"></div>
+  <script src="script.js"></script>
+</body>
 </html>
