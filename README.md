@@ -5,7 +5,7 @@
 <b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/></h1>
 
 <p align="center">
-A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
+A list of osint tools/websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
 </p>
 
 
@@ -993,7 +993,8 @@ the number of views or likes.
 ## IMAGES and Audio
 
 ### Image
-
+  
+- [Image verification assisant](https://mever.gr/forensics/) - Imge verification assisant helps you to analyse the varacity of online media
 - [Google Images](https://images.google.com/) - Google image search
 - [Yandex Images](https://yandex.com/images/) - Yandex Image search
 - [Bing Images](https://www.bing.com/images) - Bing Image search
