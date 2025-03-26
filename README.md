@@ -694,6 +694,7 @@ the number of views or likes.
 [⇧ Top](#index)
 ## REDDIT
 
+- [Vapor](https://vapor.selva.ee/) - Get Profile data by username
 - [Reveddit.com](https://www.reveddit.com/) - Reveal Reddit's secretly removed content. Search by username or subreddit
 - ~~[Karma Decay](http://karmadecay.com/)~~ - 404
 - [redditsfinder](https://pypi.org/project/redditsfinder/) - Archive a reddit user's post history. Formatted overview of a profile, JSON containing every post, and picture downloads.
