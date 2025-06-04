@@ -123,6 +123,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Markdown Editor](https://markdown-editor.github.io/) - Markdown editor
 - [SQL Editor](https://www.mycompiler.io/new/sql) - sql editor
 - [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - drop sqlite file and view content, sqlite viewer
+- [SQLable](https://sqlable.com/) - A collection of SQL tools
 - [OCR Text Extractor](https://osint.sh/ocr/) - OCR text extractor from png, jpeg, webp and pdf
 - [Wetranscriber](https://www.wetranscriber.com/) - A free, simple and efficient transcription platform for individuals or teams
 - [Tophonetics.com](https://tophonetics.com/) - This online converter of English text to IPA phonetic transcription will translate your English text into its phonetic transcription using the International Phonetic Alphabet.
