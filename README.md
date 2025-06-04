@@ -34,6 +34,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
 - [Findemail.io](https://findemail.io/) - Find email addresses for given company.
 - [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
+- [LeakRadar](https://leakradar.io/) - Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
@@ -1191,6 +1192,7 @@ Enter two images and the difference will show up below
 - [metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 - [urldna](https://urldna.io) - Gather info about URL: ssl cert, ip, header, metadat ...
 - [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains and malicious files collected from a network of honeypots
+- [SubDomainRadar.io](https://subdomainradar.io/) - All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access
 <br>
 
 [⇧ Top](#index)
