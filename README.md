@@ -33,6 +33,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
 - [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
 - [Findemail.io](https://findemail.io/) - Find email addresses for given company.
+- [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
