@@ -947,6 +947,7 @@ the number of views or likes.
 - [Vulmon](https://vulmon.com/) - Search anything related to vulnerabilities on Vulmon, from products to vulnerability types. Start your journey to free vulnerability intelligence.
 - [Vulnerability & Exploit Database](https://www.rapid7.com/db/) - Technical details for over 180,000 vulnerabilities and 4,000 exploits are available for security professionals and researchers to review.
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) - The Exploit Database is a CVE compliant archive of public exploits and corresponding vulnerable software, developed for use by penetration testers and vulnerability researchers.
+- [Vulert-DB](https://vulert.com/vuln-db) - Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others. 
 - [Google & Bing](https://one-plus.github.io/GoogleBing) - Google has a large library of search operators that can help with internet-based research, below is just a selection of them.
 - [Boardreader - Forum Search](https://boardreader.com/) - connecting communities through search
 - [Libgen.rs](http://libgen.rs/) - largest Book library FREE
