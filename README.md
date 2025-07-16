@@ -35,6 +35,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [Findemail.io](https://findemail.io/) - Find email addresses for given company.
 - [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
 - [LeakRadar](https://leakradar.io/) - Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API
+- [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
