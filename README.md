@@ -56,6 +56,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ## AI
 AI tools/Site
+- [anonchatgpt](https://anonchatgpt.com) - AnonChatGPT is a ChatGPT client that provides a convenient way to interact with ChatGPT without needing an account or disclosing any personal information. Unlike other chatbot platforms, AnonChatGPT doesn't require users to create an account, making it completely anonymous and free to use for anyone.
 - [ai-toolkit](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!
 - [Decktopus](https://www.decktopus.com/) - Create beautiful & professional presentations in just minutes.
 - [Monica](https://monica.im/) - Monica is a ChatGPT copilot in Chrome, who can help you: Summarize articles, Translate text, Define words
@@ -1650,4 +1651,5 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
