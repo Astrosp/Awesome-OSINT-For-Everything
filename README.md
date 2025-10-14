@@ -25,6 +25,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
 - [Dehashed](https://www.dehashed.com/) - You can search for your email if its leak in some databases of anything..
+- [Cerast Intelligence](https://cerast-intelligence.com/) - Leaked Files Search like .Env, Databases, Configs and more.
 - [HaveIbeenPwned?](https://haveibeenpwned.com/) - check if your email address is in a data breach
 - [ScamSearch](https://scamsearch.io/) - search to find phone, email, profile if is tobe a scammer.
 - [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. · The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs...
@@ -1651,5 +1652,6 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
 
