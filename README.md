@@ -52,6 +52,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Face Detection and comparison](https://6mzld2.csb.app/) - compare two uploaded faces
 - [Prospeo](https://prospeo.io/) - Find business email addresses for outreach, find mobile, domain search, email verifier.
 - [RepoAnalyzer](https://repoanalyzer.site/) - Discover authentic blockchain projects through comprehensive analysis of on-chain data, GitHub activity, and community engagement.
+- [Reverse Contact](https://www.reversecontact.com/) - Find real-time contact and company data from an email address.
  <br>
 
 ## AI
@@ -219,6 +220,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/) - OSINT cli tool skeleton
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
 - [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
+- [Dorkgpt](https://www.dorkgpt.com/) - Generate google dork with AI.
 <br>
 
 [⇧ Top](#index)
@@ -548,6 +550,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 
 [⇧ Top](#index)
 ## USERNAME
+- [namechk](https://namechk.com/) - Check available username across 30 domain 90 social sites.
 - [Phantom Finder (iOS)](https://apps.apple.com/gb/app/phantom-finder-username-search/id6736408372) - Mobile reverse username search with direct profile links.
 - [WhatsMyName Web](https://whatsmyname.app/) - username search
 - [Username Checker](https://analyzeid.com/username/) - Social media username checker. Gather information on the taken username and get a summary of who the person is.
@@ -560,7 +563,6 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [KnowEm](https://knowem.com/) - KnowEm allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites
 - [Check Usernames](https://checkusernames.com/) - Check the use of your brand or username on 160 Social Networks
 - [Username Checker](https://checkuser.org/) - Check Your Desired Usernames Across 70+ Popular Social Network Sites
-- [Namechk](https://namechk.com/) - With Namechk, you can check the availability of a username or domain name within seconds
 - [Lullar Com](https://com.lullar.com/) - Profile search by email, username or first name
 - ~~[OSINT Toolkit](https://one-plus.github.io/EmailUsername)~~
 - [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - username search with customization
@@ -640,6 +642,7 @@ You are searching 121 billion records.
 [⇧ Top](#index)
  ## FACEBOOK
 
+- [sowsearch](https://www.sowsearch.info/) - get facebook data by id and more
 - [Facebook Search Engine](https://cse.google.com/cse?cx=95ae46262a5f2958e)
 - [Facebook Photo Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:jyvyp2ppxma)
 - [Facebook Scraped Data search](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.to/) - search in facebook scaped data (if onion[.]to is not working open in tor browser without .to) OR [Click Here](https://fr.4everproxy.com/secure/zHLV62xyZZROpM~9TGrMISNsG3Yk6QS167xKdMmQ1tMKKloKw3TsCdU~fpQ7gOsk1m7t39p1sYlsg9ThAyYdCAeYqI1pOWMT39tWTRf5i4I-)
@@ -679,6 +682,7 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## YOUTUBE
 
+- [Filmot](https://https://filmot.com/) - Search within YouTube subtitles, captions and transcripts.
 - [yt-dlp](https://pypi.org/project/yt-dlp/) - Youtube downloader with additional features.
 - [Location Search](https://mattw.io/youtube-geofind/location) - Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world.
 - [YouTube Metadata Bulk](https://mattw.io/youtube-metadata/bulk) - Metadata bulk grabs details about multiple YouTube videos, a playlist's videos, or a channel's public videos.
@@ -1063,6 +1067,7 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## FLIGHT TRACKER
 
+- [Flightera](https://www.flightera.net/) - Flightera is one of the leading aviation tracker and flight data websites worldwide.
 - [FlightAirMap](https://www.flightairmap.com/) - Real or virtual flights are displayed in real-time on a 2D or 3D map. Airports are also available on map. Statistics for pilots and/or owners are generated.
 - [ADS-B Exchange](https://globe.adsbexchange.com/) - ADS-B Exchange - track aircraft live
 - [Icarus.flights](https://icarus.flights/) - Icarus Flights is a tool for analyzing uncensored aircraft activity data and tracing global aircraft ownership records
@@ -1651,5 +1656,6 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
 
