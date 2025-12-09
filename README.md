@@ -21,6 +21,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 #### <i>Some of other OSINT tools List</i>
 
 - [osinttools.io](https://osinttools.io/) - Discover and compare the top OSINT tools in one place.
+- [https://htdark.com/osint/osint-framework](https://htdark.com/osint/osint-framework) - Advanced Open Source Intelligence gathering and reconnaissance platform for security researchers.
 ## Breaches and Leaks
 
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
@@ -1656,6 +1657,7 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
 
 
