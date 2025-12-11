@@ -1191,6 +1191,7 @@ Enter two images and the difference will show up below
 - [Google Transparency Report](https://transparencyreport.google.com/https/certificates) - HTTPS encryption on the web report
 - [Certificate Search](https://osint.sh/crt/) - Find information about the target assets from their SSL certificate
 - [CRT](https://crt.sh/) - certificate search
+- [CertKit](https://www.certkit.io/tools/ct-logs/) - Fast search for the Certificate Transparenc Logs
 - [LeakIX](https://leakix.net/) - This project goes around the Internet and finds services to index them.
 - [URL and website scanner](https://urlscan.io/) - urlscan.io is a free service to scan and analyse websites. When a URL is submitted to urlscan.io, an automated process will browse to the URL like a regular user and record the activity that this page navigation creates.
 - [dnsdumpster](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
