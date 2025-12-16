@@ -563,6 +563,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [KnowEm](https://knowem.com/) - KnowEm allows you to check for the use of your brand, product, personal name or username instantly on over 500 popular and emerging social media websites
 - [Check Usernames](https://checkusernames.com/) - Check the use of your brand or username on 160 Social Networks
 - [Username Checker](https://checkuser.org/) - Check Your Desired Usernames Across 70+ Popular Social Network Sites
+- [user-scanner](https://github.com/kaifcodec/user-scanner) - Check a username's presence across popular dev/social/creator sites and games
 - [Lullar Com](https://com.lullar.com/) - Profile search by email, username or first name
 - ~~[OSINT Toolkit](https://one-plus.github.io/EmailUsername)~~
 - [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - username search with customization
@@ -1657,6 +1658,7 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
 
 
