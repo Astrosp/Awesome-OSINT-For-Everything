@@ -799,6 +799,7 @@ the number of views or likes.
 - [Telegram Search](https://cse.google.com/cse?cx=004805129374225513871:p8lhfo0g3hg) - custom google search for telegram
 - [Telegram Search. Search for posts](https://tgstat.com/search) - TGStat offers a full range of possibilities for a comprehensive search of posts and messages in Telegram
 - [Lyzem Blog](https://lyzem.com/) - search telegram posts
+- [maltego-telegram](https://github.com/vognik/maltego-telegram/) - OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
 - [Telegram Channels List](https://tlgrm.eu/channels) - Discover interesting channels for your Telegram
 - [Readergram.com](https://readergram.com/) - Here you can find channels, chats and groups for every taste and preference
 - [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - search for telegram group, channels, bots
@@ -1661,6 +1662,7 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
 
 
