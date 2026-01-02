@@ -71,8 +71,8 @@ AI tools/Site
 - [Adobe FireFly](https://firefly.adobe.com/) - A tool from adobe to generate Images from text prompt with added customization.
 - [Groq](https://groq.com/) - Fastest LLM Model
 - [YouLearn](https://www.youlearn.ai/) - Learn from an AI tutor that understands your pdfs, videos, and slides.
-- [Anything](anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
-- [Exa.ai](exa.ai) - ai search engine
+- [Anything](https://anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
+- [Exa.ai](https://exa.ai) - ai search engine
 <br>
 
 [⇧ Top](#index)
@@ -1662,6 +1662,7 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
 
 
