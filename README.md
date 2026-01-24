@@ -180,6 +180,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 
 [⇧ Top](#index)
 ## TOOLSET
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution with 135+ pre-configured OSINT and security tools for penetration testing and reconnaissance.
 
 - [shell.how](https://www.shell.how/) - This website provides a comprehensive overview of a command's functionality, including detailed explanations of its constituent fragments. 
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
