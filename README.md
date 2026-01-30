@@ -580,6 +580,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 
 - [Email Lookup](https://epieos.com/) - The ultimate OSINT tool for email and phone reverse lookup
 - [holehe](https://pypi.org/project/holehe/) - holehe allows you to check if the mail is used on different sites like twitter, instagram , snapchat and will retrieve information on sites with the forgotten password function.
+- [user-scanner](https://github.com/kaifcodec/user-scanner.git) - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
 - ~~[Infoga](http://github.com/m4ll0k/Infoga)~~ - 404
 - ~~[Trumail](https://trumail.io/)~~ - Purchase by emailable.
 - [Email Verifier](https://hunter.io/email-verifier) - Verify any email address with the most complete email checker.
@@ -1663,6 +1664,7 @@ about police misconduct in Chicago
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
+
 
 
 
