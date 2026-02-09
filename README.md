@@ -15,7 +15,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Search Engine](#search-engines) ⁕ [News](#news) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕ [Image and Audio](#images-and-audio)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [OnlyFans](#onlyfans) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Training / Learning](#osint-training--learning)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -36,6 +36,12 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
 - [LeakRadar](https://leakradar.io/) - Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API
 - [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
+- [Leak-Lookup](https://leak-lookup.com/) - Data breach search engine with over 3 billion records from 3000+ databases.
+- [BreachDirectory](https://breachdirectory.org/) - Check if your credentials have been compromised in data breaches.
+- [Scylla.so](https://scylla.so/) - Community-driven database breach search engine.
+- [Leaked.domains](https://leaked.domains/) - Search for domain-related leaked credentials and data.
+- [WhiteIntel](https://whiteintel.io/) - Dark web data leak search engine for threat intelligence.
+- [PSBDMP](https://psbdmp.ws/) - Pastebin dump search and monitoring platform.
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
@@ -73,6 +79,21 @@ AI tools/Site
 - [YouLearn](https://www.youlearn.ai/) - Learn from an AI tutor that understands your pdfs, videos, and slides.
 - [Anything](https://anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
 - [Exa.ai](https://exa.ai) - ai search engine
+- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search engine that provides concise, sourced answers to queries.
+- [Claude](https://claude.ai/) - Anthropic's AI assistant for research, analysis, and content generation.
+- [Gemini](https://gemini.google.com/) - Google's AI assistant with advanced reasoning and multimodal capabilities.
+- [NotebookLM](https://notebooklm.google/) - Google's AI research assistant that works with your uploaded documents.
+- [Poe](https://poe.com/) - Access multiple AI models including GPT-4, Claude, and Gemini in one platform.
+- [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
+- [Copilot](https://copilot.microsoft.com/) - Microsoft's AI assistant integrated with Bing search.
+- [You.com](https://you.com/) - AI search engine with multiple modes for different research needs.
+- [Phind](https://www.phind.com/) - AI search engine optimized for developers and technical queries.
+- [Consensus](https://consensus.app/) - AI-powered academic research search engine.
+- [Elicit](https://elicit.com/) - AI research assistant for analyzing academic papers.
+- [Scite.ai](https://scite.ai/) - AI tool to see how publications cite each other.
+- [iAsk.ai](https://iask.ai/) - AI-powered answer engine that provides accurate, factual answers to questions.
+- [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
+- [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 <br>
 
 [⇧ Top](#index)
@@ -86,6 +107,24 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 - [Odin](https://search.odin.io/) - A Internet Scanning, Thread hunting tool. Can used for domain, ip, port, cve...
 - [cyscan.io](https://cyscan.io/) - Cyber URL Scanner is an advanced tool for analyzing website security. Using the latest cybersecurity technologies, we offer comprehensive URL scanning to detect potential threats.
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT collection tool with 200+ modules for reconnaissance.
+- [Maltego CE](https://www.maltego.com/maltego-community/) - Visual link analysis tool for connecting data points in investigations.
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Full-featured web reconnaissance framework written in Python.
+- [Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery tool.
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+- [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit for probing web servers.
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast vulnerability scanner based on simple YAML templates.
+- [Katana](https://github.com/projectdiscovery/katana) - Next-generation crawling and spidering framework.
+- [Reconftw](https://github.com/six2dez/reconftw) - Automated reconnaissance tool combining multiple OSINT tools.
+- [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all URLs that the Wayback Machine knows about for a domain.
+- [gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault, Wayback Machine, and Common Crawl.
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery tool.
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of web archives.
+- [Gobuster](https://github.com/OJ/gobuster) - Directory/file, DNS and VHost busting tool.
+- [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
+- [Feroxbuster](https://github.com/epi052/feroxbuster) - Fast, simple, recursive content discovery tool.
+- [WebSift](https://github.com/s-r-e-e-r-a-j/WebSift) - Web reconnaissance tool for gathering information about websites.
 <br>
 
 [⇧ Top](#index)
@@ -115,6 +154,8 @@ EtherCalc is a web spreadsheet.
 - [archive.is](https://archive.is/) - Archive.today is a time capsule for web pages!
 It takes a 'snapshot' of a webpage that will always be online even if the original page disappears
 - [Wayback Machine](https://web.archive.org/) - Internet archive of everything
+- [WayBien](https://waybien.com/) - Enhanced Wayback Machine interface for browsing archived websites.
+- [Meawfy](https://meawfy.com/) - Web archiving and snapshot service.
 - [waybackpy](https://pypi.org/project/waybackpy/) - Python package that interfaces with the Internet Archive's Wayback Machine APIs. Archive pages and retrieve archived pages easily.
 - [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
 - [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet
@@ -216,6 +257,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Steganography Online](https://stylesuxx.github.io/steganography/) - Steganography is a process which can encode message in image. In this site just upload a image then enter a text and hit encode to encode message.
 - [Torrent to Magnet](https://nutbread.github.io/t2m/) - Convert .torrent file to magnet URI's just drop the file
 - [Anonymous YouTube Playlists](https://neverducky.github.io/anonymous-youtube-playlists/) - A simple tool for generating a YouTube playlist that isn't tied to an account
+- [Quite a Playlist](https://quiteaplaylist.com) - YouTube playlist analyzer and manager tool.
 - [Vega Editor](https://vega.github.io/editor/#/) - create pie, charts and more through your browser
 - [DISA Code Template Generator](https://duncanford.github.io/disa-code-generator) - To purpose of this generator is to quickly create the content for all the separate five files you need to create a template DISA integration. Almost everything can be keyed from a single name: the name of the plugin
 - [Canary Tokens](http://canarytokens.org/generate) -You'll be familiar with web bugs, the transparent images which track when someone opens an email. They work by embedding a unique URL in a page's image tag, and monitoring incoming GET requests. Canarytokens helps track activity and actions on your network.
@@ -225,6 +267,8 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
 - [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
 - [Dorkgpt](https://www.dorkgpt.com/) - Generate google dork with AI.
+- [DorkSearch](https://dorksearch.com/) - Google dorking made easy with pre-built search queries.
+- [BOSINT](https://app.bosint.gg/) - All-in-one OSINT investigation platform.
 <br>
 
 [⇧ Top](#index)
@@ -402,6 +446,10 @@ START FOR FREE
 - [Shodan Cheat Sheet](https://thedarksource.com/shodan-cheat-sheet/) -
 - [Week in OSINT](https://sector035.nl/articles/category:week-in-osint)
 - [Osint.team](https://osint.team/)
+- [The OSINT Vault](https://theosintvault.io/) - Curated collection of OSINT resources and tools.
+- [OSINT Network Events](https://osintnetwork.com/osint-events.html) - Calendar of OSINT conferences, webinars, and training events.
+- [GIJN Deep Internet Research](https://gijn.org/resource/introduction-investigative-journalism-deep-internet-research/) - Guide to investigative journalism and deep internet research.
+- [Tracking Digital Footprints](https://spotlight.ebu.ch/p/tracking-digital-footprints-with) - EBU Spotlight guide on digital footprint tracking.
 - [QueryTool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheets. With this tool you can perform complex search of terms, people, email addresses, files and many more.
 - [Investigating the source code of a website](https://www.aware-online.com/en/osint-tutorials/investigating-the-source-code-of-a-website/) - The source code of a website can be seen as the readable text written by a programmer in a programming language. Simply said, the source code consists of a variety of code lines, which together ensure that a website ‘ works ‘ and that a website looks a certain way.
 - [Find open FTP Servers](https://www.aware-online.com/en/osint-tutorials/find-open-ftp-servers/) - find an open ftp server osint
@@ -486,6 +534,24 @@ START FOR FREE
 - [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/) - NETSCOUT Cyber Threat Horizon (Horizon) is a global cybersecurity situational awareness platform that provides organizations with highly contextualized visibility into 'over the horizon' threat activity on the landscape.
 - [APTnotes](https://github.com/aptnotes/data) - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 - [Hudson Rock Free Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific domain or email address was compromised by Infostealer infections.
+- [MITRE ATT&CK](https://attack.mitre.org/) - Knowledge base of adversary tactics and techniques.
+- [Abuse.ch](https://abuse.ch/) - Fighting malware and botnets with various tracking projects.
+- [URLhaus](https://urlhaus.abuse.ch/) - Share malicious URLs that are being used for malware distribution.
+- [MalwareBazaar](https://bazaar.abuse.ch/) - Share malware samples for research purposes.
+- [Threatfox](https://threatfox.abuse.ch/) - Share IOCs associated with malware.
+- [FeodoTracker](https://feodotracker.abuse.ch/) - Track Feodo command and control servers.
+- [C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds) - C2 intelligence feeds for threat hunting.
+- [PhishTank](https://phishtank.org/) - Community-driven anti-phishing site.
+- [Shodan Monitor](https://monitor.shodan.io/) - Monitor your network exposure.
+- [BinaryEdge](https://www.binaryedge.io/) - Threat intelligence and attack surface analysis.
+- [Spamhaus](https://www.spamhaus.org/) - Tracking spam and cyber threats.
+- [AbuseIPDB](https://www.abuseipdb.com/) - IP address abuse reports and monitoring.
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform.
+- [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Open cyber threat intelligence platform.
+- [YETI](https://github.com/yeti-platform/yeti) - Your everyday threat intelligence platform.
+- [MISP](https://www.misp-project.org/) - Open source threat intelligence platform.
+- [Sigma Rules](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems.
+- [Global Threat Map](https://globalthreatmap.up.railway.app/) - Real-time visualization of global cyber threats.
 <br>
 
 [⇧ Top](#index)
@@ -572,6 +638,15 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - ~~[OSINT Toolkit](https://one-plus.github.io/EmailUsername)~~
 - [Username search tool](https://www.aware-online.com/en/osint-tools/username-search-tool/) - username search with customization
 - [snoop](https://github.com/snooppr/snoop) - Snoop Project One of the most promising OSINT tools to search for nicknames. Over 4000+ sites (THE BEST ONE)
+- [Blackbird](https://github.com/p1ngul1n0/blackbird) - OSINT tool to search for accounts by username across social networks.
+- [Detective](https://detective.run/) - Search for usernames across multiple platforms.
+- [Nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username.
+- [Search4Faces](https://search4faces.com/) - Reverse face search in social networks.
+- [Usersearch.org](https://usersearch.org/) - Find someone by username across 600+ sites.
+- [Instant Username Search](https://instantusername.com/) - Check username availability across 100+ sites.
+- [Namecheckr](https://www.namecheckr.com/) - Check username and domain availability.
+- [UserRecon](https://github.com/thelinuxchoice/userrecon) - Find usernames across over 75 social networks.
+- [Profil3r](https://github.com/Rog3rSm1th/Profil3r) - OSINT tool to find a person's profile across social networks.
 <br>
 
 [⇧ Top](#index)
@@ -606,6 +681,17 @@ You are searching 121 billion records.
 - [Protonmail](https://proton.me/mail) - Proton Mail is a Swiss end-to-end encrypted email service
 - [Tuta](https://tuta.com/) - Tuta is the world's most secure email service, easy to use and private by design.
 - [Predicta Search](https://predictasearch.com) - Get the digital footprint from an email or phone number
+- [Ghunt](https://github.com/mxrch/GHunt) - Offensive Google framework to extract information from Google accounts.
+- [Mailcat](https://github.com/sharsil/mailcat) - Find email addresses of a person from their username.
+- [Crosslinked](https://github.com/m8sec/CrossLinked) - LinkedIn enumeration to extract employee names for email generation.
+- [Skymem](http://www.skymem.info/) - Find email addresses from companies.
+- [Voila Norbert](https://www.voilanorbert.com/) - Find anyone's email address with an email finder.
+- [Snov.io](https://snov.io/) - Find verified email addresses and automate email outreach.
+- [Clearout](https://clearout.io/) - Email validation and verification service.
+- [NeverBounce](https://neverbounce.com/) - Real-time email verification.
+- [MailTester](https://mailtester.com/) - Test if an email address exists.
+- [Verify-Email](https://verify-email.org/) - Check if an email address exists.
+- [Google Alerts for Emails](https://www.google.com/alerts) - Monitor when an email appears online.
 <br>
 
 [⇧ Top](#index)
@@ -630,6 +716,15 @@ You are searching 121 billion records.
 - [Oldphonebook.com](http://www.oldphonebook.com/) - search a large selection from the past 20 years of USA phone listing
 - [carrier lookup](https://www.carrierlookup.com/) - Look Up A Cell Phone Carrier Right Now For Free!
 - [Free Reverse Phone Lookup](https://spydialer.com/default.aspx) - free reverse lookup search and more
+- [ZLOOKUP](https://www.zlookup.com/) - Free reverse phone lookup using crowdsourced data.
+- [WhitePages](https://www.whitepages.com/) - Find people, phone numbers, and addresses.
+- [USPhonebook](https://www.usphonebook.com/) - Free reverse phone lookup for US numbers.
+- [CallerID Test](https://calleridtest.com/) - Identify unknown callers.
+- [ThatsThem Phone Lookup](https://thatsthem.com/reverse-phone-lookup) - Free phone lookup service.
+- [International Phone Number Validator](https://phonevalidator.com/) - Validate and format phone numbers.
+- [TrueCaller Web](https://www.truecaller.com/) - Identify unknown numbers and block spam.
+- [Emobiletracker](https://www.emobiletracker.com/) - Track mobile phone location and owner info.
+- [Phone Number Geo](https://www.phonenumber-geo.com/) - Get geographic location of phone numbers.
 <br>
 
 [⇧ Top](#index)
@@ -683,6 +778,11 @@ You are searching 121 billion records.
 - [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/) - Trendsmap has been providing unique and powerful analytical and visualisation tools to analyse Twitter data. With the demise of Twitter, we are now providing access to over ten years historical data
 - [Socialbearing](https://socialbearing.com/) - Insights & analytics for tweets & timelines
 - [SocialData API](https://socialdata.tools/) - SocialData is an unofficial Twitter API that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.
+- [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and management tool.
+- [TweeterID](https://tweeterid.com/) - Convert between Twitter ID and username.
+- [Botometer](https://botometer.osome.iu.edu/) - Check Twitter account for bot-like behavior.
+- [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
+- [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
 <br>
 
 [⇧ Top](#index)
@@ -791,6 +891,7 @@ the number of views or likes.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account
 - [yesitsme](https://github.com/blackeko/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
+- [Toolzu Instagram Search](https://toolzu.com/search-instagram-profiles) - Search Instagram profiles by username or name.
 <br>
 
 [⇧ Top](#index)
@@ -1043,9 +1144,20 @@ Enter two images and the difference will show up below
 - [Pictriev](http://pictriev.com/) - Find look-alike celebrities on the web using the face recognition.
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Instant font identification powered by the world’s largest collection of fonts, Identify font in given image
 - [Sogou](https://pic.sogou.com/) -
+- [Jeffrey's Exif Viewer](http://exif.regex.info/exif.cgi) - Online EXIF data viewer.
+- [Pic2Map](https://www.pic2map.com/) - Extract GPS data from photos and show on map.
+- [Where Is This Photo](https://www.whereisthisphoto.com/) - AI-powered photo geolocation identification.
+- [4n6img](https://4n6img.com/) - Forensic image analysis and verification tool.
+- [PicDetective](https://picdetective.com/) - Reverse image search and photo analysis tool.
+- [SurfFace](https://surfface.com) - Face search engine across the web.
+- [Reversly.ai](https://reversly.ai) - AI-powered reverse image search.
+- [FaceSeek](https://faceseek.online) - Online face search and recognition tool.
+- [FaceOnLive](https://faceonlive.com) - Real-time face detection and recognition.
+- [Lenso.ai](https://lenso.ai) - AI image search engine for finding similar images.
+- [Pixnoy](https://www.pixnoy.com/) - Image search and verification platform.
+- [MotionElements](https://www.motionelements.com/) - Stock video, music, and media search engine.
 - [Pixabay](https://pixabay.com/images/search/) - Free Image gallery
 - [picarta.ai](https://www.picarta.ai/) - find where a photo has been taken using AI
-- []
 
 ### Music
 
@@ -1085,6 +1197,10 @@ Enter two images and the difference will show up below
 - [Skyscanner](https://www.skyscanner.com/) - Millions of cheap flights, hotels & cars. One simple search.
 - [RadarBox](https://www.radarbox.com/) - RadarBox is a flight tracking company that displays aircraft & flight information in real-time on a map. RadarBox offers flight data such as latitude and longitude positions, origins and destinations, flight numbers, aircraft types, altitudes, headings and speeds
 - [FlightAirMap](https://www.flightairmap.com/) - Real or virtual flights are displayed in real-time on a 2D or 3D map. Airports are also available on map. Statistics for pilots and/or owners are generated.
+- [EUROCONTROL ATC Database](https://learningzone.eurocontrol.int/ilp/customs/ATCPFDB/default.aspx) - Air traffic control profiles and flight database.
+- [Airloom](https://objectiveunclear.com/airloom) - Aircraft tracking and flight path visualization tool.
+- [SOAR Atlas](https://soaratlas.com/) - Aviation and flight tracking atlas.
+- [AIR Online India](https://www.aironline.in/) - Indian aviation and flight tracking information.
 <br>
 
 [⇧ Top](#index)
@@ -1148,6 +1264,8 @@ Enter two images and the difference will show up below
 - [Bitbucket Repo Search](https://bitbucket.org/repo/all/) - find code in bitbucket
 - [Shhgit](https://github.com/eth0izzle/shhgit) - Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories
 - [git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
+- [GitDB](https://gitdb.net/) - Search engine for Git repositories and code.
+- [Espacenet](https://worldwide.espacenet.com/) - Worldwide patent search database.
 - [Webfinery | Source Code Search](https://webfinery.com/search) - Search the source code of the web
 - [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search) - This Custom Search Tool by @RedHuntLabs Team looks for keywords/strings in following Online IDEs, Paste(s) sites and Code Sharing Platforms.
 - [searchcode](https://searchcode.com/) - Search 75 billion lines of code from 40 million projects
@@ -1212,6 +1330,25 @@ Enter two images and the difference will show up below
 - [urldna](https://urldna.io) - Gather info about URL: ssl cert, ip, header, metadat ...
 - [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains and malicious files collected from a network of honeypots
 - [SubDomainRadar.io](https://subdomainradar.io/) - All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access
+- [Nmmapper](https://www.nmmapper.com/) - Online network scanning tools including Nmap, subdomain finder, and more.
+- [PulseDive](https://pulsedive.com/) - Free threat intelligence platform with IOCs and risk scoring.
+- [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain and IP intelligence APIs.
+- [IPinfo](https://ipinfo.io/) - IP address data and geolocation API.
+- [IPQualityScore](https://www.ipqualityscore.com/) - Fraud detection and IP reputation.
+- [Netlas.io](https://netlas.io/) - Internet intelligence search for domains, IPs, and certificates.
+- [FullHunt](https://fullhunt.io/) - Attack surface management and discovery platform.
+- [Spyse](https://spyse.com/) - Internet assets search engine (DNS, domains, certs).
+- [Passive Total](https://community.riskiq.com/) - Passive DNS and threat intelligence.
+- [ThreatCrowd](https://www.threatcrowd.org/) - Open source threat intelligence search engine.
+- [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service.
+- [Criminal IP](https://www.criminalip.io/) - Cyber threat intelligence search engine.
+- [FOFA](https://en.fofa.info/) - Cyberspace search engine from China.
+- [Quake](https://quake.360.net/) - Cyberspace search engine by 360.
+- [Hunter.how](https://hunter.how/) - Internet asset search and discovery platform.
+- [Cloudflare Radar Scan](https://radar.cloudflare.com/scan) - URL scanner by Cloudflare for security analysis.
+- [IP THC](https://ip.thc.org/) - Quick IP address lookup and information tool.
+- [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
+- [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 <br>
 
 [⇧ Top](#index)
@@ -1377,6 +1514,8 @@ Enter two images and the difference will show up below
 - [Residential Fire Fatalities in Indiana](https://www.arcgis.com/apps/dashboards/4d1289ab105145a1b1f80c1ad3cf19fb)
 - [geoprotests API](https://rapidapi.com/gisfromscratch/api/geoprotests/) - Query protests worldwide and visualize them using spatial aggregations.
 - [geoint-py](https://github.com/gisfromscratch/geoint-py) - A bunch of geospatial intelligence workflows implemented using Python
+- [Georeferencer.ai](https://georeferencer.ai/) - AI-powered georeferencing and map alignment tool.
+- [Pano Date](https://pano-date.emily.bz/) - Determine the date when Google Street View panoramas were captured.
 <br>
 
 [⇧ Top](#index)
@@ -1391,6 +1530,7 @@ Enter two images and the difference will show up below
 - [Blockcypher](https://live.blockcypher.com/) - Find info that other block explorers don't have, search the block chain.
 - [Addresschecker.eu](http://addresschecker.eu/)
 - [Coinwink.com](https://coinwink.com/) - Track important price changes of your favorite cryptocurrencies with the help of Coinwink crypto alerts
+- [OSINT Intelligence On Chain](https://osint.intelligenceonchain.com/) - Blockchain-based OSINT and cryptocurrency investigation tools.
 
 <br>
 
@@ -1489,6 +1629,7 @@ Enter two images and the difference will show up below
 - [XRefer](https://www.xrefer.com/) - Find top rated verified local companies
 - [Startup Tracker](https://startuptracker.io/home) - Discover and track startups from MVP to IPO
 - [Shopsearchengine.com](http://shopsearchengine.com/) - shopsearchengine.com the internets premiere shopping site, find it fast.
+- [RageCheck](https://www.ragecheck.com/) - Business review aggregator and sentiment analysis.
 - [LA County CA Restaurant Health Violations](https://b2.caspio.com/dp.asp?AppKey=22341000af0b9c98ebf047f1b9f2)
 - [Kansas Restaurant Inspections](https://b2.caspio.com/dp/a1a31000af3bac4c5e434987a857)
 - [Lexington-Fayette County KY Health Department Restaurant Inspections](https://b2.caspio.com/dp.asp?AppKey=c8521000c641ab80b6d2448e89d9)
@@ -1661,14 +1802,56 @@ about police misconduct in Chicago
 - [Search OnlyFans profiles](https://hubite.com/onlyfans-search/)
 <br>
 
+[⇧ Top](#index)
+## VEHICLE / TRANSPORTATION
+
+- [CarVertical](https://www.carvertical.com/) - Vehicle history reports from VIN.
+- [EpicVIN](https://epicvin.com/) - Free VIN check and vehicle history.
+- [VINCheck.info](https://vincheck.info/) - Free vehicle history reports.
+- [iSeeCars](https://www.iseecars.com/vin) - VIN decoder with pricing data.
+- [CARFAX](https://www.carfax.com/) - Vehicle history reports (paid).
+- [Bumper](https://www.bumper.com/) - Vehicle history and owner information.
+- [VehicleHistory.com](https://www.vehiclehistory.com/) - Free VIN lookup service.
+<br>
+
+[⇧ Top](#index)
+## BLOCKCHAIN / CRYPTO INVESTIGATION
+
+- [Chainalysis](https://www.chainalysis.com/) - Blockchain data platform for investigators.
+- [Elliptic](https://www.elliptic.co/) - Crypto compliance and investigation tools.
+- [Crystal Blockchain](https://crystalblockchain.com/) - Blockchain analytics platform.
+- [OXT.me](https://oxt.me/) - Bitcoin blockchain explorer with analysis tools.
+- [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin wallet tracking and analysis.
+- [BTC Parser](https://btcparser.com/) - Bitcoin transaction analysis tool.
+- [Breadcrumbs](https://www.breadcrumbs.app/) - Blockchain investigation platform.
+- [Nansen](https://www.nansen.ai/) - Blockchain analytics with wallet labels.
+- [Arkham Intelligence](https://www.arkhamintelligence.com/) - Crypto intelligence and entity tracking.
+- [Chainabuse](https://www.chainabuse.com/) - Report and search crypto scam addresses.
+- [ScamAlert](https://scam-alert.io/) - Database of crypto scam addresses.
+- [BitRef](https://bitref.com/) - Simple Bitcoin balance checker.
+- [Ethplorer](https://ethplorer.io/) - Ethereum token and wallet explorer.
+- [Solscan](https://solscan.io/) - Solana blockchain explorer.
+- [Polygonscan](https://polygonscan.com/) - Polygon blockchain explorer.
+- [BSCScan](https://bscscan.com/) - Binance Smart Chain explorer.
+<br>
+
+[⇧ Top](#index)
+## OSINT TRAINING / LEARNING
+
+- [SANS OSINT](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/) - Professional OSINT training courses.
+- [TCM Security OSINT](https://academy.tcm-sec.com/p/osint-fundamentals) - OSINT fundamentals course.
+- [OSINT Dojo](https://www.osintdojo.com/) - Free OSINT training resources and challenges.
+- [Trace Labs](https://www.tracelabs.org/) - Crowdsourced OSINT for missing persons.
+- [Sector035 OSINT Quiz](https://quiz.sector035.nl/) - Test your OSINT skills.
+- [Geoguessr](https://www.geoguessr.com/) - Geographic guessing game for OSINT practice.
+- [Sourcing Games](https://sourcing.games/) - OSINT challenges and puzzles.
+- [HackTheBox OSINT](https://www.hackthebox.com/) - OSINT challenges in CTF format.
+- [TryHackMe OSINT](https://tryhackme.com/) - Guided OSINT learning rooms.
+- [CyberDefenders](https://cyberdefenders.org/) - Blue team challenges including OSINT.
+- [Sofia Santos OSINT Exercises](https://gralhix.com/list-of-osint-exercises/) - Collection of OSINT practice exercises.
+- [OSINT Games](https://osintgames.com/) - Interactive OSINT challenges.
+<br>
+
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
 [Top](#index)
-
-
-
-
-
-
-
-
