@@ -1597,7 +1597,7 @@ Enter two images and the difference will show up below
 - [INFORMNAPALM](https://informnapalm.org/db/russian-aggression/#lang=en&page=m_unit) - InformNapalm volunteer intelligence community presents its interactive database, mapping Russian aggression against Ukraine as well as Georgia and Syria. More than 2000 OSINT investigations performed by InformNapalm
 - [gogettr](https://pypi.org/project/gogettr/) - Extraction tool for GETTR, a "non-bias [sic] social network."
 - [FBI Most Wanted Search Engine](https://cse.google.com/cse?cx=1ee952e6584aa91f9) - custom google search engine for FBI most wanted list
-- [Interpol Most Wanted Search Engine](https://cse.google.com/cse?cx=b1746754c83012613) - costom google search for Interpol most wanted list
+- [Interpol Most Wanted Search Engine](https://cse.google.com/cse?cx=b1746754c83012613) - custom google search for Interpol most wanted list
 - [Europol Most Wanted Search Engine](https://cse.google.com/cse?cx=f08e8dc2172da1ba8) - custom google search for Europol most wnated list
 <br>
 
@@ -1856,3 +1856,4 @@ about police misconduct in Chicago
 
 
 [Top](#index)
+
