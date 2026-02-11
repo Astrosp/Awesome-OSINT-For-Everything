@@ -2,3 +2,7 @@ node_modules/
 package-lock.json
 *.log
 .DS_Store
+
+# Link check generated files
+link-check-results.txt
+link-check-summary.md

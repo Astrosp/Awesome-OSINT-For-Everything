@@ -11,6 +11,7 @@
       "test": "npm run lint-markdown && npm run lint-terminology",
       "lint-terminology": "textlint ./README.md",
       "lint-markdown": "markdownlint ./README.md --ignore node_modules",
-      "link-check": "markdown-link-check -c markdown-link-check-config.json README.md"
+      "link-check": "markdown-link-check -c markdown-link-check-config.json README.md",
+      "link-check-report": "bash scripts/check-links.sh"
     }
   }
