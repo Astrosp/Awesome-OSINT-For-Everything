@@ -1,0 +1,103 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.XMLDocument = exports.Window = exports.TreeWalker = exports.Traverser = exports.Text = exports.StaticRange = exports.ShadowRoot = exports.Range = exports.ProcessingInstruction = exports.NodeListStatic = exports.NodeList = exports.NodeIterator = exports.Node = exports.NodeFilter = exports.NamedNodeMap = exports.MutationRecord = exports.MutationObserver = exports.HTMLCollection = exports.EventTarget = exports.Event = exports.Element = exports.DOMTokenList = exports.DOMImplementation = exports.dom = exports.DocumentType = exports.Document = exports.DocumentFragment = exports.CustomEvent = exports.Comment = exports.CharacterData = exports.CDATASection = exports.Attr = exports.AbstractRange = exports.AbortSignal = exports.AbortController = void 0;
+const util_1 = require("@oozcitak/util");
+// Import implementation classes
+const AbortControllerImpl_1 = require("./AbortControllerImpl");
+Object.defineProperty(exports, "AbortController", { enumerable: true, get: function () { return AbortControllerImpl_1.AbortControllerImpl; } });
+const AbortSignalImpl_1 = require("./AbortSignalImpl");
+Object.defineProperty(exports, "AbortSignal", { enumerable: true, get: function () { return AbortSignalImpl_1.AbortSignalImpl; } });
+const AbstractRangeImpl_1 = require("./AbstractRangeImpl");
+Object.defineProperty(exports, "AbstractRange", { enumerable: true, get: function () { return AbstractRangeImpl_1.AbstractRangeImpl; } });
+const AttrImpl_1 = require("./AttrImpl");
+Object.defineProperty(exports, "Attr", { enumerable: true, get: function () { return AttrImpl_1.AttrImpl; } });
+const CDATASectionImpl_1 = require("./CDATASectionImpl");
+Object.defineProperty(exports, "CDATASection", { enumerable: true, get: function () { return CDATASectionImpl_1.CDATASectionImpl; } });
+const CharacterDataImpl_1 = require("./CharacterDataImpl");
+Object.defineProperty(exports, "CharacterData", { enumerable: true, get: function () { return CharacterDataImpl_1.CharacterDataImpl; } });
+const ChildNodeImpl_1 = require("./ChildNodeImpl");
+const CommentImpl_1 = require("./CommentImpl");
+Object.defineProperty(exports, "Comment", { enumerable: true, get: function () { return CommentImpl_1.CommentImpl; } });
+const CustomEventImpl_1 = require("./CustomEventImpl");
+Object.defineProperty(exports, "CustomEvent", { enumerable: true, get: function () { return CustomEventImpl_1.CustomEventImpl; } });
+const DocumentFragmentImpl_1 = require("./DocumentFragmentImpl");
+Object.defineProperty(exports, "DocumentFragment", { enumerable: true, get: function () { return DocumentFragmentImpl_1.DocumentFragmentImpl; } });
+const DocumentImpl_1 = require("./DocumentImpl");
+Object.defineProperty(exports, "Document", { enumerable: true, get: function () { return DocumentImpl_1.DocumentImpl; } });
+const DocumentOrShadowRootImpl_1 = require("./DocumentOrShadowRootImpl");
+const DocumentTypeImpl_1 = require("./DocumentTypeImpl");
+Object.defineProperty(exports, "DocumentType", { enumerable: true, get: function () { return DocumentTypeImpl_1.DocumentTypeImpl; } });
+const DOMImpl_1 = require("./DOMImpl");
+Object.defineProperty(exports, "dom", { enumerable: true, get: function () { return DOMImpl_1.dom; } });
+const DOMImplementationImpl_1 = require("./DOMImplementationImpl");
+Object.defineProperty(exports, "DOMImplementation", { enumerable: true, get: function () { return DOMImplementationImpl_1.DOMImplementationImpl; } });
+const DOMTokenListImpl_1 = require("./DOMTokenListImpl");
+Object.defineProperty(exports, "DOMTokenList", { enumerable: true, get: function () { return DOMTokenListImpl_1.DOMTokenListImpl; } });
+const ElementImpl_1 = require("./ElementImpl");
+Object.defineProperty(exports, "Element", { enumerable: true, get: function () { return ElementImpl_1.ElementImpl; } });
+const EventImpl_1 = require("./EventImpl");
+Object.defineProperty(exports, "Event", { enumerable: true, get: function () { return EventImpl_1.EventImpl; } });
+const EventTargetImpl_1 = require("./EventTargetImpl");
+Object.defineProperty(exports, "EventTarget", { enumerable: true, get: function () { return EventTargetImpl_1.EventTargetImpl; } });
+const HTMLCollectionImpl_1 = require("./HTMLCollectionImpl");
+Object.defineProperty(exports, "HTMLCollection", { enumerable: true, get: function () { return HTMLCollectionImpl_1.HTMLCollectionImpl; } });
+const MutationObserverImpl_1 = require("./MutationObserverImpl");
+Object.defineProperty(exports, "MutationObserver", { enumerable: true, get: function () { return MutationObserverImpl_1.MutationObserverImpl; } });
+const MutationRecordImpl_1 = require("./MutationRecordImpl");
+Object.defineProperty(exports, "MutationRecord", { enumerable: true, get: function () { return MutationRecordImpl_1.MutationRecordImpl; } });
+const NamedNodeMapImpl_1 = require("./NamedNodeMapImpl");
+Object.defineProperty(exports, "NamedNodeMap", { enumerable: true, get: function () { return NamedNodeMapImpl_1.NamedNodeMapImpl; } });
+const NodeFilterImpl_1 = require("./NodeFilterImpl");
+Object.defineProperty(exports, "NodeFilter", { enumerable: true, get: function () { return NodeFilterImpl_1.NodeFilterImpl; } });
+const NodeImpl_1 = require("./NodeImpl");
+Object.defineProperty(exports, "Node", { enumerable: true, get: function () { return NodeImpl_1.NodeImpl; } });
+const NodeIteratorImpl_1 = require("./NodeIteratorImpl");
+Object.defineProperty(exports, "NodeIterator", { enumerable: true, get: function () { return NodeIteratorImpl_1.NodeIteratorImpl; } });
+const NodeListImpl_1 = require("./NodeListImpl");
+Object.defineProperty(exports, "NodeList", { enumerable: true, get: function () { return NodeListImpl_1.NodeListImpl; } });
+const NodeListStaticImpl_1 = require("./NodeListStaticImpl");
+Object.defineProperty(exports, "NodeListStatic", { enumerable: true, get: function () { return NodeListStaticImpl_1.NodeListStaticImpl; } });
+const NonDocumentTypeChildNodeImpl_1 = require("./NonDocumentTypeChildNodeImpl");
+const NonElementParentNodeImpl_1 = require("./NonElementParentNodeImpl");
+const ParentNodeImpl_1 = require("./ParentNodeImpl");
+const ProcessingInstructionImpl_1 = require("./ProcessingInstructionImpl");
+Object.defineProperty(exports, "ProcessingInstruction", { enumerable: true, get: function () { return ProcessingInstructionImpl_1.ProcessingInstructionImpl; } });
+const RangeImpl_1 = require("./RangeImpl");
+Object.defineProperty(exports, "Range", { enumerable: true, get: function () { return RangeImpl_1.RangeImpl; } });
+const ShadowRootImpl_1 = require("./ShadowRootImpl");
+Object.defineProperty(exports, "ShadowRoot", { enumerable: true, get: function () { return ShadowRootImpl_1.ShadowRootImpl; } });
+const SlotableImpl_1 = require("./SlotableImpl");
+const StaticRangeImpl_1 = require("./StaticRangeImpl");
+Object.defineProperty(exports, "StaticRange", { enumerable: true, get: function () { return StaticRangeImpl_1.StaticRangeImpl; } });
+const TextImpl_1 = require("./TextImpl");
+Object.defineProperty(exports, "Text", { enumerable: true, get: function () { return TextImpl_1.TextImpl; } });
+const TraverserImpl_1 = require("./TraverserImpl");
+Object.defineProperty(exports, "Traverser", { enumerable: true, get: function () { return TraverserImpl_1.TraverserImpl; } });
+const TreeWalkerImpl_1 = require("./TreeWalkerImpl");
+Object.defineProperty(exports, "TreeWalker", { enumerable: true, get: function () { return TreeWalkerImpl_1.TreeWalkerImpl; } });
+const WindowImpl_1 = require("./WindowImpl");
+Object.defineProperty(exports, "Window", { enumerable: true, get: function () { return WindowImpl_1.WindowImpl; } });
+const XMLDocumentImpl_1 = require("./XMLDocumentImpl");
+Object.defineProperty(exports, "XMLDocument", { enumerable: true, get: function () { return XMLDocumentImpl_1.XMLDocumentImpl; } });
+// Apply mixins
+// ChildNode
+(0, util_1.applyMixin)(ElementImpl_1.ElementImpl, ChildNodeImpl_1.ChildNodeImpl);
+(0, util_1.applyMixin)(CharacterDataImpl_1.CharacterDataImpl, ChildNodeImpl_1.ChildNodeImpl);
+(0, util_1.applyMixin)(DocumentTypeImpl_1.DocumentTypeImpl, ChildNodeImpl_1.ChildNodeImpl);
+// DocumentOrShadowRoot
+(0, util_1.applyMixin)(DocumentImpl_1.DocumentImpl, DocumentOrShadowRootImpl_1.DocumentOrShadowRootImpl);
+(0, util_1.applyMixin)(ShadowRootImpl_1.ShadowRootImpl, DocumentOrShadowRootImpl_1.DocumentOrShadowRootImpl);
+// NonDocumentTypeChildNode
+(0, util_1.applyMixin)(ElementImpl_1.ElementImpl, NonDocumentTypeChildNodeImpl_1.NonDocumentTypeChildNodeImpl);
+(0, util_1.applyMixin)(CharacterDataImpl_1.CharacterDataImpl, NonDocumentTypeChildNodeImpl_1.NonDocumentTypeChildNodeImpl);
+// NonElementParentNode
+(0, util_1.applyMixin)(DocumentImpl_1.DocumentImpl, NonElementParentNodeImpl_1.NonElementParentNodeImpl);
+(0, util_1.applyMixin)(DocumentFragmentImpl_1.DocumentFragmentImpl, NonElementParentNodeImpl_1.NonElementParentNodeImpl);
+// ParentNode
+(0, util_1.applyMixin)(DocumentImpl_1.DocumentImpl, ParentNodeImpl_1.ParentNodeImpl);
+(0, util_1.applyMixin)(DocumentFragmentImpl_1.DocumentFragmentImpl, ParentNodeImpl_1.ParentNodeImpl);
+(0, util_1.applyMixin)(ElementImpl_1.ElementImpl, ParentNodeImpl_1.ParentNodeImpl);
+// Slotable
+(0, util_1.applyMixin)(TextImpl_1.TextImpl, SlotableImpl_1.SlotableImpl);
+(0, util_1.applyMixin)(ElementImpl_1.ElementImpl, SlotableImpl_1.SlotableImpl);
+//# sourceMappingURL=index.js.map

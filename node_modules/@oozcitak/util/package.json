@@ -1,0 +1,37 @@
+{
+  "name": "@oozcitak/util",
+  "version": "10.0.0",
+  "keywords": [
+    "util",
+    "js"
+  ],
+  "homepage": "http://github.com/oozcitak/util",
+  "description": "Utility functions",
+  "author": "Ozgur Ozcitak <oozcitak@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oozcitak/util.git"
+  },
+  "bugs": {
+    "url": "http://github.com/oozcitak/util/issues"
+  },
+  "main": "./lib/index",
+  "engines": {
+    "node": ">=20.0"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^24.7.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "test": "tsc && tsx --test --experimental-test-coverage test/*test.ts",
+    "cover": "tsc && tsx --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=./coverage/lcov.info test/*test.ts",
+    "publish-public": "tsc && npm run cover && npm publish --access public"
+  }
+}

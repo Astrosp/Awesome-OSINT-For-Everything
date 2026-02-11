@@ -1,0 +1,45 @@
+{
+  "name": "@oozcitak/dom",
+  "version": "2.0.2",
+  "keywords": [
+    "dom",
+    "whatwg"
+  ],
+  "homepage": "http://github.com/oozcitak/dom",
+  "description": "A modern DOM implementation",
+  "author": "Ozgur Ozcitak <oozcitak@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oozcitak/dom.git"
+  },
+  "bugs": {
+    "url": "http://github.com/oozcitak/dom/issues"
+  },
+  "main": "./lib/index",
+  "engines": {
+    "node": ">=20.0"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "types": "./lib/index.d.ts",
+  "dependencies": {
+    "@oozcitak/infra": "^2.0.2",
+    "@oozcitak/url": "^3.0.0",
+    "@oozcitak/util": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.0",
+    "@types/dedent": "^0.7.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "dedent": "^1.7.0"
+  },
+  "scripts": {
+    "test": "tsc && tsx --test --experimental-test-coverage test/**/*test.ts",
+    "cover": "tsc && tsx --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=./coverage/lcov.info test/**/*test.ts",
+    "publish-public": "tsc && npm run cover && npm publish --access public"
+  }
+}

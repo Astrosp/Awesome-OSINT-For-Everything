@@ -1,0 +1,477 @@
+#!/usr/bin/env node
+
+'use strict';
+
+let chalk;
+const fs = require('fs');
+const { promisify } = require('util');
+const markdownLinkCheck = promisify(require('.'));
+const needle = require('needle');
+const path = require('path');
+const pkg = require('./package.json');
+const { Command } = require('commander');
+const program = new Command();
+const { ProxyAgent } = require('proxy-agent');
+
+const reporters = {
+    default: async function defaultReporter(err, results, opts, filenameForOutput) {
+        const chalk = (await import('chalk')).default
+
+        const statusLabels = {
+            alive: chalk.green('✓'),
+            dead: chalk.red('✖'),
+            ignored: chalk.gray('/'),
+            error: chalk.yellow('⚠'),
+        };
+
+        if (err) {
+            console.error(chalk.red("\n  ERROR: something went wrong!"));
+            console.error(err.stack);
+        }
+
+        if (results.length === 0 && !opts.quiet) {
+            console.log(chalk.yellow("  No hyperlinks found!"));
+        }
+        results.forEach(function (result) {
+            // Skip messages for non-deadlinks in quiet mode.
+            if (opts.quiet && result.status !== "dead") {
+                return;
+            }
+
+            if (opts.verbose) {
+                if (result.err) {
+                    console.log(
+                        "  [%s] %s → Status: %s %s",
+                        statusLabels[result.status],
+                        result.link,
+                        result.statusCode,
+                        result.err
+                    );
+                } else {
+                    console.log("  [%s] %s → Status: %s", statusLabels[result.status], result.link, result.statusCode);
+                }
+            } else if (!opts.quiet) {
+                console.log("  [%s] %s", statusLabels[result.status], result.link);
+            }
+        });
+
+        if (!opts.quiet) {
+            console.log("\n  %s link%s checked.", results.length, results.length === 1 ? '' : 's');
+        }
+
+        if (results.some((result) => result.status === "dead")) {
+            let deadLinks = results.filter((result) => {
+                return result.status === "dead";
+            });
+            if (!opts.quiet) {
+                console.error(chalk.red("\n  ERROR: %s dead link%s found!"), deadLinks.length, deadLinks.length === 1 ? '' : 's');
+            } else {
+                console.error(chalk.red("\n  ERROR: %s dead link%s found in %s !"), deadLinks.length, deadLinks.length === 1 ? '' : 's', filenameForOutput);
+            }
+            deadLinks.forEach(function (result) {
+                console.log("  [%s] %s → Status: %s", statusLabels[result.status], result.link, result.statusCode);
+            });
+        }
+    },
+    junit: async function junitReporter(err, results, opts, filenameForOutput) {
+        const { create } = require('xmlbuilder2');
+        const path = require('path');
+        
+        // Initialize global collector if not exists
+        if (!global.junitResults) {
+            global.junitResults = [];
+            global.junitProcessedInputs = 0;
+        }
+        
+        // Add current file results to global collection
+        global.junitResults.push({
+            err,
+            results: results || [],
+            opts,
+            filenameForOutput: filenameForOutput || 'stdin'
+        });
+        
+        global.junitProcessedInputs++;
+        
+        // Only write XML file when all inputs have been processed
+        if (global.junitProcessedInputs >= global.totalInputs) {
+            const outputFile = opts.junitOutput || 'junit-results.xml';
+            
+            try {
+                // Create XML document
+                const doc = create({ version: '1.0', encoding: 'UTF-8' });
+                const testsuites = doc.ele('testsuites', { 
+                    name: 'markdown-link-check',
+                    time: '0'
+                });
+                
+                let totalTests = 0;
+                let totalFailures = 0;
+                let totalErrors = 0;
+                let totalSkipped = 0;
+                
+                // Process all collected results
+                for (const fileResult of global.junitResults) {
+                    const { err: fileErr, results: fileResults, filenameForOutput: fileName } = fileResult;
+                    const testSuiteName = fileName && fileName !== 'stdin' ? path.basename(fileName, '.md') : 'markdown-link-check';
+                    
+                    const tests = fileResults.length;
+                    const failures = fileResults.filter(result => result.status === 'dead').length;
+                    const errors = fileResults.filter(result => result.status === 'error').length;
+                    const skipped = fileResults.filter(result => result.status === 'ignored').length;
+                    
+                    totalTests += tests;
+                    totalFailures += failures;
+                    totalErrors += errors;
+                    totalSkipped += skipped;
+                    
+                    // Add errors for file processing issues
+                    if (fileErr) {
+                        totalErrors++;
+                    }
+                    
+                    const testsuite = testsuites.ele('testsuite', {
+                        name: testSuiteName,
+                        tests: tests + (fileErr ? 1 : 0),
+                        failures: failures,
+                        errors: errors + (fileErr ? 1 : 0),
+                        skipped: skipped,
+                        time: '0',
+                        timestamp: new Date().toISOString()
+                    });
+                    
+                    // Add properties
+                    const properties = testsuite.ele('properties');
+                    if (fileName && fileName !== 'stdin') {
+                        properties.ele('property', { name: 'file', value: fileName });
+                    }
+                    
+                    // Handle global file error
+                    if (fileErr) {
+                        const errorTest = testsuite.ele('testcase', {
+                            name: 'markdown-link-check-error',
+                            classname: testSuiteName,
+                            time: '0'
+                        });
+                        errorTest.ele('error', {
+                            message: fileErr.message || 'Unknown error',
+                            type: 'ProcessingError'
+                        }).txt(fileErr.stack || fileErr.message || String(fileErr));
+                    }
+                    
+                    fileResults.forEach((result) => {
+                        const testcase = testsuite.ele('testcase', {
+                            name: result.link,
+                            classname: testSuiteName,
+                            time: '0'
+                        });
+                        
+                        const testProperties = testcase.ele('properties');
+                        testProperties.ele('property', { name: 'url', value: result.link });
+                        testProperties.ele('property', { name: 'status', value: result.status });
+                        if (result.statusCode !== undefined) {
+                            testProperties.ele('property', { name: 'statusCode', value: String(result.statusCode) });
+                        }
+                        
+                        if (result.status === 'dead') {
+                            const message = result.err 
+                                ? String(result.err)
+                                : `${result.link} is ${result.status} (${result.statusCode})`;
+                            testcase.ele('failure', {
+                                message: message,
+                                type: 'DeadLink'
+                            }).txt(`Link: ${result.link}\nStatus Code: ${result.statusCode}\nStatus: ${result.status}${result.err ? `\nError: ${result.err}` : ''}`);
+                        } else if (result.status === 'error') {
+                            const message = result.err 
+                                ? String(result.err)
+                                : `${result.link} is ${result.status} (${result.statusCode})`;
+                            testcase.ele('error', {
+                                message: message,
+                                type: 'LinkCheckError'
+                            }).txt(`Link: ${result.link}\nStatus Code: ${result.statusCode}\nStatus: ${result.status}${result.err ? `\nError: ${result.err}` : ''}`);
+                        } else if (result.status === 'ignored') {
+                            testcase.ele('skipped', {
+                                message: `Link ignored: ${result.link}`
+                            });
+                        }
+                    });
+                }
+                
+                // Update totals in testsuites element
+                testsuites.att('tests', String(totalTests + totalErrors));
+                testsuites.att('failures', String(totalFailures));
+                testsuites.att('errors', String(totalErrors));
+                testsuites.att('skipped', String(totalSkipped));
+                
+                const xmlString = doc.end({ prettyPrint: true });
+                fs.writeFileSync(outputFile, xmlString, 'utf8');
+                
+                if (!opts.quiet) {
+                    console.log(`JUnit report written to: ${outputFile}`);
+                }
+                
+                // Clean up
+                delete global.junitResults;
+                delete global.junitProcessedInputs;
+
+            } catch (writeErr) {
+                console.error(`Error writing JUnit report: ${writeErr.message}`);
+            }
+        }
+    },
+};
+
+class Input {
+    constructor(filenameForOutput, stream, opts) {
+        this.filenameForOutput = filenameForOutput;
+        this.stream = stream;
+        this.opts = opts;
+    }
+}
+
+function commaSeparatedPathsList(value) {
+    return value.split(',');
+}
+
+function commaSeparatedCodesList(value, dummyPrevious) {
+    return value.split(',').map(function(item) {
+        return parseInt(item, 10);
+    });
+}
+
+/**
+ * Load all files in the rootFolder and all subfolders that end with .md
+ */
+function loadAllMarkdownFiles(rootFolder = '.') {
+    const files = [];
+    fs.readdirSync(rootFolder).forEach(file => {
+        const fullPath = path.join(rootFolder, file);
+        if (fs.lstatSync(fullPath).isDirectory()) {
+            files.push(...loadAllMarkdownFiles(fullPath));
+        } else if (fullPath.endsWith('.md')) {
+            files.push(fullPath);
+        }
+    });
+    return files;
+}
+
+function commaSeparatedReportersList(value) {
+    return value.split(',').map((reporter) => reporters[reporter] ?? reporters.default);
+}
+
+function getInputs() {
+    const inputs = [];
+
+    program
+        .version(pkg.version)
+        .option('-p, --progress', 'show progress bar')
+        .option('-c, --config [config]', 'apply a config file (JSON), holding e.g. url specific header configuration')
+        .option('-q, --quiet', 'displays errors only')
+        .option('-v, --verbose', 'displays detailed error information')
+        .option('-i, --ignore <paths>', 'ignore input paths including an ignore path', commaSeparatedPathsList)
+        .option('-a, --alive <code>', 'comma separated list of HTTP codes to be considered as alive', commaSeparatedCodesList)
+        .option('-r, --retry', 'retry after the duration indicated in \'retry-after\' header when HTTP code is 429')
+        .option('--reporters <names>', 'specify reporters to use', commaSeparatedReportersList)
+        .option('--projectBaseUrl <url>', 'the URL to use for {{BASEURL}} replacement')
+        .option('--junit-output <file>', 'output file for JUnit XML report (only used with junit reporter)')
+        .arguments('[filenamesOrDirectorynamesOrUrls...]')
+        .action(function (filenamesOrUrls) {
+            let filenameForOutput;
+            let stream;
+
+            if (!filenamesOrUrls.length) {
+                // read from stdin unless a filename is given
+                inputs.push(new Input(filenameForOutput, process.stdin, {}));
+            }
+
+            function onError(error) {
+                console.error(chalk.red('\nERROR: Unable to connect! Please provide a valid URL as an argument.'));
+                process.exit(1);
+            }
+            function onResponse(response) {
+                if (response.statusCode === 404) {
+                    console.error(chalk.red('\nERROR: 404 - File not found! Please provide a valid URL as an argument.'));
+                    process.exit(1);
+                }
+            }
+
+            const { ignore } = program.opts();
+
+            for (const filenameOrUrl of filenamesOrUrls) {
+                filenameForOutput = filenameOrUrl;
+                let baseUrl = '';
+                // remote file
+                if (/https?:/.test(filenameOrUrl)) {
+                    stream = needle.get(
+                        filenameOrUrl, { agent: new ProxyAgent(), use_proxy_from_env_var: false }
+                    );
+                    stream.on('error', onError);
+                    stream.on('response', onResponse);
+                    try { // extract baseUrl from supplied URL
+                        const parsed = new URL(filenameOrUrl);
+                        parsed.search = '';
+                        parsed.hash = '';
+                        if (parsed.pathname.lastIndexOf('/') !== -1) {
+                            parsed.pathname = parsed.pathname.substring(0, parsed.pathname.lastIndexOf('/') + 1);
+                        }
+                        baseUrl = parsed.toString();
+                        inputs.push(new Input(filenameForOutput, stream, {baseUrl: baseUrl}));
+                    } catch (err) {
+                        /* ignore error */
+                    }
+                } else {
+                    // local file or directory
+                    let files = [];
+
+                    if (fs.statSync(filenameOrUrl).isDirectory()){
+                        files = loadAllMarkdownFiles(filenameOrUrl)
+                    } else {
+                        files = [filenameOrUrl]
+                    }
+
+                    for (let file of files) {
+                        filenameForOutput = file;
+                        const resolved = path.resolve(filenameForOutput);
+
+                        // skip paths given if it includes a path to ignore.
+                        // todo: allow ignore paths to be glob or regex instead of just includes?
+                        if (ignore && ignore.some((ignorePath) => resolved.includes(ignorePath))) {
+                            continue;
+                        }
+
+                        if (process.platform === 'win32') {
+                            baseUrl = 'file://' + path.dirname(resolved).replace(/\\/g, '/');
+                        }
+                        else {
+                            baseUrl = 'file://' + path.dirname(resolved);
+                        }
+
+                        stream = fs.createReadStream(filenameForOutput);
+                        inputs.push(new Input(filenameForOutput, stream, {baseUrl: baseUrl}));
+                    }
+                }
+            }
+        }
+    ).parse(process.argv);
+
+    for (const input of inputs) {
+        input.opts.showProgressBar = (program.opts().progress === true); // force true or undefined to be true or false.
+        input.opts.quiet = (program.opts().quiet === true);
+        input.opts.verbose = (program.opts().verbose === true);
+        input.opts.retryOn429 = (program.opts().retry === true);
+        input.opts.aliveStatusCodes = program.opts().alive;
+        input.opts.reporters = program.opts().reporters ?? [ reporters.default ];
+        input.opts.junitOutput = program.opts().junitOutput;
+        const config = program.opts().config;
+        if (config) {
+            input.opts.config = config.trim();
+        }
+
+        if (program.projectBaseUrl) {
+            input.opts.projectBaseUrl = `file://${program.projectBaseUrl}`;
+        } else {
+            // set the default projectBaseUrl to the current working directory, so that `{{BASEURL}}` can be resolved to the project root.
+            if (process.platform === 'win32') {
+                input.opts.projectBaseUrl = `file:///${process.cwd().replace(/\\/g, '/')}`;
+            }
+            else {
+                input.opts.projectBaseUrl = `file://${process.cwd()}`;
+            }
+        }
+    }
+
+    return inputs;
+}
+
+async function loadConfig(config) {
+    return new Promise((resolve, reject) => {
+        fs.access(config, (fs.constants || fs).R_OK, function (err) {
+            if (!err) {
+                let configStream = fs.createReadStream(config);
+                let configData = '';
+
+                configStream.on('data', function (chunk) {
+                    configData += chunk.toString();
+                }).on('end', function () {
+                    resolve(JSON.parse(configData));
+                });
+            }
+            else {
+                console.error(chalk.red('\nERROR: Config file not accessible.'));
+                process.exit(1);
+            }
+        });
+    });
+}
+
+async function processInput(filenameForOutput, stream, opts) {
+    let markdown = ''; // collect the markdown data, then process it
+
+    stream.on('error', function(error) {
+        if (error.code === 'ENOENT') {
+            console.error(chalk.red('\nERROR: File not found! Please provide a valid filename as an argument.'));
+        } else {
+            console.error(chalk.red(error));
+        }
+        return process.exit(1);
+    });
+
+    for await (const chunk of stream) {
+        markdown += chunk.toString();
+    }
+
+    if (!opts.quiet && filenameForOutput) {
+        console.log(chalk.cyan('\nFILE: ' + filenameForOutput));
+    }
+
+    if (opts.config) {
+        let config = await loadConfig(opts.config);
+
+        opts.ignorePatterns = config.ignorePatterns;
+        opts.replacementPatterns = config.replacementPatterns;
+        opts.httpHeaders = config.httpHeaders;
+        opts.timeout = config.timeout;
+        opts.ignoreDisable = config.ignoreDisable;
+        opts.retryOn429 = config.retryOn429;
+        opts.retryCount = config.retryCount;
+        opts.fallbackRetryDelay = config.fallbackRetryDelay;
+        opts.aliveStatusCodes = config.aliveStatusCodes;
+        opts.reporters = config.reporters ?? opts.reporters;
+    }
+
+    await runMarkdownLinkCheck(filenameForOutput, markdown, opts);
+}
+
+async function runMarkdownLinkCheck(filenameForOutput, markdown, opts) {
+    const [err, results] = await markdownLinkCheck(markdown, opts)
+        .then(res => [null, res]).catch(err => [err]);
+
+    await Promise.allSettled(
+        opts.reporters.map(reporter => reporter(err, results, opts, filenameForOutput)
+    ));
+
+    if (err) throw null;
+    else if (results.some((result) => result.status === 'dead')) throw null;
+    else return;
+}
+
+async function main() {
+    chalk = (await import('chalk')).default;
+
+    const inputs = getInputs();
+    
+    global.totalInputs = inputs.length;
+
+    let isOk = true;
+    for await (const input of inputs) {
+        try {
+            await processInput(input.filenameForOutput, input.stream, input.opts);
+        } catch (err) {
+            isOk = false;
+        }
+    }
+
+    process.exit(isOk ? 0 : 1);
+}
+
+main();

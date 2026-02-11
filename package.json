@@ -1,6 +1,7 @@
 {
     "devDependencies": {
       "markdownlint-cli": "^0.26.0",
+      "markdown-link-check": "^3.11.2",
       "textlint": "^11.6.3",
       "textlint-filter-rule-comments": "^1.2.2",
       "textlint-filter-rule-whitelist": "^2.0.0",
@@ -10,7 +11,6 @@
       "test": "npm run lint-markdown && npm run lint-terminology",
       "lint-terminology": "textlint ./README.md",
       "lint-markdown": "markdownlint ./README.md --ignore node_modules",
-      "link-check": find . -name README.md -exec markdown-link-check -c markdown-link-check-config.json 1> log 2> err {} \\;
-    //  "link-check": "find  README -name \\*.md -exec markdown-link-check -c markdown-link-check-config.json 1> log 2> err {} \\; && if [ -e err ] && grep -q  \"ERROR:\" err ; then exit 113  ; else echo -e \"All good\"; fi"
+      "link-check": "markdown-link-check -c markdown-link-check-config.json README.md"
     }
   }

@@ -1,0 +1,42 @@
+{
+  "name": "@oozcitak/url",
+  "version": "3.0.0",
+  "keywords": [
+    "url",
+    "whatwg"
+  ],
+  "homepage": "http://github.com/oozcitak/url",
+  "description": "An implementation of the URL Living Standard",
+  "author": "Ozgur Ozcitak <oozcitak@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oozcitak/url.git"
+  },
+  "bugs": {
+    "url": "http://github.com/oozcitak/url/issues"
+  },
+  "main": "./lib/index",
+  "types": "lib/index.d.ts",
+  "engines": {
+    "node": ">=20.0"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {
+    "@oozcitak/util": "^10.0.0",
+    "@oozcitak/infra": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "test": "tsc && tsx --test --experimental-test-coverage test/**/*test.ts",
+    "cover": "tsc && tsx --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=./coverage/lcov.info test/*test.ts",
+    "publish-public": "tsc && npm run cover && npm publish --access public"
+  }
+}
