@@ -125,6 +125,10 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
 - [Feroxbuster](https://github.com/epi052/feroxbuster) - Fast, simple, recursive content discovery tool.
 - [WebSift](https://github.com/s-r-e-e-r-a-j/WebSift) - Web reconnaissance tool for gathering information about websites.
+- [web-check](https://github.com/Lissy93/web-check) - All-in-one OSINT tool for analysing any website.
+- [Raccoon](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning.
+- [ivre](https://github.com/ivre/ivre) - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
+- [Findomain](https://github.com/Findomain/Findomain) - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
 <br>
 
 [⇧ Top](#index)
@@ -534,6 +538,7 @@ START FOR FREE
 - [NETSCOUT Cyber Threat Horizon](https://horizon.netscout.com/) - NETSCOUT Cyber Threat Horizon (Horizon) is a global cybersecurity situational awareness platform that provides organizations with highly contextualized visibility into 'over the horizon' threat activity on the landscape.
 - [APTnotes](https://github.com/aptnotes/data) - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 - [Hudson Rock Free Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific domain or email address was compromised by Infostealer infections.
+- [Intelligence Security](https://intelligencesecurity.io/) - Threat intelligence and security information platform.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Knowledge base of adversary tactics and techniques.
 - [Abuse.ch](https://abuse.ch/) - Fighting malware and botnets with various tracking projects.
 - [URLhaus](https://urlhaus.abuse.ch/) - Share malicious URLs that are being used for malware distribution.
@@ -692,6 +697,7 @@ You are searching 121 billion records.
 - [MailTester](https://mailtester.com/) - Test if an email address exists.
 - [Verify-Email](https://verify-email.org/) - Check if an email address exists.
 - [Google Alerts for Emails](https://www.google.com/alerts) - Monitor when an email appears online.
+- [mosint](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool for gathering information about email addresses.
 <br>
 
 [⇧ Top](#index)
@@ -725,6 +731,7 @@ You are searching 121 billion records.
 - [TrueCaller Web](https://www.truecaller.com/) - Identify unknown numbers and block spam.
 - [Emobiletracker](https://www.emobiletracker.com/) - Track mobile phone location and owner info.
 - [Phone Number Geo](https://www.phonenumber-geo.com/) - Get geographic location of phone numbers.
+- [GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number.
 <br>
 
 [⇧ Top](#index)
@@ -738,6 +745,8 @@ You are searching 121 billion records.
 - [Social Search Engine](https://www.socialsearchengine.org/) - Search social information from multiple social networking sites including Facebook, Twitter, Steemit, Google Plus, Blogspot, LinkedIn and more at same time.
 - [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram) - search people, posts ...
 - [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php) - Dribbble is good for finding front end developers, graphic designers, illustrators, typographers, logo designers, and other creative types.
+- [Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
+- [trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool.
 <br>
 
 [⇧ Top](#index)
@@ -892,6 +901,7 @@ the number of views or likes.
 - [SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account
 - [yesitsme](https://github.com/blackeko/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [Toolzu Instagram Search](https://toolzu.com/search-instagram-profiles) - Search Instagram profiles by username or name.
+- [toutatis](https://github.com/megadose/toutatis) - Extract information from Instagram accounts such as e-mails, phone numbers and more.
 <br>
 
 [⇧ Top](#index)
@@ -1537,6 +1547,8 @@ Enter two images and the difference will show up below
 [⇧ Top](#index)
 ## DARKNET
 
+- [TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool for crawling and analyzing Tor network.
+- [robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool for investigation and analysis.
 - [onionland](https://onionland.io/) - search engine for onion sites
 - [Danex.io](http://danex.io/) - Dark web search Engine tool.
 - [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - List of onion site (Forum,Chats,Markets)
@@ -1817,6 +1829,7 @@ about police misconduct in Chicago
 [⇧ Top](#index)
 ## BLOCKCHAIN / CRYPTO INVESTIGATION
 
+- [On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - Comprehensive list of tools for investigating crypto hacks and security incidents.
 - [Chainalysis](https://www.chainalysis.com/) - Blockchain data platform for investigators.
 - [Elliptic](https://www.elliptic.co/) - Crypto compliance and investigation tools.
 - [Crystal Blockchain](https://crystalblockchain.com/) - Blockchain analytics platform.
