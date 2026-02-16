@@ -361,6 +361,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
  ## DOWNLOADER
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
+- [SaveTheVideo](https://savethevideo.com/) - Online video downloader for many sites including YouTube.
 - [Media-downloader.net](https://media-downloader.net/) -
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) - A Pure client-side webapp to download entire or parts of Imgur albums.
 - [Export Comments](https://exportcomments.com/) - Easily exports all comments from your social media posts to Excel file.
