@@ -361,6 +361,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
  ## DOWNLOADER
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
+- [SaveTheVideo](https://savethevideo.com/) - Online video downloader for many sites including YouTube.
 - [Media-downloader.net](https://media-downloader.net/) -
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) - A Pure client-side webapp to download entire or parts of Imgur albums.
 - [Export Comments](https://exportcomments.com/) - Easily exports all comments from your social media posts to Excel file.
@@ -368,7 +369,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Loader.to](https://loader.to/) - YouTube MP3 Playlist Downloader Online
 - [Commentexporter.com](https://www.commentexporter.com/) - Export and save facebook comment to your computer. Nested comment supported.
 Enter your "Post URL" to export
-- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - This tool lets you view the followers on any Twitch account.
 - [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems. Also, Link Gopher does the same for unique domains.
 - [Page Links Extractor Tool](https://shadowcrypt.net/tools/pagelinks) - Pagelink Extractor scans the entire web page and lists down all hyperlinks on the website. It is useful for research purpose and uses regex to extract the link. It will be regularly updated.
 - [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page. The hrefs or "page links" are displayed in plain text for easy copying or review.
@@ -376,8 +376,6 @@ Enter your "Post URL" to export
 
 [⇧ Top](#index)
 ## PRIVACY / SECURITY
-- [EmailFinder](https://snov.io/email-finder) - Find any company mail
-- [companyresearcher](https://companyresearcher.exa.ai/) - Enter a company URL for detailed research info. Instantly know any company inside out.
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html) - The Hitchhiker’s Guide to Online Anonymity
 - [Privacy Guides](https://privacyguides.org/) - The guide to restoring your online privacy.
 - [Surveillance Self-Defense](https://ssd.eff.org/) - Surveillance Self-Defense Tips, Tools and How-tos for Safer Online Communications
@@ -391,14 +389,9 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests. It will remove identifying metadata (Exif data) from photographs, and also allow you to selectively blur parts of the image to cover faces and other identifiable information
 - [View Exif data online, remove Exif online](http://www.verexif.com/en/) - View and remove Exif online
 - [Bitcoinprivacy.guide](https://bitcoinprivacy.guide/) - Bitcoin privacy guide a beginners guide to Bitcoin privacy
-- [LocalBitcoins](https://localbitcoins.com/) - Buy and Sell Bitcoin Everywhere
-- [Localmonero.co](https://localmonero.co/) - Buy Monero.Sell Monero.Cash or online.Anywhere.
-- [Paxful](https://paxful.com/) - Trade Bitcoin with Paxful.
 - [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings. They produce a unique sound for masking and protecting conversations from external listening devices, such as a smartphone running an audio recording app, hidden in one of your guests' pocket
 - [Stutterbox](https://www.stutterbox.co.uk/) - A speech jammer is a device that inhibits a user from speaking in coherent sentences due to the user hearing their own voice played back to them with a slight delay.
 - [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
-- [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites, just enter username and this tool show you how many websites have that username.
-- [ScamSearch](https://scamsearch.io/) - Find your scammer online & report them. Don't let them get away. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website
 <br>
 
 [⇧ Top](#index)
@@ -656,6 +649,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
  ## EMAIL
 
 - [Email Lookup](https://epieos.com/) - The ultimate OSINT tool for email and phone reverse lookup
+- [EmailFinder](https://snov.io/email-finder) - Find any company mail
 - [holehe](https://pypi.org/project/holehe/) - holehe allows you to check if the mail is used on different sites like twitter, instagram , snapchat and will retrieve information on sites with the forgotten password function.
 - [user-scanner](https://github.com/kaifcodec/user-scanner.git) - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
 - ~~[Infoga](http://github.com/m4ll0k/Infoga)~~ - 404
@@ -889,6 +883,7 @@ the number of views or likes.
 - [Username Availability](https://cactus.tools/twitch/username) - search for Twitch Username Availability
 - [Check channel badges](https://cactus.tools/twitch/badges) - Check channel badges
 - [Twitch Following](https://cactus.tools/twitch/following) - Check the Twitch channels someone is following
+- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - View the followers on any Twitch account.
 - [All Twitch Streamers Search](https://twitchstats.net/allstreamers) - All Twitch Streamers You can search any twitch streamers/channels here...
 - [Twitchmetrics.net](https://www.twitchmetrics.net/) - This website gives a meaningful insights about Twitch activity to subs and plebs alike
 <br>
@@ -1547,6 +1542,9 @@ Enter two images and the difference will show up below
 - [Addresschecker.eu](http://addresschecker.eu/)
 - [Coinwink.com](https://coinwink.com/) - Track important price changes of your favorite cryptocurrencies with the help of Coinwink crypto alerts
 - [OSINT Intelligence On Chain](https://osint.intelligenceonchain.com/) - Blockchain-based OSINT and cryptocurrency investigation tools.
+- [LocalBitcoins](https://localbitcoins.com/) - Buy and sell Bitcoin everywhere.
+- [Localmonero.co](https://localmonero.co/) - Peer-to-peer Monero marketplace.
+- [Paxful](https://paxful.com/) - Trade Bitcoin via cash or online payments.
 
 <br>
 
@@ -1636,6 +1634,7 @@ Enter two images and the difference will show up below
 ## BUSINESS
 
 - [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3) - custom google search for companies and organization search
+- [companyresearcher](https://companyresearcher.exa.ai/) - Enter a company URL for detailed research info. Instantly know any company inside out.
 - [AllPeople](https://allpeople.com/) - AllPeople is the largest free directory of business contacts for America. Find leads for companies including name, position, email, address, phone number and more!
 - [Corporation Wiki](https://www.corporationwiki.com/) - Corporation Wiki exists to provide corporate transparency and historical data on companies. This allows officers to be held accountable for the actions they take through their corporations
 - [PA PPP Database](https://public.flourish.studio/visualisation/3105919/) - loan database
