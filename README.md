@@ -15,7 +15,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Training / Learning](#osint-training--learning)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -270,8 +270,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [osint-cli-tool-skeleton](https://pypi.org/project/osint-cli-tool-skeleton/) - OSINT cli tool skeleton
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
 - [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
-- [Dorkgpt](https://www.dorkgpt.com/) - Generate google dork with AI.
-- [DorkSearch](https://dorksearch.com/) - Google dorking made easy with pre-built search queries.
 - [BOSINT](https://app.bosint.gg/) - All-in-one OSINT investigation platform.
 <br>
 
@@ -363,6 +361,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
  ## DOWNLOADER
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites
+- [SaveTheVideo](https://savethevideo.com/) - Online video downloader for many sites including YouTube.
 - [Media-downloader.net](https://media-downloader.net/) -
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/#/) - A Pure client-side webapp to download entire or parts of Imgur albums.
 - [Export Comments](https://exportcomments.com/) - Easily exports all comments from your social media posts to Excel file.
@@ -370,7 +369,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Loader.to](https://loader.to/) - YouTube MP3 Playlist Downloader Online
 - [Commentexporter.com](https://www.commentexporter.com/) - Export and save facebook comment to your computer. Nested comment supported.
 Enter your "Post URL" to export
-- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - This tool lets you view the followers on any Twitch account.
 - [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems. Also, Link Gopher does the same for unique domains.
 - [Page Links Extractor Tool](https://shadowcrypt.net/tools/pagelinks) - Pagelink Extractor scans the entire web page and lists down all hyperlinks on the website. It is useful for research purpose and uses regex to extract the link. It will be regularly updated.
 - [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page. The hrefs or "page links" are displayed in plain text for easy copying or review.
@@ -378,8 +376,6 @@ Enter your "Post URL" to export
 
 [⇧ Top](#index)
 ## PRIVACY / SECURITY
-- [EmailFinder](https://snov.io/email-finder) - Find any company mail
-- [companyresearcher](https://companyresearcher.exa.ai/) - Enter a company URL for detailed research info. Instantly know any company inside out.
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html) - The Hitchhiker’s Guide to Online Anonymity
 - [Privacy Guides](https://privacyguides.org/) - The guide to restoring your online privacy.
 - [Surveillance Self-Defense](https://ssd.eff.org/) - Surveillance Self-Defense Tips, Tools and How-tos for Safer Online Communications
@@ -393,14 +389,9 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests. It will remove identifying metadata (Exif data) from photographs, and also allow you to selectively blur parts of the image to cover faces and other identifiable information
 - [View Exif data online, remove Exif online](http://www.verexif.com/en/) - View and remove Exif online
 - [Bitcoinprivacy.guide](https://bitcoinprivacy.guide/) - Bitcoin privacy guide a beginners guide to Bitcoin privacy
-- [LocalBitcoins](https://localbitcoins.com/) - Buy and Sell Bitcoin Everywhere
-- [Localmonero.co](https://localmonero.co/) - Buy Monero.Sell Monero.Cash or online.Anywhere.
-- [Paxful](https://paxful.com/) - Trade Bitcoin with Paxful.
 - [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings. They produce a unique sound for masking and protecting conversations from external listening devices, such as a smartphone running an audio recording app, hidden in one of your guests' pocket
 - [Stutterbox](https://www.stutterbox.co.uk/) - A speech jammer is a device that inhibits a user from speaking in coherent sentences due to the user hearing their own voice played back to them with a slight delay.
 - [StegOnline](https://stegonline.georgeom.net/upload) - A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed.
-- [WhatsMyName](https://whatsmyname.app/) - This tool allows you to enumerate usernames across many websites, just enter username and this tool show you how many websites have that username.
-- [ScamSearch](https://scamsearch.io/) - Find your scammer online & report them. Don't let them get away. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website
 <br>
 
 [⇧ Top](#index)
@@ -442,7 +433,6 @@ START FOR FREE
 - [Technisette](https://www.technisette.com/p/home) - Here you'll find my collected tutorials, tools, databases, addons, search engines and more to help you with your Open Source Intelligence (OSINT) research. 
 - [OSINT Framework](https://osintframework.com/) - OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT
-- [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - google dorks cheatsheet
 - [START CARING STOP SHARING](https://medium.com/@Dutchosintguy/start-caring-stop-sharing-9c108d957b2c) - An Open Source Intelligence perspective on the online sharing behavior of humans as effect of COVID19 pandemic to enable better Security Awareness.
 - [Osint Curious OSINT Resource List](https://docs.google.com/document/d/14li22wAG2Wh2y0UhgBjbqEvZJCDsNZY8vpUAJ_jJ5X8/edit) - OSINT Curious Project Resource List! Below you can find links to all the blog posts and 10 Minute Tips that we’ve created to help share knowledge and skills with the OSINT Community. The list is regularly updated as we create new content but you can also find us at OSINTCurio.us
 - [OSINT Tools](https://www.osinttechniques.com/osint-tools.html) - OSINT Tools
@@ -659,6 +649,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
  ## EMAIL
 
 - [Email Lookup](https://epieos.com/) - The ultimate OSINT tool for email and phone reverse lookup
+- [EmailFinder](https://snov.io/email-finder) - Find any company mail
 - [holehe](https://pypi.org/project/holehe/) - holehe allows you to check if the mail is used on different sites like twitter, instagram , snapchat and will retrieve information on sites with the forgotten password function.
 - [user-scanner](https://github.com/kaifcodec/user-scanner.git) - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
 - ~~[Infoga](http://github.com/m4ll0k/Infoga)~~ - 404
@@ -856,6 +847,17 @@ the number of views or likes.
 
 [⇧ Top](#index)
 
+## DORK
+
+- [Dorkgpt](https://www.dorkgpt.com/) - Generate google dork with AI.
+- [DorkSearch](https://dorksearch.com/) - Google dorking made easy with pre-built search queries.
+- [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - google dorks cheatsheet
+- [Dorki](https://dorki.io) - A partially free online tool that allows to collect search results from different search engines (Alexandria, Yahoo, Wikispecies, Yep, Wiby etc) and export them to JSON/TXT.
+- [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
+<br>
+
+[⇧ Top](#index)
+
 ## DISCORD
 
 - ~~[Discord User Search](https://discordhub.com/user/search)~~ - 502
@@ -881,6 +883,7 @@ the number of views or likes.
 - [Username Availability](https://cactus.tools/twitch/username) - search for Twitch Username Availability
 - [Check channel badges](https://cactus.tools/twitch/badges) - Check channel badges
 - [Twitch Following](https://cactus.tools/twitch/following) - Check the Twitch channels someone is following
+- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php) - View the followers on any Twitch account.
 - [All Twitch Streamers Search](https://twitchstats.net/allstreamers) - All Twitch Streamers You can search any twitch streamers/channels here...
 - [Twitchmetrics.net](https://www.twitchmetrics.net/) - This website gives a meaningful insights about Twitch activity to subs and plebs alike
 <br>
@@ -1092,7 +1095,6 @@ the number of views or likes.
 - [Public AWS S3 & Azure Search](https://buckets.grayhatwarfare.com/) - Search Public Buckets
 - [Public Buckets](https://osint.sh/buckets/) - Find public buckets on AWS S3 & Azure Blob by a keyword
 - [Search Atlas](https://searchatlas.org/) - Visualizing Divergent Search Results Across Geopolitical Borders
-- [Dorki](https://dorki.io) - A partially free online tool that allows to collect search results from different search engines (Alexandria, Yahoo, Wikispecies, Yep, Wiby etc) and export them to JSON/TXT.
 - [Hackxy](https://hackxy.io/) - cybersecurity search engine for ctf write and bugbounty reports
 <br>
 
@@ -1282,7 +1284,6 @@ Enter two images and the difference will show up below
 - [Sourcegraph](https://about.sourcegraph.com/) - Sourcegraph allows developers to rapidly search, write, and understand code by bringing insights from their entire codebase right into the editor
 - [Awesome Open Source](https://awesomeopensource.com/) - Find And Compare Open Source Projects
 - [Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
-- [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
 <br>
 
 [⇧ Top](#index)
@@ -1541,6 +1542,9 @@ Enter two images and the difference will show up below
 - [Addresschecker.eu](http://addresschecker.eu/)
 - [Coinwink.com](https://coinwink.com/) - Track important price changes of your favorite cryptocurrencies with the help of Coinwink crypto alerts
 - [OSINT Intelligence On Chain](https://osint.intelligenceonchain.com/) - Blockchain-based OSINT and cryptocurrency investigation tools.
+- [LocalBitcoins](https://localbitcoins.com/) - Buy and sell Bitcoin everywhere.
+- [Localmonero.co](https://localmonero.co/) - Peer-to-peer Monero marketplace.
+- [Paxful](https://paxful.com/) - Trade Bitcoin via cash or online payments.
 
 <br>
 
@@ -1630,6 +1634,7 @@ Enter two images and the difference will show up below
 ## BUSINESS
 
 - [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3) - custom google search for companies and organization search
+- [companyresearcher](https://companyresearcher.exa.ai/) - Enter a company URL for detailed research info. Instantly know any company inside out.
 - [AllPeople](https://allpeople.com/) - AllPeople is the largest free directory of business contacts for America. Find leads for companies including name, position, email, address, phone number and more!
 - [Corporation Wiki](https://www.corporationwiki.com/) - Corporation Wiki exists to provide corporate transparency and historical data on companies. This allows officers to be held accountable for the actions they take through their corporations
 - [PA PPP Database](https://public.flourish.studio/visualisation/3105919/) - loan database
@@ -1864,6 +1869,179 @@ about police misconduct in Chicago
 - [Sofia Santos OSINT Exercises](https://gralhix.com/list-of-osint-exercises/) - Collection of OSINT practice exercises.
 - [OSINT Games](https://osintgames.com/) - Interactive OSINT challenges.
 <br>
+
+[⇧ Top](#index)
+## BUG BOUNTY / SECURITY RESEARCH
+
+### Bug Bounty Platforms
+- [HackerOne](https://www.hackerone.com/) - Leading bug bounty and vulnerability coordination platform.
+- [Bugcrowd](https://www.bugcrowd.com/) - Crowdsourced cybersecurity platform for bug bounties and pentesting.
+- [Intigriti](https://www.intigriti.com/) - European bug bounty and agile penetration testing platform.
+- [YesWeHack](https://www.yeswehack.com/) - Global bug bounty and VDP platform.
+- [Synack](https://www.synack.com/) - Crowdsourced security testing platform with vetted researchers.
+- [Cobalt](https://www.cobalt.io/) - Pentest as a Service (PtaaS) platform.
+- [HackenProof](https://hackenproof.com/) - Bug bounty platform for blockchain and crypto projects.
+- [BugBase](https://bugbase.in/) - Bug bounty platform connecting security researchers with companies.
+
+### Web Security Testing
+- [Burp Suite](https://portswigger.net/burp) - Industry-standard web application security testing toolkit.
+- [OWASP ZAP](https://www.zaproxy.org/) - Open-source web application security scanner.
+- [Caido](https://caido.io/) - Modern web security testing toolkit and proxy.
+- [Mitmproxy](https://mitmproxy.org/) - Interactive HTTPS proxy for penetration testing.
+- [w3af](https://w3af.org/) - Web application attack and audit framework.
+- [Wapiti](https://wapiti-scanner.github.io/) - Web application vulnerability scanner.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Advanced XSS detection and exploitation suite.
+- [SQLMap](https://sqlmap.org/) - Automatic SQL injection and database takeover tool.
+- [Commix](https://github.com/commixproject/commix) - Automated OS command injection and exploitation tool.
+- [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and exploitation.
+
+### Attack Surface Discovery
+- [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices and services.
+- [Censys](https://censys.io/) - Internet-wide asset discovery and attack surface management.
+- [FOFA](https://fofa.info/) - Cyberspace search engine for security assessment.
+- [ZoomEye](https://www.zoomeye.org/) - Cyberspace search engine for finding exposed devices.
+- [BinaryEdge](https://www.binaryedge.io/) - Cybersecurity data platform and internet scanner.
+- [Hunter.how](https://hunter.how/) - Internet assets search engine and attack surface management.
+- [Quake](https://quake.360.net/) - Cyberspace mapping and threat intelligence platform.
+- [Criminal IP](https://www.criminalip.io/) - Cyber threat intelligence search engine.
+- [FullHunt](https://fullhunt.io/) - Attack surface discovery and security assessment platform.
+- [Netlas](https://netlas.io/) - Search engine and data analysis platform for internet-connected assets.
+
+### Reconnaissance & Enumeration
+- [Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery.
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+- [Assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain.
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool.
+- [Knock](https://github.com/guelfoweb/knock) - Python tool to enumerate subdomains.
+- [Shuffledns](https://github.com/projectdiscovery/shuffledns) - Wrapper around massdns for subdomain bruteforcing.
+- [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration and scanning tool.
+- [MassDNS](https://github.com/blechschmidt/massdns) - High-performance DNS stub resolver.
+- [Fierce](https://github.com/mschwager/fierce) - DNS reconnaissance tool for locating non-contiguous IP space.
+- [Chaos](https://chaos.projectdiscovery.io/) - Project Discovery's internet-wide asset dataset.
+
+### Vulnerability Scanning
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast vulnerability scanner based on YAML templates.
+- [OpenVAS](https://www.openvas.org/) - Open-source vulnerability scanner and management solution.
+- [Nikto](https://github.com/sullo/nikto) - Web server scanner for dangerous files and outdated software.
+- [Nessus](https://www.tenable.com/products/nessus) - Comprehensive vulnerability assessment solution.
+- [Acunetix](https://www.acunetix.com/) - Automated web application security scanner.
+- [Qualys](https://www.qualys.com/) - Cloud-based security and compliance solutions.
+- [Nmap](https://nmap.org/) - Network discovery and security auditing tool.
+- [WPScan](https://wpscan.com/) - WordPress security scanner.
+- [Retire.js](https://retirejs.github.io/retire.js/) - Scanner detecting use of JavaScript libraries with known vulnerabilities.
+- [Snyk](https://snyk.io/) - Developer security platform for finding and fixing vulnerabilities.
+
+### Content Discovery & Fuzzing
+- [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
+- [Gobuster](https://github.com/OJ/gobuster) - Directory/file, DNS and VHost busting tool.
+- [Feroxbuster](https://github.com/epi052/feroxbuster) - Fast, simple, recursive content discovery tool.
+- [Dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner and directory brute-forcing tool.
+- [DirBuster](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project) - OWASP multi-threaded directory and file brute-forcing application.
+- [Wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer for brute-forcing.
+- [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists for security assessments.
+
+### API Security Testing
+- [Postman](https://www.postman.com/) - API platform for building and testing APIs.
+- [Insomnia](https://insomnia.rest/) - API client for REST, GraphQL, and gRPC.
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery tool.
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of web archives.
+- [Kiterunner](https://github.com/assetnote/kiterunner) - API endpoint and content discovery tool.
+- [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) - API security risks documentation and guidelines.
+
+### Exploitation Frameworks
+- [Metasploit](https://www.metasploit.com/) - Penetration testing framework for exploit development.
+- [ExploitDB](https://www.exploit-db.com/) - Database of exploits and vulnerable software.
+- [Searchsploit](https://www.exploit-db.com/searchsploit) - Command-line search tool for Exploit Database.
+- [BeEF](https://beefproject.com/) - Browser Exploitation Framework for testing web browser security.
+
+### Mobile Security
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Automated mobile application security testing framework.
+- [Frida](https://frida.re/) - Dynamic instrumentation toolkit for reverse engineering.
+- [Objection](https://github.com/sensepost/objection) - Runtime mobile exploration toolkit powered by Frida.
+- [APKTool](https://ibotpeaches.github.io/Apktool/) - Tool for reverse engineering Android APK files.
+- [Jadx](https://github.com/skylot/jadx) - Dex to Java decompiler for Android applications.
+
+### Reporting & Collaboration
+- [PlexTrac](https://plextrac.com/) - Pentest reporting and collaboration platform.
+- [Dradis](https://dradisframework.com/) - Open-source collaboration and reporting platform for security teams.
+- [Faraday](https://github.com/infobyte/faraday) - Collaborative penetration test and vulnerability management platform.
+- [Reconness](https://github.com/reconness/reconness) - Web application for continuous reconnaissance.
+
+### Bug Bounty Resources
+- [HackerOne Hacktivity](https://hackerone.com/hacktivity) - Public disclosure of resolved security vulnerabilities.
+- [PentesterLand Bug Bounty Writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - Collection of bug bounty writeup resources.
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - Curated list of bug bounty resources.
+- [Bug Bounty Forum](https://bugbountyforum.com/) - Community forum for bug bounty hunters.
+- [PortSwigger Research](https://portswigger.net/research) - Web security research and techniques.
+- [Hacker101](https://www.hacker101.com/) - Free class for web security by HackerOne.
+<br>
+
+[⇧ Top](#index)
+## LLM SECURITY / AI SECURITY
+
+### LLM Vulnerability Testing
+- [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner for probing language models.
+- [PromptFoo](https://promptfoo.dev/) - Test and evaluate LLM outputs for security and quality.
+- [PyRIT](https://github.com/Azure/PyRIT) - Python Risk Identification Toolkit for generative AI by Microsoft.
+- [LLM Fuzzer](https://github.com/mnns/LLMFuzzer) - Fuzzing framework for finding vulnerabilities in LLMs.
+- [AI Exploits](https://github.com/protectai/ai-exploits) - Collection of real-world AI/ML exploits and vulnerabilities.
+- [Rebuff](https://github.com/protectai/rebuff) - Prompt injection detector for LLM applications.
+- [LLM Guard](https://llm-guard.com/) - Security toolkit for LLM interactions with input/output filtering.
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Toolkit for adding programmable guardrails to LLM applications.
+- [LangChain Security](https://python.langchain.com/docs/security) - Security best practices for LangChain applications.
+
+### AI Red Teaming & Adversarial Testing
+- [Gandalf by Lakera](https://gandalf.lakera.ai/) - Game for testing prompt injection techniques.
+- [Prompt Injection Playground](https://greshake.github.io/) - Interactive playground for testing prompt injections.
+- [AI Incident Database](https://incidentdatabase.ai/) - Database of AI system failures and harms.
+- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for adversarial machine learning.
+- [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking ML systems' vulnerability to adversarial examples.
+- [Foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples.
+- [TextAttack](https://github.com/QData/TextAttack) - Framework for adversarial attacks in NLP.
+
+### AI Model Security & Privacy
+- [Counterfit](https://github.com/Azure/counterfit) - Generic automation layer for assessing security of ML models.
+- [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - Privacy testing library for deep learning systems.
+- [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) - Tool to audit data privacy in statistical and ML algorithms.
+- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training ML models with differential privacy.
+- [Opacus](https://opacus.ai/) - Library for training PyTorch models with differential privacy.
+
+### AI/ML Model Analysis
+- [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and ML models.
+- [TensorBoard](https://www.tensorflow.org/tensorboard) - TensorFlow's visualization toolkit.
+- [Manifold](https://github.com/uber/manifold) - Model-agnostic visual debugging tool for ML.
+- [What-If Tool](https://pair-code.github.io/what-if-tool/) - Interactive visual interface for ML model analysis.
+
+### AI Security Platforms & Tools
+- [Protect AI](https://protectai.com/) - AI/ML security platform for scanning and protecting models.
+- [Robust Intelligence](https://www.robustintelligence.com/) - AI security and validation platform.
+- [HiddenLayer](https://hiddenlayer.com/) - Security platform for AI models and applications.
+- [Lakera Guard](https://www.lakera.ai/lakera-guard) - Enterprise LLM security solution for prompt injections.
+- [Arthur AI](https://www.arthur.ai/) - ML model monitoring and anomaly detection platform.
+- [Fiddler AI](https://www.fiddler.ai/) - ML model performance monitoring and explainability platform.
+
+### Jailbreak & Prompt Injection Resources
+- [Jailbreak Chat](https://www.jailbreakchat.com/) - Collection of ChatGPT jailbreaks and prompts.
+- [Awesome GPT Prompt Injection](https://github.com/FonduAI/awesome-gpt-prompt-injection) - Curated list of prompt injection resources.
+- [LLM Security](https://llmsecurity.net/) - Resources and research on LLM security vulnerabilities.
+- [OWASP Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Top 10 security risks for LLM applications.
+
+### AI/ML Dataset Security
+- [Model Signing](https://github.com/sigstore/model-transparency) - Supply chain security for ML models.
+- [Hugging Face Security](https://huggingface.co/docs/hub/security) - Security features and scanning on Hugging Face Hub.
+- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines model documentation for transparency.
+- [AI BOM](https://aibom.org/) - AI Bill of Materials for tracking AI system components.
+
+### Research & Education
+- [AI Safety Papers](https://www.alignmentforum.org/) - Forum for AI alignment and safety research.
+- [AI Security Conference Papers](https://www.papersdigest.org/tag/ai-security/) - Academic papers on AI security.
+- [ML Security Reading List](https://github.com/0xRadi/AI-ML-Security-Reading-List) - Curated reading list for AI/ML security.
+- [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - ML tools and resources for cybersecurity.
+- [MITRE ATLAS](https://atlas.mitre.org/) - Knowledge base of adversarial tactics against ML systems.
+- [Trail of Bits AI Security](https://github.com/trailofbits/ai-security-bestpractices) - Best practices for AI/ML security.
+<br>
+
+[⇧ Top](#index)
 
 <a href="https://www.buymeacoffee.com/astrosp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 157px !important;" ></a>
 
