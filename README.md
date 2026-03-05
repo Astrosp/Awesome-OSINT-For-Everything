@@ -32,6 +32,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [weleakinfo](https://weleakinfo.io/) - We Leak Info - Leaked Dehashed Databases, search for leaks.
 - [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
 - [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
+- [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 - [Findemail.io](https://findemail.io/) - Find email addresses for given company.
 - [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
 - [LeakRadar](https://leakradar.io/) - Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API
@@ -1346,6 +1347,8 @@ Enter two images and the difference will show up below
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain and IP intelligence APIs.
 - [IPinfo](https://ipinfo.io/) - IP address data and geolocation API.
 - [IPQualityScore](https://www.ipqualityscore.com/) - Fraud detection and IP reputation.
+- [Frostbyte GeoIP API](https://api-catalog-three.vercel.app/services/ip-geolocation-api) - Free IP geolocation API returning country, city, ISP, coordinates, and timezone. 200 free lookups, no signup required.
+- [Frostbyte DNS API](https://api-catalog-three.vercel.app) - DNS record lookup API supporting A, AAAA, MX, NS, TXT, and CNAME queries with WHOIS data.
 - [Netlas.io](https://netlas.io/) - Internet intelligence search for domains, IPs, and certificates.
 - [FullHunt](https://fullhunt.io/) - Attack surface management and discovery platform.
 - [Spyse](https://spyse.com/) - Internet assets search engine (DNS, domains, certs).
@@ -1511,6 +1514,7 @@ Enter two images and the difference will show up below
 ## GEO
 
 - [GeoSpy](https://geospy.web.app/) - Photo location prediction using AI
+- [GeoInfer](https://geoinfer.com/en) - AI-powered image geolocation tool that predicts the location of any photo using deep learning
 - [GEOINT](https://start.me/p/W1kDAj/geoint) - every tools you need for geographical data gathering
 - [GeoNames](https://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 - [Geoseer.net](https://www.geoseer.net/) - Search over 3.5 million distinct spatial GIS WMS, WCS, WMTS datasests hosted on over 40k live services from around the world.
