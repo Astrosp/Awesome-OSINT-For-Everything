@@ -1346,6 +1346,8 @@ Enter two images and the difference will show up below
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain and IP intelligence APIs.
 - [IPinfo](https://ipinfo.io/) - IP address data and geolocation API.
 - [IPQualityScore](https://www.ipqualityscore.com/) - Fraud detection and IP reputation.
+- [Frostbyte GeoIP API](https://api-catalog-three.vercel.app/services/ip-geolocation-api) - Free IP geolocation API returning country, city, ISP, coordinates, and timezone. 200 free lookups, no signup required.
+- [Frostbyte DNS API](https://api-catalog-three.vercel.app) - DNS record lookup API supporting A, AAAA, MX, NS, TXT, and CNAME queries with WHOIS data.
 - [Netlas.io](https://netlas.io/) - Internet intelligence search for domains, IPs, and certificates.
 - [FullHunt](https://fullhunt.io/) - Attack surface management and discovery platform.
 - [Spyse](https://spyse.com/) - Internet assets search engine (DNS, domains, certs).
