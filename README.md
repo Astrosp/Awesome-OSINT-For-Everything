@@ -1641,6 +1641,16 @@ Enter two images and the difference will show up below
 - [C4ADS](https://c4ads.org) - Center for Advanced Defense Studies - Non-profit providing data-driven analysis and reporting on conflict zones, transnational security issues, and military supply chains.
 - [InformNapalm](https://informnapalm.org/db/russian-aggression/#lang=en&page=m_unit) - Volunteer intelligence community presenting interactive database mapping Russian aggression against Ukraine, Georgia, and Syria with OSINT investigations.
 - [Global Terrorism Database](https://www.start.umd.edu/gtd/access/) - Open-source database including information on terrorist events around the world from 1970 through 2020+ with systematic data on domestic and international incidents.
+- [Sightline](https://github.com/ni5arga/sightline) - Geospatial intelligence platform for discovering and analyzing physical-world infrastructure using OpenStreetMap data, including military installations, telecommunications towers, power plants, airports, and 200+ infrastructure types.
+- [Monitor The Situation](https://monitor-the-situation.com/) - Real-time aggregator of breaking news, social media feeds, and alerts focused on global conflicts, geopolitical events, and crisis situations with immediate breaking alerts from multiple sources.
+- [DeepStateMap](https://deepstatemap.live) - Ukrainian-developed live mapping platform tracking military positions, territorial control, and combat operations with frequent updates from verified sources.
+- [WarMapper](https://warmapper.com) - Interactive conflict mapping platform providing real-time tracking of military operations, territorial changes, and front-line movements with battle dynamics visualization.
+- [Janes](https://www.janes.com) - Leading defense intelligence platform providing comprehensive military equipment databases, threat assessments, and conflict analysis with detailed technical specifications.
+- [Geollect](https://geollect.com) - AI-powered geospatial intelligence platform that analyzes satellite imagery to detect military infrastructure, equipment movements, and conflict-related activities.
+- [Sentry Syria](https://sentry.syria.org) - Crisis monitoring system tracking airstrikes, military operations, and humanitarian impacts using verified social media and ground reports, originally focused on Syrian conflict.
+- [Project Owl](https://projowl.org) - Open-source intelligence platform aggregating and verifying conflict-related data from multiple sources with real-time incident mapping and military activity tracking.
+- [WarWire](https://warwire.net) - Conflict intelligence aggregator monitoring military movements, equipment deployments, and combat operations across multiple theaters with timestamp verification.
+- [Flightradar24](https://www.flightradar24.com) - Flight tracking service invaluable for monitoring military transport aircraft, surveillance planes, and aerial reconnaissance operations during conflicts when transponders are active.
 <br>
 
 [⇧ Top](#index)
