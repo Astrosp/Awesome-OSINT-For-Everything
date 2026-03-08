@@ -1651,6 +1651,7 @@ Enter two images and the difference will show up below
 - [Project Owl](https://projowl.org) - Open-source intelligence platform aggregating and verifying conflict-related data from multiple sources with real-time incident mapping and military activity tracking.
 - [WarWire](https://warwire.net) - Conflict intelligence aggregator monitoring military movements, equipment deployments, and combat operations across multiple theaters with timestamp verification.
 - [Flightradar24](https://www.flightradar24.com) - Flight tracking service invaluable for monitoring military transport aircraft, surveillance planes, and aerial reconnaissance operations during conflicts when transponders are active.
+- [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking.
 <br>
 
 [⇧ Top](#index)
