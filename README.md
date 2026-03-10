@@ -162,6 +162,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [WayBien](https://waybien.com/) - Enhanced Wayback Machine interface for browsing archived websites.
 - [Meawfy](https://meawfy.com/) - Web archiving and snapshot service.
 - [waybackpy](https://pypi.org/project/waybackpy/) - Python package that interfaces with the Internet Archive's Wayback Machine APIs. Archive pages and retrieve archived pages easily.
+- [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 - [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
 - [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet
 - [Oldweb.today](http://oldweb.today/) - see old web browser
