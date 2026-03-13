@@ -695,6 +695,7 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## PHONE
 
+- [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - Python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find people's phone numbers and addresses.
 - [CallSpy](https://callspy.profiler.me/) - Get real-time details about any phone number from our 10+ sources, including Truecaller, Eyecon, CallApp, and many more
 - [PhoneInfoga](https://sundowndev.github.io/phoneinfoga/) - PhoneInfoga is one of the most advanced tools to scan international phone numbers. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number, then search for footprints on search engines to try to find the VoIP provider or identify the owner.
 - [Phonerator](https://www.martinvigo.com/tools/phonerator/) - An advanced valid phone number generator.
