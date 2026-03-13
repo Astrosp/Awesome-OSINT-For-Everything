@@ -612,6 +612,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [Gofindwho.com](https://gofindwho.com/) - 404
 - [xlek](https://xlek.com/) - USA Data Search Search Public Data Instantly
 - [Ufind.name](https://ufind.name/) - free people search
+- [search-by-surname](https://github.com/GeiserX/search-by-surname) - R-based tool that searches Spanish phone directory services by surname to find contact information.
 <br>
 
 [⇧ Top](#index)
