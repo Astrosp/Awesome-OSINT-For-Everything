@@ -60,6 +60,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Prospeo](https://prospeo.io/) - Find business email addresses for outreach, find mobile, domain search, email verifier.
 - [RepoAnalyzer](https://repoanalyzer.site/) - Discover authentic blockchain projects through comprehensive analysis of on-chain data, GitHub activity, and community engagement.
 - [Reverse Contact](https://www.reversecontact.com/) - Find real-time contact and company data from an email address.
+- [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=Astrosp_Awesome_OSINT_For_Everything) – AI-Powered OSINT at Lightspeed.
  <br>
 
 ## AI
