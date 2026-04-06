@@ -21,6 +21,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 #### <i>Some of other OSINT tools List</i>
 
 - [osinttools.io](https://osinttools.io/) - Discover and compare the top OSINT tools in one place.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including OSINT gathering, deep research, and multi-source intelligence analysis for Claude Code. MIT licensed.
 ## Breaches and Leaks
 
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
