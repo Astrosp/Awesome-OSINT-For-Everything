@@ -95,11 +95,13 @@ AI tools/Site
 - [iAsk.ai](https://iask.ai/) - AI-powered answer engine that provides accurate, factual answers to questions.
 - [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
+- [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
 <br>
 
 [⇧ Top](#index)
 
 ## Recon
+
 Tools for Image/Audio/Video/Doc reconnaissance
 
 - [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -200,6 +202,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Shadowlibraries.github.io](https://shadowlibraries.github.io/) - A Pirate Library Archive
 - [Editor.typely.com](https://editor.typely.com/) - Free online proofreading and essay editor
 - [annas-archive](https://annas-archive.li) - largest collection of variety books and blogs
+- [https://stix-viewer.threatlandscape.io/](https://stix-viewer.threatlandscape.io/) - An online free STIX viewer / visualizer.
 <br>
 
 [⇧ Top](#index)
@@ -279,7 +282,8 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 ## THROWAWAY CONTACT/Temporary contact
 
 - [10minutemail.com](https://10minutemail.com/) - Disposable mail for 10 min.
-- [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part Its OpenSource
+- [anon.li Alias](https://anon.li/alias) - Free email aliasing service, that allows you to hide your email from bad actors. Offers a **free** plan, with PGP encryption and reply support, 11 free aliases.
+- [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part it's open source
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously
 - [MailDrop](https://maildrop.cc/) - Save your inbox from spam. Use Maildrop when you don't want to give out your real address No signup required - Maildrop is free for anyone to use when you need a quick, disposable email address.
 - [Send text free](https://globfone.com/send-text/) - Send text online without worrying about phone bills. Free SMS to hundreds of GSM operators worldwide
@@ -330,6 +334,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - d you ever wish to become a YouTuber with a large number of subscribers? Well, dreams do come true. By using the Fake Youtube Channel Generator tool, you may create a fake youtube channel with an attractive channel name and several subscribers.
 - [Resume Builder](https://vinaysomawat.github.io/Resume-Builder/) - simple resume builder
 - [Fake Generator Tools](https://fauxid.com/tools) - Here are a list of tools that can help you create fake identities, fake emails, fake credit cards, fake driver's license, and a fake company.
+- [RandTap](https://randtap.com) - Free random data generator tools. Generate phone numbers, addresses, passwords, colors and more.
 <br>
 
 [⇧ Top](#index)
@@ -517,6 +522,7 @@ START FOR FREE
 - [Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) -
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - cyberthreat realtime map
 - [Cyber Threat Intelligence](https://pulsedive.com/) - Frictionless threat intelligence solutions for growing teams
+- [Threat Landscape](https://threatlandscape.io/) - Extracts, structures, and connects global OSINT and darknet signals into intelligence
 - [Cisco Talos Intelligence Group](https://talosintelligence.com/) - Gather Intelligence for IPs, Domain, network of file
 - [Fortinet Threat Map](https://threatmap.fortiguard.com/) -
 - [FortiGuard](http://www.fortiguard.com/) - AI-Powered Threat Intelligence for an Evolving Digital World.
@@ -581,6 +587,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [OSINT Search Engine](https://cse.google.com/cse/publicurl?cx=006290531980334157382:qcaf4enph7i) - custom search engine
 - [LinkScope](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities.
 - [IOA](https://www.io-archive.org/) - The Information Operation Archive hosts publicly available and rigorously attributed datapoints from known Information Operations on social media platforms.
+- [ApifyForge](https://apifyforge.com) - 93 MCP intelligence servers and 300+ data tools for automated OSINT. AML screening, sanctions checks (OFAC, OpenSanctions, Interpol), beneficial ownership, corporate due diligence, SEC filings, cybersecurity attack surface analysis. Each server queries 7-18 sources in parallel.
 <br>
 
 [⇧ Top](#index)
@@ -784,6 +791,7 @@ You are searching 121 billion records.
 - [Botometer](https://botometer.osome.iu.edu/) - Check Twitter account for bot-like behavior.
 - [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
 - [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
+- [Xquik](https://xquik.com/) - X (Twitter) data extraction platform for tweet search, user lookup, follower/following lists, engagement metrics, account monitoring, and trending topics. REST API with 40+ endpoints.
 <br>
 
 [⇧ Top](#index)
@@ -1151,7 +1159,7 @@ the number of views or likes.
 - [EXIF Data Viewer](http://exifdata.com/) - EXIF is short for Exchangeable Image File, a format that is a standard for storing interchange information in digital photography image files using JPEG compression. Almost all new digital cameras use the EXIF annotation, storing information on the image such as shutter speed, exposure compensation, F number, what metering system was used, if a flash was used, ISO number, date and time the image was taken, whitebalance, auxiliary lenses that were used and resolution. Some images may even store GPS information so you can easily see where the images were taken!
 - [Background Removal Tool](https://photoscissors.com/) - Remove a background and replace it with a transparent, solid color or background image with just a few clicks!
 - [Museo](https://museo.app/) - Museo is a visual search engine that connects you with the Art Institute of Chicago, the Rijksmuseum, the Harvard Art Museums, the Minneapolis Institute of Art, the The Cleveland Museum of Art, and the New York Public Library Digital Collection
-- [Diff Checker](https://www.diffchecker.com/image-diff/) - Find the difference between pictures or other images!
+- [Diff Checker](https://diffchecker.dev/image/) - Find the difference between pictures or other images!
 Enter two images and the difference will show up below
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Forensically is a set of free tools for digital image forensics. It includes clone detection, error level analysis, meta data extraction and more.
 - [Pictriev](http://pictriev.com/) - Find look-alike celebrities on the web using the face recognition.
@@ -1178,6 +1186,7 @@ Enter two images and the difference will show up below
 - [Search for Music Using Your Voice](https://www.midomi.com/) - Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free!
 - [Listen Notes](https://www.listennotes.com/) - Search the whole Internet's podcasts. Curate your own podcast playlists. Listen on your favorite podcast player apps.
 - [Discover Podcasts Here!](https://podsearch.com/) - PodSearch is the easiest way to discover podcasts on your favorite topics. Listen to short show samples, learn more about the show and hosts
+- [SongFromLink](https://songfromlink.com/) - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links.
 <br>
 
 [⇧ Top](#index)
@@ -1207,6 +1216,7 @@ Enter two images and the difference will show up below
 - [Flightradar24](https://www.flightradar24.com/) - Live Flight Tracker - Real-Time Flight Tracker Map
 - [Live Air Traffic Control](https://www.liveatc.net/) - Live Air traffic form thir headsets
 - [Planespotters.net](https://www.planespotters.net/) - Aviation Photos, Airline Fleets and more
+- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 - [Skyscanner](https://www.skyscanner.com/) - Millions of cheap flights, hotels & cars. One simple search.
 - [RadarBox](https://www.radarbox.com/) - RadarBox is a flight tracking company that displays aircraft & flight information in real-time on a map. RadarBox offers flight data such as latitude and longitude positions, origins and destinations, flight numbers, aircraft types, altitudes, headings and speeds
 - [FlightAirMap](https://www.flightairmap.com/) - Real or virtual flights are displayed in real-time on a 2D or 3D map. Airports are also available on map. Statistics for pilots and/or owners are generated.
@@ -1364,6 +1374,7 @@ Enter two images and the difference will show up below
 - [IP THC](https://ip.thc.org/) - Quick IP address lookup and information tool.
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
+- [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
 <br>
 
 [⇧ Top](#index)
@@ -1651,6 +1662,7 @@ Enter two images and the difference will show up below
 - [Project Owl](https://projowl.org) - Open-source intelligence platform aggregating and verifying conflict-related data from multiple sources with real-time incident mapping and military activity tracking.
 - [WarWire](https://warwire.net) - Conflict intelligence aggregator monitoring military movements, equipment deployments, and combat operations across multiple theaters with timestamp verification.
 - [Flightradar24](https://www.flightradar24.com) - Flight tracking service invaluable for monitoring military transport aircraft, surveillance planes, and aerial reconnaissance operations during conflicts when transponders are active.
+- [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking.
 <br>
 
 [⇧ Top](#index)
