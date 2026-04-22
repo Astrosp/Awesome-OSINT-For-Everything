@@ -595,6 +595,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 <br>
 
 [⇧ Top](#index)
+- [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics and public records. ~3M geocoded incidents from state police sources (SSP/RS, ISP/RJ, SEJUSP/MG), federal highway accidents (PRF DATATRAN), and urban traffic (EPTC/POA). Free REST API + CSV/Parquet, CC BY 4.0.
 ## PEOPLE
 
 - [IDCrawl](https://www.idcrawl.com/) - People Search a friend, relative, yourself, or someone else you may know (US ONLY).
