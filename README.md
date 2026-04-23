@@ -39,7 +39,9 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
 - [Leak-Lookup](https://leak-lookup.com/) - Data breach search engine with over 3 billion records from 3000+ databases.
 - [BreachDirectory](https://breachdirectory.org/) - Check if your credentials have been compromised in data breaches.
-- [Scylla.so](https://scylla.so/) - Community-driven database breach search engine.
+- [DeHashed](https://dehashed.com/) - Comprehensive breach database search engine with extensive historical data.
+- [HaveIBeenPwned](https://haveibeenpwned.com/) - Free breach notification service that allows you to check if your email or password has been compromised.
+- [Snusbase](https://snusbase.com/) - Breach database search engine with detailed search capabilities.
 - [Leaked.domains](https://leaked.domains/) - Search for domain-related leaked credentials and data.
 - [WhiteIntel](https://whiteintel.io/) - Dark web data leak search engine for threat intelligence.
 - [PSBDMP](https://psbdmp.ws/) - Pastebin dump search and monitoring platform.
