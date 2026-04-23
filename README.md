@@ -1483,6 +1483,7 @@ Enter two images and the difference will show up below
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
+- [HackMyIP](https://hackmyip.com/) - Privacy and network intelligence toolkit with IP lookup, DNS lookup, email breach check, port scanner, browser fingerprint, WebRTC leak test, and DNS leak test.
 <br>
 
 [⇧ Top](#index)
