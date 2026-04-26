@@ -1851,6 +1851,7 @@ Enter two images and the difference will show up below
 - [FL Energy Money in Politics](https://b2.caspio.com/dp.asp?AppKey=c73210001174b8c2a8d444768f5c)
 - [ValidFleetList (unknown Sail Boat database)](https://c0eru285.caspio.com/dp/0dc330002829dcc1ad864b5bb094)
 - [Viking Rifle Series Shooter Live Results](https://vikingrifleseries.caspio.com/dp/c8ac5000f29041f935cf42b6a641)
+[OpenRegistry](https://openregistry.sophymarine.com) - Free remote MCP server proxying 27 national company registries (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via EU BRIS, Spain BORME, Korea OpenDART, plus 21 more). Real-time, raw, direct-to-registry — no aggregator middle layer. AI-agent-native (MCP) but tools are plain HTTPS so any client works.
 <br>
 
 [⇧ Top](#index)
