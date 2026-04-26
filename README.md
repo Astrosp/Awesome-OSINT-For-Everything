@@ -1474,6 +1474,7 @@ Enter two images and the difference will show up below
 - [Passive Total](https://community.riskiq.com/) - Passive DNS and threat intelligence.
 - [ThreatCrowd](https://www.threatcrowd.org/) - Open source threat intelligence search engine.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free malware analysis service.
+- [Voidly CLI](https://www.npmjs.com/package/@voidly/cli) - Command-line tool to check if a domain is censored or blocked from a given country. Backed by 19.6M live measurements aggregated from OONI, IODA, and CensoredPlanet across 119 countries. Useful for verifying censorship claims, monitoring shutdowns, and tracking blocking history.
 - [Criminal IP](https://www.criminalip.io/) - Cyber threat intelligence search engine.
 - [FOFA](https://en.fofa.info/) - Cyberspace search engine from China.
 - [Quake](https://quake.360.net/) - Cyberspace search engine by 360.
