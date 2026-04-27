@@ -539,7 +539,7 @@ START FOR FREE
 - [Hudson Rock Free Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific domain or email address was compromised by Infostealer infections.
 - [Intelligence Security](https://intelligencesecurity.io/) - Threat intelligence and security information platform.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Knowledge base of adversary tactics and techniques.
-- [ContrastAPI](https://api.contrastcyber.com) - Security intelligence API and MCP server — domain recon, CVE lookup, IP reputation, threat intel, subdomain enumeration, and code security scanning. 23 tools, free, no API key required.
+- [ContrastAPI](https://api.contrastcyber.com) - Security intelligence API + MCP server with 33 cascade-aware tools: CVE+EPSS/KEV, MITRE CWE catalog, domain recon (DNS/WHOIS/SSL/subdomains), IP reputation, threat intel, IOC, OSINT (email/phone/username), code security. Free, no API key.
 - [Abuse.ch](https://abuse.ch/) - Fighting malware and botnets with various tracking projects.
 - [URLhaus](https://urlhaus.abuse.ch/) - Share malicious URLs that are being used for malware distribution.
 - [MalwareBazaar](https://bazaar.abuse.ch/) - Share malware samples for research purposes.
