@@ -42,6 +42,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [Leaked.domains](https://leaked.domains/) - Search for domain-related leaked credentials and data.
 - [WhiteIntel](https://whiteintel.io/) - Dark web data leak search engine for threat intelligence.
 - [PSBDMP](https://psbdmp.ws/) - Pastebin dump search and monitoring platform.
+- [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Covers multiple breach databases with both a web interface and an API.
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
