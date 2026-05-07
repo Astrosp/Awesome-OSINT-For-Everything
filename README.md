@@ -97,6 +97,7 @@ AI tools/Site
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 - [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
 - [CanIRun.ai](https://www.canirun.ai/) - AI tool to check system requirements and compatibility.
+- [InstaPV.ai](https://www.instapv.ai/) - AI-powered Instagram profile viewer and analytics tool.
 <br>
 
 [⇧ Top](#index)
@@ -278,6 +279,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [BOSINT](https://app.bosint.gg/) - All-in-one OSINT investigation platform.
 - [SkyOSINT](https://skyosint.io) - OSINT platform for intelligence gathering and analysis.
 - [DeadDrop](https://deaddrop.theosintconsultants.com/dashboard) - OSINT dashboard and investigation tool from The OSINT Consultants.
+- [30Tools](https://30tools.com/) - Collection of 30+ useful online tools for various OSINT and productivity tasks.
 <br>
 
 [⇧ Top](#index)
@@ -1062,6 +1064,7 @@ the number of views or likes.
 - [Botometer by OSoMe](https://botometer.osome.iu.edu/) - a centralized place to share annotated datasets of Twitter social bots. We also provide list of available tools on bot detection.
 - [FollowerAudit](https://www.followeraudit.com/) - Check fake followers and analyze the followers of any X (Twitter) account
 - [Twitter Bot Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-bot-checker) - Find Twitter bots and check your friends and followers' authenticity, and be safe!
+- [Sci-Bot](https://sci-bot.ru/) - Russian bot detection and analysis tool.
 <br>
 
 [⇧ Top](#index)
@@ -2183,6 +2186,8 @@ about police misconduct in Chicago
 - [WPScan](https://wpscan.com/) - WordPress security scanner.
 - [Retire.js](https://retirejs.github.io/retire.js/) - Scanner detecting use of JavaScript libraries with known vulnerabilities.
 - [Snyk](https://snyk.io/) - Developer security platform for finding and fixing vulnerabilities.
+- [CVE Integrate](https://cve.integrate.com.mo/) - CVE vulnerability database and integration platform.
+<br>
 
 ### Content Discovery & Fuzzing
 - [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
