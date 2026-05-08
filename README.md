@@ -946,6 +946,7 @@ the number of views or likes.
 - [yesitsme](https://github.com/blackeko/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [Toolzu Instagram Search](https://toolzu.com/search-instagram-profiles) - Search Instagram profiles by username or name.
 - [toutatis](https://github.com/megadose/toutatis) - Extract information from Instagram accounts such as e-mails, phone numbers and more.
+- [InstaPV](https://www.instapv.ai/) - Anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines. No login, no password, no trace.
 <br>
 
 [⇧ Top](#index)
