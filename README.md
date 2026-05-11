@@ -787,6 +787,7 @@ You are searching 121 billion records.
 - [Socialbearing](https://socialbearing.com/) - Insights & analytics for tweets & timelines
 - [SocialData API](https://socialdata.tools/) - SocialData is an unofficial Twitter API that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.
 - [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and management tool.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X (Twitter) API for tweet search, user lookup, follower/following extraction, media download, account monitoring, and webhooks. Paid API key required.
 - [TweeterID](https://tweeterid.com/) - Convert between Twitter ID and username.
 - [Botometer](https://botometer.osome.iu.edu/) - Check Twitter account for bot-like behavior.
 - [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
