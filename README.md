@@ -134,6 +134,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning.
 - [ivre](https://github.com/ivre/ivre) - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
 - [Findomain](https://github.com/Findomain/Findomain) - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
+- [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Python wrapper for a stealth-patched Firefox 150 binary. Drop-in Playwright replacement that returns a native Browser object. Anti-fingerprinting at the C++ source level so OSINT collectors do not get blocked by reCAPTCHA / Cloudflare / FingerprintPro.
 <br>
 
 [⇧ Top](#index)
