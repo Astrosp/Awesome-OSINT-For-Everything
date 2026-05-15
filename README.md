@@ -48,6 +48,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 Data Leak, scam, username, domain, social
 - [Lampyre](https://lampyre.io/) - Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.
 - [OffshoreLeaks](https://offshoreleaks.icij.org/) - find out who's behind offshore companies.
+- [WhatsMyName App](https://whatsmynameapp.us/tools/whatsmyname-app) - Free browser-based username search across 732 platforms. No install, no signup, real-time streaming results with direct profile links.
 - [WorldWide OSINT Map](http://cybdetective.com/osintmap/) - gather basic info around the world.
 - [WhatsMyName](https://whatsmyname.app/) - This tool allow to enumerate usernames across many websites.
 - [os-surveillance](https://os-surveillance.io/) - Gather real-time intelligence from Social media, Cameras, Internet of Things or Crimes and Amber Alerts
