@@ -1490,6 +1490,28 @@ Enter two images and the difference will show up below
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
 <br>
 
+### Proxy
+
+- [ProxyScrape](https://proxyscrape.com/) - Free proxy list and proxy scraper providing HTTP, HTTPS, SOCKS4, and SOCKS5 proxies for web scraping and anonymity.
+- [Free Proxy List](https://free-proxy-list.net/) - Updated list of free proxy servers with support for HTTP and HTTPS protocols, including country-specific filtering.
+- [HideMyName](https://hidemy.name/en/proxy-list/) - Free proxy list with advanced filtering options including country, port, protocol type, and anonymity level.
+- [GeoNode](https://geonode.com/free-proxy-list) - Free rotating proxy list with global coverage, supporting HTTP, HTTPS, and SOCKS5 protocols.
+- [ProxyNova](https://www.proxynova.com/proxy-server-list/) - Comprehensive proxy server list with real-time speed tests and detailed proxy information.
+- [SpyS.one](https://spys.one/en/) - One of the largest proxy databases with advanced search capabilities and detailed proxy specifications.
+- [SSL Proxies](https://www.sslproxies.org/) - Dedicated HTTPS/SSL proxy list for secure browsing and encrypted connections.
+- [SOCKS Proxy List](https://www.socks-proxy.net/) - Specialized list of SOCKS proxies (SOCKS4 and SOCKS5) for advanced proxy usage.
+- [Webshare](https://www.webshare.io/) - High-quality proxy service offering free and premium proxy servers with API access.
+- [ProxyCheck.io](https://proxycheck.io/) - Proxy detection API that identifies VPNs, proxies, and suspicious IP addresses.
+- [IPRoyal](https://iproyal.com/) - Residential and datacenter proxy provider with global coverage and rotating IP options.
+- [Bright Data (formerly Luminati)](https://brightdata.com/) - Enterprise-grade proxy network with residential, datacenter, and mobile IPs.
+- [Smartproxy](https://smartproxy.com/) - Residential proxy service with 40M+ IP pool covering 195+ locations worldwide.
+- [Oxylabs](https://oxylabs.io/) - Premium proxy provider offering residential, datacenter, and real-time crawler proxies.
+- [Proxy-List.download](https://www.proxy-list.download/) - Regularly updated proxy lists in multiple formats (txt, csv, json) for automated integration.
+- [FoxyProxy](https://getfoxyproxy.org/) - Browser extension for managing and switching between multiple proxy servers.
+- [Proxifier](https://www.proxifier.com/) - Desktop application to route network connections through proxy servers with advanced rules.
+- [ProxyCrawl](https://proxycrawl.com/) - Proxy API for web scraping that handles IP rotation and browser fingerprinting automatically.
+<br>
+
 [⇧ Top](#index)
 ## MALWARE
 
